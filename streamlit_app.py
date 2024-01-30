@@ -5,7 +5,7 @@ import os
 import calendar
 import matplotlib.pyplot as plt
 
-path = os.path.dirname(__file__)
+path = os.path.dirname(__file__) #Nécessaire pour retrouver les fichiers
 my_file = path+'/Données_Entrainement.csv'
 df = pd.read_csv(my_file)
 df['Durée_time_delta'] = df['Durée'].apply(lambda x: '0:' + x if len(x.split(':')) == 2 else x)
@@ -17,7 +17,12 @@ df['Date'] = pd.to_datetime(df['Date'])
 df['Month'] = df['Date'].dt.month
 df['Month'] = df['Month'].apply(lambda x: calendar.month_name[x])
 df['Year'] = df['Date'].dt.year
+#On applique les différentes modifications au dataframe avant d'afficher les graphes
 
+df_donnees_globales = pd.read_csv("Données_globales.csv")
+df_donnees_globales
+
+#Fonction pour afficher les différents graphes
 def display_graph(selected_graph):
     if selected_graph == 'Moyenne de Qualité de l\'Air par Région':
         mean_values = df.groupby('Région')['Qualité Air'].mean()
@@ -63,6 +68,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+#Ajout d'une barre latérale sur le Streamlit
 sidebar = st.sidebar
 
 selected_tab = sidebar.radio('Navigation', ['Accueil', 'Visualisations', 'PCA', 'PCA et performance au Tour de France'])
@@ -76,7 +82,7 @@ elif selected_tab == 'PCA':
     st.write("Nous voulons savoir si la qualité de l'air joue un rôle dans la performance d'un athlète. Pour cela, nous considérons qu'un athlète est performant si sa vitesse moyenne est élevée")
     st.write("Nous dessinons un graphe permettant de voir s'il y a une corrélation entre vitesse moyenne et qualité de l'air")
     file_air = path+'/Data/graphe_vitesse_air_quality.jpg'
-    image = Image.open(file_air)
+    image = Image.open(file_air) #Affichage du graphe de corrélatione en tant qu'image
     st.image(image)
     st.write("Il ne semble pas y avoir de corrélation. Nous allons utiliser une Analyse en composantes principales")
 
@@ -94,6 +100,7 @@ elif selected_tab == 'PCA':
     'Qualité Air': [0.026947],
     'Month': [-0.075195]
     }
+    #Les données dans les dictionnaires data ont été récupérées via le calcul des PCA sous le notebook : analyse_donnees.ipynb
 
     df_table_1 = pd.DataFrame(data)
     st.table(df_table_1.iloc[:, df_table_1.iloc[0].argsort()])
@@ -123,7 +130,7 @@ elif selected_tab == 'PCA et performance au Tour de France':
     st.write("Nous voulons savoir si la qualité de l'air joue un rôle dans la performance au Tour de France d'un athlète. Pour cela, nous considérons qu'un athlète est performant si son temps est rapproché par rapport au premier du Tour de France")
 
     st.write("Nous utilisons un calcul de PCA. Nous allons prendre en compte ces variables : Distance cumulée des entraînements, Durée de l'activité, Dénivelé cumulé, Vitesse moyenne, Vitesse maximum de toutes les activités, Température réelles et ressenties et Humidité moyenne, Vitesse moyenne du vent, Qualité de l'air pondérée")
-    st.write("En nous intéressant uniquement à la première Composante Principale expliquant 40% de la variance, nous voyons que les variables Distance, Durée, Dénivelé et Humidité participent le plus à la vitesse moyenne, ce qui semble logique")
+    st.write("En nous intéressant uniquement à la première Composante Principale expliquant 40% de la variance, nous voyons que les variables Distance, Durée, Dénivelé et Humidité participent le plus à la performance, ce qui semble logique")
 
     data_3 = {
     'Dénivelé': [0.471336],
