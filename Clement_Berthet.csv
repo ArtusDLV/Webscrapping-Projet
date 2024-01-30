@@ -1,0 +1,475 @@
+,Athlète,Date,Région,Département,Distance,Durée,Dénivelé,Puissance moyenne,Effort,Charge entraînement,Intensité,Vitesse moyenne,Vitesse max,Météo,Température,Humidité,Température ressentie,Vitesse vent,Direction vent
+0,Clément Berthet,2023-01-31,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,88.86,3:02:39,1368,230,2210,84,52,29.2,61.7,Dégagé,11,58,11,9.8,NE
+1,Clément Berthet,2023-01-30,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,58.36,1:56:12,707,230,1453,53,52,30.1,62.1,Quelques nuages,10,47,10,4.7,SSE
+2,Clément Berthet,2023-01-22,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,41.84,1:24:58,494,195,891,29,44,29.6,56.0,Quelques nuages,8,25,7,7.7,NNE
+3,Clément Berthet,2023-01-21,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,119.85,4:03:10,1764,232,3027,112,52,29.6,60.0,Quelques nuages,8,23,8,5.5,SSE
+4,Clément Berthet,2023-01-20,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,139.97,4:52:47,2712,279,3928,203,63,28.7,72.4,Quelques nuages,7,46,5,10.9,NW
+5,Clément Berthet,2023-01-18,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,170.96,5:49:48,2713,261,4500,211,59,29.3,65.8,Dégagé,7,57,3,21.6,W
+6,Clément Berthet,2023-01-17,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,91.95,3:09:35,1446,246,2447,100,56,29.1,71.7,Nuages,11,66,11,23.8,WSW
+7,Clément Berthet,2023-01-16,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,120.31,4:03:50,2145,280,3249,172,63,29.6,65.4,Pluie,9,74,6,21.2,W
+8,Clément Berthet,2023-01-15,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,125.69,4:01:52,1714,245,3160,129,55,31.2,67.9,Nuages,10,75,9,7.5,NW
+9,Clément Berthet,2023-01-14,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,57.8,1:54:59,580,188,1155,37,43,30.2,55.5,Quelques nuages,7,70,5,8.1,NNW
+10,Clément Berthet,2023-01-13,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,144.31,5:01:24,2995,262,3996,180,59,28.7,73.6,Nuages,11,57,11,11.1,W
+11,Clément Berthet,2023-01-12,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,101.62,3:31:47,1677,250,2673,119,57,28.8,68.7,Nuages,14,55,14,5.3,SSW
+12,Clément Berthet,2023-01-11,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,126.93,4:10:57,2019,275,3384,165,62,30.3,66.4,Quelques nuages,10,49,10,6.6,N
+13,Clément Berthet,2023-01-11,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,29.11,59:00,307,199,657,21,45,29.6,52.3,Quelques nuages,8,51,6,9.8,NNW
+14,Clément Berthet,2023-01-10,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,117.2,3:58:32,2165,278,3347,163,63,29.5,82.0,Dégagé,10,49,10,12.4,NW
+15,Clément Berthet,2023-01-06,Bourgogne-Franche-Comté,Doubs,65.79,1:58:00,538,221,1474,52,50,33.5,64.9,Nuages,10,94,10,6.0,WSW
+16,Clément Berthet,2023-01-05,Bourgogne-Franche-Comté,Doubs,149.42,5:00:12,2724,268,4068,187,61,29.9,74.5,Pluie,10,99,8,13.9,SW
+17,Clément Berthet,2023-01-04,Bourgogne-Franche-Comté,Doubs,142.51,4:40:31,2314,252,3765,158,57,30.5,66.2,Nuages,6,91,3,11.5,SSW
+18,Clément Berthet,2023-01-03,Bourgogne-Franche-Comté,Doubs,41.13,1:30:43,742,212,1023,34,48,27.2,60.9,Nuages,6,100,6,3.0,S
+19,Clément Berthet,2023-01-02,Bourgogne-Franche-Comté,Doubs,92.32,2:55:53,978,253,2394,98,57,31.5,67.6,Vent,12,67,12,22.5,SSW
+20,Clément Berthet,2023-01-01,Bourgogne-Franche-Comté,Doubs,118.07,4:04:25,1823,229,3084,110,52,29.0,61.7,Quelques nuages,13,69,13,18.7,SSW
+21,Clément Berthet,2023-02-28,Bourgogne-Franche-Comté,Doubs,87.14,3:05:36,1279,227,2326,85,51,28.2,66.1,Nuages,1,63,3,13.8,NE
+22,Clément Berthet,2023-02-15,Bourgogne-Franche-Comté,Doubs,92.0,3:01:35,1533,278,2499,123,63,30.4,63.7,Dégagé,10,57,10,3.1,NW
+23,Clément Berthet,2023-02-14,Bourgogne-Franche-Comté,Doubs,133.94,3:58:15,1443,264,3294,146,60,33.7,67.5,Dégagé,9,60,9,3.9,N
+24,Clément Berthet,2023-02-13,Bourgogne-Franche-Comté,Doubs,30.34,1:10:58,466,189,732,21,43,25.7,55.0,Dégagé,11,56,11,2.4,WNW
+25,Clément Berthet,2023-02-12,Bourgogne-Franche-Comté,Doubs,127.67,4:28:04,1996,230,3307,125,52,28.6,65.8,Dégagé,4,73,4,3.6,ENE
+26,Clément Berthet,2023-02-11,Bourgogne-Franche-Comté,Doubs,106.22,3:26:08,1803,283,2802,145,64,30.9,60.2,Quelques nuages,2,66,2,3.6,NE
+27,Clément Berthet,2023-02-10,Bourgogne-Franche-Comté,Doubs,92.88,3:00:17,1591,260,2458,106,59,30.9,65.7,Quelques nuages,4,60,3,6.9,N
+28,Clément Berthet,2023-02-08,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,149.33,5:13:35,3033,261,4033,189,59,28.6,70.8,Dégagé,7,40,4,18.0,NE
+29,Clément Berthet,2023-02-07,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,98.72,3:26:14,2000,286,2755,153,65,28.7,70.4,Quelques nuages,8,50,4,27.1,ENE
+30,Clément Berthet,2023-02-06,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,36.4,1:30:05,564,188,873,28,43,24.2,65.0,Dégagé,10,62,10,26.2,ENE
+31,Clément Berthet,2023-02-05,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,164.87,5:23:17,2530,269,4488,209,61,30.6,63.8,Dégagé,12,72,12,10.9,WSW
+32,Clément Berthet,2023-02-04,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,103.73,3:32:59,1423,249,2647,121,56,29.2,61.2,Quelques nuages,9,75,8,7.5,N
+33,Clément Berthet,2023-02-03,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,44.06,1:32:07,372,203,973,34,46,28.7,58.6,Dégagé,14,49,14,8.1,SSE
+34,Clément Berthet,2023-02-02,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,104.34,3:42:57,2048,265,2825,139,60,28.1,67.1,Dégagé,12,63,12,6.8,N
+35,Clément Berthet,2023-02-01,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,92.5,3:23:04,1794,237,2486,103,54,27.3,61.8,Quelques nuages,9,58,8,11.0,NNE
+36,Clément Berthet,2023-03-31,Bourgogne-Franche-Comté,Doubs,101.91,3:28:34,1759,244,2800,107,55,29.3,67.6,Pluie,12,74,11,26.1,SW
+37,Clément Berthet,2023-03-18,Bourgogne-Franche-Comté,Doubs,65.45,2:04:00,1008,276,1659,80,62,31.7,68.7,Nuages,16,49,16,11.8,SW
+38,Clément Berthet,2023-03-17,Bourgogne-Franche-Comté,Doubs,77.51,2:27:19,1294,290,2093,108,66,31.6,65.0,Nuages,14,56,14,10.3,SW
+39,Clément Berthet,2023-03-16,Bourgogne-Franche-Comté,Doubs,139.49,4:38:02,2235,258,3880,159,58,30.1,70.4,Quelques nuages,8,67,8,3.4,ESE
+40,Clément Berthet,2023-03-15,Bourgogne-Franche-Comté,Doubs,83.07,2:45:42,1118,254,2254,90,57,30.1,66.6,Quelques nuages,7,62,5,9.2,W
+41,Clément Berthet,2023-03-13,Bourgogne-Franche-Comté,Doubs,43.94,1:31:42,726,243,1188,47,55,28.8,68.2,Nuages,18,57,18,25.0,SW
+42,Clément Berthet,2023-03-12,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,127.55,3:16:27,2305,324,3148,175,73,39.0,84.7,Dégagé,19,43,19,7.6,S
+43,Clément Berthet,2023-03-11,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,152.77,4:19:04,3382,305,4120,205,69,35.4,92.0,Quelques nuages,19,51,19,14.9,WSW
+44,Clément Berthet,2023-03-10,Provence-Alpes-Côte d'Azur,Var,3.71,11:16,46,88,39,0,20,19.8,40.5,Vent,14,57,14,33.2,WNW
+45,Clément Berthet,2023-03-09,Auvergne-Rhône-Alpes,Ain,218.95,5:29:58,1975,241,3598,166,55,39.8,86.3,Nuages,13,56,13,9.8,SW
+46,Clément Berthet,2023-03-08,Auvergne-Rhône-Alpes,Ain,168.94,4:10:59,2532,294,3556,186,67,40.4,83.0,Nuages,12,79,12,29.2,SW
+47,Clément Berthet,2023-03-07,Auvergne-Rhône-Alpes,Loire,32.1,35:22,162,387,813,45,88,54.5,70.3,Nuages,8,57,5,15.7,SW
+48,Clément Berthet,2023-03-07,Auvergne-Rhône-Alpes,Loire,0.07,2:43,0,298,49,11,67,1.6,1.8,Nuages,7,61,4,16.2,SW
+49,Clément Berthet,2023-03-07,Auvergne-Rhône-Alpes,Loire,32.92,49:28,155,194,526,16,44,39.9,60.9,Nuages,6,66,3,17.3,SW
+50,Clément Berthet,2023-03-06,Auvergne-Rhône-Alpes,Ain,167.24,3:37:50,916,229,2267,98,52,46.1,84.1,Nuages,6,68,3,12.8,NW
+51,Clément Berthet,2023-03-05,Île-de-France,Yvelines,177.41,4:04:47,1551,276,3236,159,62,43.5,84.8,Quelques nuages,6,62,6,3.7,NW
+52,Clément Berthet,2023-03-04,Île-de-France,Yvelines,47.53,1:28:32,417,216,932,35,49,32.2,63.5,Quelques nuages,2,79,1,10.7,NNE
+53,Clément Berthet,2023-03-03,Auvergne-Rhône-Alpes,Loire,102.13,2:27:13,461,252,1546,84,57,41.6,64.4,Quelques nuages,3,77,0,9.5,N
+54,Clément Berthet,2023-03-02,Bourgogne-Franche-Comté,Doubs,71.51,2:28:10,1262,302,2105,117,68,29.0,66.9,Dégagé,4,69,4,4.2,SSE
+55,Clément Berthet,2023-03-01,Bourgogne-Franche-Comté,Doubs,125.17,4:11:34,2137,264,3569,156,60,29.9,64.2,Quelques nuages,4,66,0,16.6,NE
+56,Clément Berthet,2023-04-28,Auvergne-Rhône-Alpes,Ain,18.57,26:53,378,370,581,31,84,41.5,92.3,Nuages,18,62,18,6.0,SW
+57,Clément Berthet,2023-04-28,Auvergne-Rhône-Alpes,Ain,0.06,5:23,0,260,75,11,59,0.7,2.7,Nuages,18,62,18,6.0,SW
+58,Clément Berthet,2023-04-28,Auvergne-Rhône-Alpes,Ain,20.94,40:55,424,246,530,21,56,30.7,83.6,Nuages,16,63,15,6.3,SW
+59,Clément Berthet,2023-04-18,Grand Est,Vosges,85.1,3:30:50,2668,265,3143,130,60,24.2,63.5,Nuages,9,69,7,11.9,ENE
+60,Clément Berthet,2023-04-17,Bourgogne-Franche-Comté,Doubs,29.8,53:54,357,218,663,21,49,33.2,58.2,Quelques nuages,14,61,13,16.3,NE
+61,Clément Berthet,2023-04-16,Bourgogne-Franche-Comté,Doubs,6.02,8:46,5,169,70,2,38,41.2,58.3,Brouillard,6,81,4,8.4,NNW
+62,Clément Berthet,2023-04-15,Auvergne-Rhône-Alpes,Ain,8.72,13:45,24,177,103,3,40,38.1,65.9,Pluie,7,82,5,12.8,W
+63,Clément Berthet,2023-04-13,Bourgogne-Franche-Comté,Doubs,46.13,1:28:47,589,238,1201,43,54,31.2,63.0,Pluie,5,69,2,13.2,WNW
+64,Clément Berthet,2023-04-12,Bourgogne-Franche-Comté,Doubs,52.73,1:50:08,707,283,1583,76,64,28.7,59.1,Nuages,10,75,9,19.2,SSW
+65,Clément Berthet,2023-04-11,Bourgogne-Franche-Comté,Doubs,115.41,3:35:06,1649,277,3110,144,63,32.2,63.1,Nuages,9,79,7,12.1,W
+66,Clément Berthet,2023-04-09,Bourgogne-Franche-Comté,Jura,157.38,5:03:34,2125,242,4063,157,55,31.1,70.9,Dégagé,4,72,3,6.5,E
+67,Clément Berthet,2023-04-08,Bourgogne-Franche-Comté,Jura,121.59,3:58:35,2327,290,3558,179,66,30.6,73.9,Dégagé,5,70,3,10.0,NE
+68,Clément Berthet,2023-04-07,Bourgogne-Franche-Comté,Doubs,30.14,55:55,367,204,633,20,46,32.3,61.0,Pluie,8,81,7,7.8,WNW
+69,Clément Berthet,2023-04-06,Bourgogne-Franche-Comté,Doubs,165.85,5:30:22,2817,277,4597,224,63,30.1,66.9,Nuages,6,61,5,3.7,SSW
+70,Clément Berthet,2023-04-05,Bourgogne-Franche-Comté,Doubs,115.58,3:03:10,632,266,2562,116,60,37.9,64.1,Dégagé,4,60,2,7.3,NE
+71,Clément Berthet,2023-04-04,Bourgogne-Franche-Comté,Doubs,145.39,5:03:40,2829,250,4115,167,57,28.7,76.0,Dégagé,6,50,2,19.8,NE
+72,Clément Berthet,2023-04-03,Bourgogne-Franche-Comté,Doubs,108.16,3:29:46,1767,275,3095,135,62,30.9,67.3,Nuages,4,86,1,12.9,NE
+73,Clément Berthet,2023-04-01,Bourgogne-Franche-Comté,Doubs,65.5,2:15:59,1215,254,1824,74,57,28.9,67.4,Pluie,8,83,5,21.8,SW
+74,Clément Berthet,2023-06-27,Bourgogne-Franche-Comté,Doubs,61.82,2:03:39,810,238,1558,60,54,30.0,67.8,Quelques nuages,20,57,19,7.3,NNW
+75,Clément Berthet,2023-06-26,Bourgogne-Franche-Comté,Doubs,45.49,1:36:03,457,201,1048,33,45,28.4,66.9,Dégagé,20,70,21,9.3,WNW
+76,Clément Berthet,2023-06-23,Hauts-de-France,Nord,34.48,1:05:07,274,200,682,23,45,31.8,56.1,Quelques nuages,20,77,20,5.8,SSW
+77,Clément Berthet,2023-06-22,Hauts-de-France,Nord,31.22,42:47,333,383,985,58,87,43.8,68.5,Nuages,23,62,23,14.1,NNW
+78,Clément Berthet,2023-06-22,Hauts-de-France,Nord,0.03,28s,0,270,0,14,61,4.0,2.2,Nuages,23,62,23,13.7,N
+79,Clément Berthet,2023-06-20,Hauts-de-France,Pas-de-Calais,38.55,1:12:09,365,208,807,26,47,32.1,66.9,Nuages,24,74,25,14.0,SW
+80,Clément Berthet,2023-06-19,Bourgogne-Franche-Comté,Doubs,43.38,1:32:16,581,214,1078,36,48,28.2,69.2,Quelques nuages,26,50,26,5.3,WSW
+81,Clément Berthet,2023-06-09,Bourgogne-Franche-Comté,Doubs,95.91,3:03:04,1611,278,2558,123,63,31.4,72.3,Quelques nuages,22,62,22,4.5,NNE
+82,Clément Berthet,2023-06-07,Bourgogne-Franche-Comté,Doubs,79.27,2:11:27,864,279,1825,88,63,36.2,74.2,Dégagé,25,41,24,9.4,NE
+83,Clément Berthet,2023-06-05,Bourgogne-Franche-Comté,Doubs,70.64,2:03:47,874,223,1531,52,50,34.2,69.8,Dégagé,17,68,17,3.4,NE
+84,Clément Berthet,2023-06-04,Bourgogne-Franche-Comté,Doubs,96.91,3:00:26,1613,301,2713,141,68,32.2,66.0,Dégagé,22,66,22,3.8,N
+85,Clément Berthet,2023-06-03,Bourgogne-Franche-Comté,Doubs,97.04,3:00:26,1417,263,2481,109,60,32.3,67.5,Dégagé,19,66,18,2.9,NNW
+86,Clément Berthet,2023-06-02,Bourgogne-Franche-Comté,Doubs,74.85,2:31:35,1001,235,1943,75,53,29.6,68.0,Dégagé,23,50,23,14.2,NNE
+87,Clément Berthet,2023-07-29,Auvergne-Rhône-Alpes,Ain,232.16,5:48:15,3843,305,5389,276,69,40.0,91.6,Dégagé,22,75,23,2.0,WNW
+88,Clément Berthet,2023-07-27,Bourgogne-Franche-Comté,Côte-d'Or,74.81,1:41:54,120,263,1391,60,60,44.1,60.7,Dégagé,27,46,27,15.1,WSW
+89,Clément Berthet,2023-07-27,Bourgogne-Franche-Comté,Côte-d'Or,1.57,2:16,2,317,42,2,72,41.7,56.1,Dégagé,27,46,27,15.1,WSW
+90,Clément Berthet,2023-07-27,Bourgogne-Franche-Comté,Doubs,43.81,1:35:10,765,234,1159,46,53,27.6,59.9,Nuages,17,70,17,12.2,SW
+91,Clément Berthet,2023-07-26,Bourgogne-Franche-Comté,Doubs,90.38,3:00:40,1353,236,2286,90,53,30.0,64.2,Quelques nuages,17,67,17,10.9,WSW
+92,Clément Berthet,2023-07-23,Île-de-France,Yvelines,115.9,3:03:39,610,248,1827,96,56,37.9,73.5,Nuages,22,72,22,20.1,SW
+93,Clément Berthet,2023-07-21,Bourgogne-Franche-Comté,Jura,180.08,4:02:56,2079,286,3170,170,65,44.5,88.4,Quelques nuages,22,60,21,9.0,WNW
+94,Clément Berthet,2023-07-20,Auvergne-Rhône-Alpes,Savoie,198.39,4:38:51,1206,231,2939,127,52,42.7,76.2,Dégagé,25,43,25,7.5,NW
+95,Clément Berthet,2023-07-19,Auvergne-Rhône-Alpes,Ain,167.77,5:37:26,5268,295,5218,251,67,29.8,94.9,Dégagé,24,52,24,7.2,WSW
+96,Clément Berthet,2023-07-18,Auvergne-Rhône-Alpes,Savoie,6.58,17:21,151,175,161,4,40,22.8,40.3,Nuages,28,43,28,6.9,SSW
+97,Clément Berthet,2023-07-18,Auvergne-Rhône-Alpes,Savoie,21.99,39:42,606,351,802,41,79,33.2,74.9,Nuages,32,34,32,9.6,WSW
+98,Clément Berthet,2023-07-18,Auvergne-Rhône-Alpes,Savoie,0.07,1:14,0,241,17,9,55,3.8,2.8,Quelques nuages,32,36,32,9.8,SW
+99,Clément Berthet,2023-07-18,Auvergne-Rhône-Alpes,Savoie,22.61,51:26,636,262,722,29,59,26.4,67.8,Dégagé,24,50,24,5.6,SSE
+100,Clément Berthet,2023-07-17,Auvergne-Rhône-Alpes,Savoie,41.34,1:30:33,662,187,732,27,42,27.4,71.0,Quelques nuages,21,60,21,5.0,WSW
+101,Clément Berthet,2023-07-16,Auvergne-Rhône-Alpes,Ain,9.08,16:18,5,23,8,0,5,33.4,59.0,Dégagé,22,47,21,6.5,W
+102,Clément Berthet,2023-07-16,Auvergne-Rhône-Alpes,Savoie,189.79,5:20:25,4244,306,4817,256,69,35.5,89.2,Quelques nuages,21,62,21,7.0,WNW
+103,Clément Berthet,2023-07-15,Auvergne-Rhône-Alpes,Savoie,159.28,4:43:51,4210,313,4624,240,71,33.7,105.1,Quelques nuages,29,44,30,11.9,SW
+104,Clément Berthet,2023-07-14,Auvergne-Rhône-Alpes,Ain,14.88,27:39,10,78,51,1,18,32.3,63.4,Dégagé,24,50,24,10.2,SSW
+105,Clément Berthet,2023-07-14,Auvergne-Rhône-Alpes,Ain,141.78,3:34:52,2414,301,3323,165,68,39.6,87.1,Quelques nuages,27,44,27,10.3,S
+106,Clément Berthet,2023-07-13,Auvergne-Rhône-Alpes,Loire,178.48,4:17:53,3105,314,3887,216,71,41.5,88.3,Dégagé,23,49,23,9.9,NNW
+107,Clément Berthet,2023-07-13,Auvergne-Rhône-Alpes,Loire,178.48,4:17:53,3090,314,3887,216,71,41.5,88.3,Dégagé,23,49,23,9.9,NNW
+108,Clément Berthet,2023-07-12,Auvergne-Rhône-Alpes,Puy-de-Dôme,189.68,4:21:43,1859,244,2897,133,55,43.5,88.7,Nuages,24,62,24,4.7,NNE
+109,Clément Berthet,2023-07-11,Auvergne-Rhône-Alpes,Puy-de-Dôme,174.74,4:08:40,2949,312,3633,207,71,42.2,91.0,Quelques nuages,29,56,31,4.2,SSE
+110,Clément Berthet,2023-07-10,Auvergne-Rhône-Alpes,Puy-de-Dôme,44.64,1:15:22,81,197,796,25,45,35.5,48.1,Quelques nuages,22,76,23,4.5,E
+111,Clément Berthet,2023-07-09,Auvergne-Rhône-Alpes,Ain,186.28,4:30:52,3552,327,4780,247,74,41.3,89.2,Dégagé,27,62,29,10.7,SW
+112,Clément Berthet,2023-07-08,Nouvelle-Aquitaine,Gironde,205.08,4:24:52,1957,262,3307,155,59,46.5,88.7,Dégagé,29,57,31,9.2,S
+113,Clément Berthet,2023-07-07,Nouvelle-Aquitaine,Gironde,5.69,14:01,4,105,71,1,24,24.4,38.1,Quelques nuages,33,43,34,16.3,SSE
+114,Clément Berthet,2023-07-07,Nouvelle-Aquitaine,Landes,173.67,3:54:02,646,215,2270,93,49,44.5,80.2,Dégagé,29,60,31,12.9,ESE
+115,Clément Berthet,2023-07-06,Occitanie,Hautes-Pyrénées,6.09,10:16,7,77,17,0,17,35.6,61.6,Nuages,17,60,17,4.1,ENE
+116,Clément Berthet,2023-07-06,Occitanie,Hautes-Pyrénées,151.82,4:31:09,3772,296,4049,202,67,33.6,83.9,Nuages,24,64,25,8.1,ENE
+117,Clément Berthet,2023-07-05,Nouvelle-Aquitaine,Pyrénées-Atlantiques,170.81,4:18:35,3389,339,4542,254,77,39.6,97.9,Nuages,23,64,23,4.8,NW
+118,Clément Berthet,2023-07-04,Nouvelle-Aquitaine,Landes,186.27,4:34:09,1459,207,2470,101,47,40.8,81.3,Nuages,24,67,25,8.4,W
+119,Clément Berthet,2023-08-30,Bourgogne-Franche-Comté,Doubs,92.32,3:02:49,1296,235,2369,88,53,30.3,67.3,Quelques nuages,14,86,14,4.6,SW
+120,Clément Berthet,2023-08-29,Bourgogne-Franche-Comté,Doubs,85.87,2:54:29,1584,249,2411,94,56,29.5,74.1,Nuages,12,91,12,2.1,NNW
+121,Clément Berthet,2023-08-28,Bourgogne-Franche-Comté,Doubs,90.35,3:00:08,1253,237,2330,88,54,30.1,71.2,Nuages,13,86,12,4.4,N
+122,Clément Berthet,2023-08-27,Bourgogne-Franche-Comté,Doubs,60.27,1:59:44,1011,71,42,5,16,30.2,65.3,Nuages,17,81,17,8.5,WNW
+123,Clément Berthet,2023-08-26,Bourgogne-Franche-Comté,Doubs,59.03,2:02:00,870,241,1573,61,55,29.0,67.8,Nuages,16,85,16,6.8,WSW
+124,Clément Berthet,2023-08-24,Bourgogne-Franche-Comté,Doubs,56.62,1:46:20,504,231,1409,52,52,32.0,58.8,Dégagé,27,57,27,3.0,S
+125,Clément Berthet,2023-08-10,Bourgogne-Franche-Comté,Doubs,128.82,4:30:17,2851,263,3627,163,60,28.6,71.4,Dégagé,20,70,21,7.4,ENE
+126,Clément Berthet,2023-08-09,Bourgogne-Franche-Comté,Doubs,87.83,2:27:31,872,267,1967,89,60,35.7,68.0,Nuages,23,52,23,12.6,W
+127,Clément Berthet,2023-08-07,Bourgogne-Franche-Comté,Doubs,94.83,3:01:48,1360,248,2486,95,56,31.3,61.7,Quelques nuages,14,75,14,10.1,W
+128,Clément Berthet,2023-08-04,Auvergne-Rhône-Alpes,Ain,65.12,1:31:44,6,248,1282,48,56,42.6,59.5,Quelques nuages,21,64,21,15.7,NW
+129,Clément Berthet,2023-09-25,Bourgogne-Franche-Comté,Doubs,85.89,2:38:59,1160,285,2321,110,64,32.4,75.1,Dégagé,14,69,13,1.8,SSE
+130,Clément Berthet,2023-09-24,Bourgogne-Franche-Comté,Doubs,138.52,4:35:34,2672,252,3706,155,57,30.2,73.2,Dégagé,15,68,15,11.3,NE
+131,Clément Berthet,2023-09-23,Bourgogne-Franche-Comté,Doubs,102.34,3:09:19,1769,315,2930,160,71,32.4,66.2,Dégagé,12,81,11,8.0,SW
+132,Clément Berthet,2023-09-21,Bourgogne-Franche-Comté,Doubs,127.98,4:03:44,1860,246,3200,129,56,31.5,65.3,Nuages,19,67,19,10.9,SSW
+133,Clément Berthet,2023-09-20,Bourgogne-Franche-Comté,Haute-Saône,208.06,7:05:27,4402,260,5897,254,59,29.3,87.3,Dégagé,17,70,17,2.9,E
+134,Clément Berthet,2023-09-19,Bourgogne-Franche-Comté,Doubs,128.41,4:00:09,2150,284,3409,166,64,32.1,68.5,Nuages,16,86,16,12.9,SW
+135,Clément Berthet,2023-09-16,Bourgogne-Franche-Comté,Jura,98.58,3:30:33,2294,287,2833,151,65,28.1,68.1,Nuages,20,68,20,8.2,S
+136,Clément Berthet,2023-09-15,Auvergne-Rhône-Alpes,Ain,23.53,45:58,189,224,565,23,51,30.7,56.7,Dégagé,23,63,23,3.6,SSE
+137,Clément Berthet,2023-09-14,Auvergne-Rhône-Alpes,Ain,97.13,3:00:24,1781,272,2581,115,62,32.3,72.6,Nuages,19,63,19,8.5,NE
+138,Clément Berthet,2023-09-13,Bourgogne-Franche-Comté,Doubs,149.83,4:53:59,2116,231,3745,138,52,30.6,68.5,Pluie,17,92,18,3.9,WSW
+139,Clément Berthet,2023-09-12,Bourgogne-Franche-Comté,Doubs,100.23,3:15:58,1816,281,2779,136,64,30.7,76.3,Nuages,27,36,26,14.6,SW
+140,Clément Berthet,2023-09-11,Bourgogne-Franche-Comté,Doubs,28.33,58:56,398,221,707,24,50,28.8,74.2,Dégagé,16,82,16,5.4,SE
+141,Clément Berthet,2023-09-10,Bourgogne-Franche-Comté,Doubs,156.35,4:59:55,2334,239,3926,152,54,31.3,66.9,Dégagé,20,73,20,4.8,SSE
+142,Clément Berthet,2023-09-09,Bourgogne-Franche-Comté,Doubs,80.94,2:50:56,1413,267,2123,110,60,28.4,62.7,Dégagé,23,63,23,6.0,SW
+143,Clément Berthet,2023-09-08,Bourgogne-Franche-Comté,Doubs,92.5,2:54:20,1431,282,2447,122,64,31.8,68.0,Dégagé,29,46,29,5.6,WNW
+144,Clément Berthet,2023-09-06,Auvergne-Rhône-Alpes,Ain,153.21,5:00:25,3087,271,4366,192,61,30.6,71.6,Dégagé,18,75,18,2.8,SE
+145,Clément Berthet,2023-09-05,Auvergne-Rhône-Alpes,Ain,131.82,4:39:48,3064,257,3808,165,58,28.3,73.3,Quelques nuages,20,61,20,4.1,ESE
+146,Clément Berthet,2023-09-04,Bourgogne-Franche-Comté,Jura,135.84,4:44:07,2776,242,3639,147,55,28.7,67.7,Nuages,21,61,21,5.4,ESE
+147,Clément Berthet,2023-09-03,Bourgogne-Franche-Comté,Doubs,30.22,1:01:46,386,222,778,25,50,29.4,58.0,Nuages,14,81,14,7.2,ESE
+148,Clément Berthet,2023-09-02,Bourgogne-Franche-Comté,Doubs,125.24,4:00:09,2107,262,3388,141,59,31.3,67.8,Dégagé,20,66,20,4.0,ENE
+149,Clément Berthet,2023-09-01,Bourgogne-Franche-Comté,Doubs,92.17,2:57:18,1404,244,2385,91,55,31.2,65.8,Quelques nuages,19,73,19,13.9,WSW
+150,Clément Berthet,2023-10-31,Bourgogne-Franche-Comté,Doubs,35.49,1:48:17,760,221,1221,47,50,19.7,48.8,Pluie,12,87,11,20.8,SW
+151,Clément Berthet,2023-10-30,Bourgogne-Franche-Comté,Doubs,29.37,1:49:45,830,214,1212,45,48,16.1,45.0,Pluie,16,74,16,4.0,SSE
+152,Clément Berthet,2023-11-26,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,40.49,1:26:41,857,296,1247,64,67,28.0,64.6,Dégagé,4,62,2,9.1,NNW
+153,Clément Berthet,2023-11-25,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,150.65,5:06:58,2531,235,4034,147,53,29.4,68.2,Quelques nuages,8,68,7,6.0,WNW
+154,Clément Berthet,2023-11-24,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,59.25,2:05:35,1006,236,1580,62,53,28.3,68.1,Dégagé,15,51,14,8.3,E
+155,Clément Berthet,2023-11-23,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,143.5,5:02:41,2933,255,4135,173,58,28.4,70.6,Dégagé,13,51,12,4.9,NW
+156,Clément Berthet,2023-11-22,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,89.98,3:00:58,1157,251,2418,101,57,29.8,70.8,Dégagé,9,58,8,7.7,NNW
+157,Clément Berthet,2023-11-21,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,124.65,4:09:13,1455,231,3181,116,52,30.0,80.4,Nuages,15,75,14,4.8,WSW
+158,Clément Berthet,2023-11-20,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,33.12,1:07:45,370,200,760,25,45,29.3,54.2,Dégagé,13,76,12,2.1,ENE
+159,Clément Berthet,2023-11-19,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,61.01,2:07:43,1115,290,1634,95,66,28.7,67.1,Dégagé,17,63,16,6.7,SSE
+160,Clément Berthet,2023-11-18,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,152.27,5:00:20,2300,253,4212,169,57,30.4,67.2,Dégagé,12,61,12,3.8,NW
+161,Clément Berthet,2023-11-17,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,119.34,4:16:54,2213,242,3365,135,55,27.9,72.2,Dégagé,15,51,14,9.3,WNW
+162,Clément Berthet,2023-11-16,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,118.48,4:00:35,1948,249,3331,132,56,29.5,71.6,Nuages,13,57,12,3.8,NNW
+163,Clément Berthet,2023-11-15,Bourgogne-Franche-Comté,Doubs,57.59,1:51:37,633,231,1497,51,52,31.0,61.7,Nuages,9,89,7,15.4,WSW
+164,Clément Berthet,2023-11-13,Auvergne-Rhône-Alpes,Savoie,35.63,1:12:31,225,238,944,36,54,29.5,56.0,Nuages,15,83,15,5.5,SE
+165,Clément Berthet,2023-11-11,Bourgogne-Franche-Comté,Doubs,46.35,2:22:16,1143,249,1738,78,56,19.5,54.5,Nuages,5,94,2,14.5,SW
+166,Clément Berthet,2023-11-09,Bourgogne-Franche-Comté,Doubs,36.99,1:58:35,845,229,1359,57,52,18.7,54.5,Pluie,9,85,6,19.9,SW
+167,Clément Berthet,2023-11-08,Bourgogne-Franche-Comté,Doubs,54.78,3:06:07,1247,218,2095,77,49,17.7,58.2,Quelques nuages,8,82,6,9.2,SSW
+168,Clément Berthet,2023-11-07,Bourgogne-Franche-Comté,Doubs,42.9,2:05:20,1022,249,1601,68,56,20.5,49.9,Nuages,9,79,7,15.7,SW
+169,Clément Berthet,2023-11-06,Bourgogne-Franche-Comté,Doubs,53.81,2:31:01,927,226,1838,68,51,21.4,54.4,Nuages,10,81,10,22.7,SW
+170,Clément Berthet,2023-12-31,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,92.56,2:59:50,1369,255,2467,103,58,30.9,71.2,Nuages,11,86,10,5.4,NNE
+171,Clément Berthet,2023-12-30,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,123.69,4:22:51,2696,275,3724,176,62,28.2,71.3,Quelques nuages,9,75,7,8.0,NNE
+172,Clément Berthet,2023-12-29,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,108.5,3:30:26,1577,271,2935,134,61,30.9,65.3,Nuages,9,72,9,3.8,W
+173,Clément Berthet,2023-12-27,Bourgogne-Franche-Comté,Doubs,116.74,3:53:00,1575,236,3125,111,53,30.1,66.0,Nuages,4,66,3,4.2,SSE
+174,Clément Berthet,2023-12-26,Bourgogne-Franche-Comté,Doubs,55.25,1:33:07,557,270,1418,61,61,35.6,70.1,Quelques nuages,9,74,6,14.5,SW
+175,Clément Berthet,2023-12-26,Bourgogne-Franche-Comté,Doubs,70.14,2:16:45,1187,269,2034,86,61,30.8,65.1,Nuages,7,79,5,13.0,SW
+176,Clément Berthet,2023-12-10,Bourgogne-Franche-Comté,Doubs,137.68,4:30:44,1968,239,3687,134,54,30.5,68.9,Nuages,8,86,4,21.2,SW
+177,Clément Berthet,2023-12-06,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,166.72,6:00:26,3177,236,4554,177,53,27.8,64.6,Nuages,5,66,3,9.1,NNW
+178,Clément Berthet,2023-12-05,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,150.04,5:15:07,2708,253,4205,180,57,28.6,78.2,Dégagé,6,87,5,6.3,NW
+179,Clément Berthet,2023-12-04,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,53.85,2:01:39,489,211,1419,48,48,26.6,60.9,Pluie,7,80,5,10.1,NE
+180,Clément Berthet,2023-12-02,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,163.62,5:27:31,2390,249,4309,180,56,30.0,63.9,Dégagé,9,56,6,23.7,W
+181,Clément Berthet,2023-12-01,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,120.06,4:10:01,1874,237,3200,123,54,28.8,59.5,Nuages,15,89,15,5.7,SW
+182,Clément Berthet,2022-01-31,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,75.95,2:30:42,906,239,2042,73,54,30.2,63.6,Quelques nuages,9,69,8,4.9,NW
+183,Clément Berthet,2022-01-29,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,60.36,2:01:46,586,216,1484,50,49,29.7,57.0,Dégagé,11,37,11,5.5,N
+184,Clément Berthet,2022-01-28,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,45.08,1:30:51,513,224,1133,40,51,29.8,57.0,Dégagé,12,63,12,11.7,E
+185,Clément Berthet,2022-01-27,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,43.61,1:30:23,482,210,1077,34,48,29.0,56.4,Quelques nuages,9,70,8,7.2,N
+186,Clément Berthet,2022-01-26,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,31.7,1:09:34,362,203,800,27,46,27.3,57.8,Dégagé,7,72,7,5.3,N
+187,Clément Berthet,2022-01-04,Bourgogne-Franche-Comté,Doubs,70.58,2:30:46,1050,243,2043,80,55,28.1,68.0,Nuages,12,73,12,24.6,SW
+188,Clément Berthet,2022-01-02,Bourgogne-Franche-Comté,Doubs,18.64,1:06:13,414,196,669,23,44,16.9,47.2,Nuages,11,69,11,12.1,SW
+189,Clément Berthet,2022-01-01,Bourgogne-Franche-Comté,Doubs,117.3,3:53:12,1331,241,3175,122,55,30.2,64.5,Quelques nuages,9,80,9,3.3,WSW
+190,Clément Berthet,2022-02-15,Bourgogne-Franche-Comté,Doubs,116.2,4:00:12,2074,262,3343,140,59,29.0,62.1,Pluie,3,100,0,10.6,WSW
+191,Clément Berthet,2022-02-13,Bourgogne-Franche-Comté,Doubs,115.63,3:59:54,1760,242,3155,122,55,28.9,69.0,Dégagé,9,68,6,17.2,SW
+192,Clément Berthet,2022-02-12,Bourgogne-Franche-Comté,Doubs,117.71,4:00:47,1723,248,3246,130,56,29.3,66.6,Quelques nuages,3,67,1,7.9,SW
+193,Clément Berthet,2022-02-09,Bourgogne-Franche-Comté,Doubs,87.65,2:56:03,1122,230,2270,82,52,29.9,62.2,Dégagé,5,76,5,4.1,S
+194,Clément Berthet,2022-02-08,Bourgogne-Franche-Comté,Doubs,80.83,2:38:33,642,236,2130,76,53,30.6,77.1,Dégagé,7,61,7,4.4,NNW
+195,Clément Berthet,2022-02-06,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,58.43,1:59:57,744,230,1506,56,52,29.2,60.9,Dégagé,9,68,8,5.3,WNW
+196,Clément Berthet,2022-02-05,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,115.4,4:00:11,1473,221,2891,104,50,28.8,63.4,Quelques nuages,11,66,11,5.8,NNW
+197,Clément Berthet,2022-02-04,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,76.07,2:30:39,922,242,2057,77,55,30.3,62.5,Quelques nuages,11,77,11,4.4,NW
+198,Clément Berthet,2022-02-02,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,80.09,2:43:34,1028,224,2023,73,51,29.4,63.5,Dégagé,11,54,11,5.1,N
+199,Clément Berthet,2022-02-01,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,76.14,2:32:13,875,230,2020,75,52,30.0,67.4,Dégagé,9,37,9,6.0,N
+200,Clément Berthet,2022-03-28,Bourgogne-Franche-Comté,Doubs,41.82,1:28:06,396,208,1008,34,47,28.5,68.8,Dégagé,18,51,18,7.8,W
+201,Clément Berthet,2022-03-23,Occitanie,Pyrénées-Orientales,160.81,4:28:02,3362,266,3103,162,60,36.0,86.7,Quelques nuages,14,56,14,20.6,ESE
+202,Clément Berthet,2022-03-18,Bourgogne-Franche-Comté,Doubs,90.16,2:56:26,1616,293,2561,130,66,30.7,67.7,Quelques nuages,8,79,5,22.8,NE
+203,Clément Berthet,2022-03-17,Bourgogne-Franche-Comté,Doubs,111.99,3:03:47,964,267,2644,115,60,36.6,67.3,Nuages,11,77,11,9.2,NNE
+204,Clément Berthet,2022-03-16,Bourgogne-Franche-Comté,Doubs,57.66,2:03:39,950,225,1555,54,51,28.0,63.1,Dégagé,18,55,18,6.3,NE
+205,Clément Berthet,2022-03-15,Bourgogne-Franche-Comté,Doubs,95.0,2:58:41,1523,300,2642,139,68,31.9,69.4,Nuages,12,81,12,8.5,WSW
+206,Clément Berthet,2022-03-14,Bourgogne-Franche-Comté,Doubs,144.94,4:32:31,1510,246,3654,144,56,31.9,64.4,Dégagé,10,76,10,5.5,NE
+207,Clément Berthet,2022-03-13,Auvergne-Rhône-Alpes,Ain,136.29,4:37:44,2730,269,3857,174,61,29.4,70.5,Nuages,4,64,3,5.1,SE
+208,Clément Berthet,2022-03-10,Bourgogne-Franche-Comté,Doubs,72.29,1:59:08,418,273,1703,81,62,36.4,61.6,Dégagé,12,50,12,3.9,NNE
+209,Clément Berthet,2022-03-09,Bourgogne-Franche-Comté,Doubs,125.76,4:00:09,1999,283,3445,165,64,31.4,67.2,Dégagé,8,51,8,5.7,SSE
+210,Clément Berthet,2022-03-08,Bourgogne-Franche-Comté,Doubs,119.87,4:00:18,1831,251,3324,131,57,29.9,64.5,Dégagé,6,50,6,5.0,NE
+211,Clément Berthet,2022-03-07,Bourgogne-Franche-Comté,Doubs,23.3,57:30,324,173,557,14,39,24.3,52.4,Dégagé,7,49,5,15.4,NE
+212,Clément Berthet,2022-04-13,Bourgogne-Franche-Comté,Doubs,72.68,2:22:14,566,257,1944,81,58,30.7,61.4,Nuages,14,63,14,3.3,SW
+213,Clément Berthet,2022-04-10,Bourgogne-Franche-Comté,Doubs,185.35,6:00:42,3351,277,5321,242,63,30.8,70.6,Dégagé,3,86,3,3.9,ESE
+214,Clément Berthet,2022-04-09,Bourgogne-Franche-Comté,Doubs,101.84,2:48:07,710,275,2480,116,62,36.3,62.2,Pluie,5,95,2,10.8,W
+215,Clément Berthet,2022-04-08,Bourgogne-Franche-Comté,Doubs,36.26,1:15:33,784,317,1156,66,72,28.8,62.9,Pluie,9,100,6,27.1,SW
+216,Clément Berthet,2022-04-07,Bourgogne-Franche-Comté,Doubs,37.67,1:24:11,607,205,980,29,46,26.8,58.0,Pluie,9,100,5,30.7,SSW
+217,Clément Berthet,2022-04-06,Bourgogne-Franche-Comté,Doubs,114.09,4:01:51,1656,262,3164,143,59,28.3,82.0,Nuages,9,92,7,9.1,SW
+218,Clément Berthet,2022-04-05,Bourgogne-Franche-Comté,Doubs,110.05,2:59:04,932,275,2678,117,62,36.9,73.2,Nuages,6,76,3,14.3,SW
+219,Clément Berthet,2022-04-04,Bourgogne-Franche-Comté,Doubs,119.0,4:00:35,1800,251,3304,134,57,29.7,68.8,Quelques nuages,4,69,2,6.5,W
+220,Clément Berthet,2022-04-03,Bourgogne-Franche-Comté,Doubs,44.6,1:40:37,828,242,1302,52,55,26.6,63.1,Nuages,2,86,2,13.4,NE
+221,Clément Berthet,2022-04-02,Bourgogne-Franche-Comté,Doubs,16.19,58:26,408,213,635,24,48,16.6,45.6,Nuages,2,87,3,16.4,N
+222,Clément Berthet,2022-05-31,Auvergne-Rhône-Alpes,Savoie,88.32,3:18:23,2298,286,2818,146,65,26.7,83.6,Quelques nuages,5,83,4,4.8,SW
+223,Clément Berthet,2022-05-30,Auvergne-Rhône-Alpes,Ain,45.06,1:29:10,478,192,887,28,43,30.3,65.0,Quelques nuages,13,44,13,8.4,W
+224,Clément Berthet,2022-05-29,Auvergne-Rhône-Alpes,Savoie,128.44,4:30:09,3487,285,3863,196,64,28.5,81.9,Dégagé,4,79,3,6.2,NNW
+225,Clément Berthet,2022-05-28,Auvergne-Rhône-Alpes,Savoie,111.06,4:03:05,2726,262,3257,148,59,27.4,75.4,Quelques nuages,6,100,6,5.3,WNW
+226,Clément Berthet,2022-05-27,Auvergne-Rhône-Alpes,Savoie,23.81,1:00:45,583,200,628,20,45,23.5,65.5,Quelques nuages,10,93,10,4.2,SSW
+227,Clément Berthet,2022-05-26,Auvergne-Rhône-Alpes,Ain,126.3,4:01:02,2174,240,3091,122,54,31.4,67.9,Dégagé,14,83,14,2.9,NNE
+228,Clément Berthet,2022-05-25,Auvergne-Rhône-Alpes,Savoie,123.52,4:30:53,2715,245,3521,142,55,27.4,83.1,Quelques nuages,5,89,5,3.1,NNW
+229,Clément Berthet,2022-05-24,Auvergne-Rhône-Alpes,Savoie,109.22,3:59:49,2899,269,3291,154,61,27.3,76.0,Quelques nuages,6,95,5,4.9,W
+230,Clément Berthet,2022-05-21,Auvergne-Rhône-Alpes,Savoie,53.71,1:59:49,1128,221,1411,52,50,26.9,72.4,Nuages,9,75,9,5.3,WSW
+231,Clément Berthet,2022-05-20,Bourgogne-Franche-Comté,Doubs,74.66,2:18:24,555,281,1967,93,64,32.4,60.8,Quelques nuages,21,68,21,8.1,SSW
+232,Clément Berthet,2022-05-19,Bourgogne-Franche-Comté,Doubs,132.11,4:37:31,2594,240,3609,140,54,28.6,84.7,Nuages,21,68,21,12.2,SSW
+233,Clément Berthet,2022-05-18,Bourgogne-Franche-Comté,Doubs,37.63,1:36:03,566,198,935,34,45,23.5,53.4,Dégagé,28,50,29,11.0,NNE
+234,Clément Berthet,2022-05-17,Bourgogne-Franche-Comté,Doubs,61.86,1:43:26,452,243,1363,52,55,35.9,60.3,Quelques nuages,24,55,24,9.4,NNE
+235,Clément Berthet,2022-05-17,Bourgogne-Franche-Comté,Doubs,19.84,57:39,366,230,710,26,52,20.7,49.6,Quelques nuages,13,100,13,4.6,ESE
+236,Clément Berthet,2022-05-16,Bourgogne-Franche-Comté,Doubs,85.06,2:40:03,1334,304,2282,127,69,31.9,76.2,Nuages,22,57,22,9.4,WSW
+237,Clément Berthet,2022-05-15,Bourgogne-Franche-Comté,Doubs,134.3,4:22:25,2145,260,3547,155,59,30.7,69.1,Dégagé,19,77,19,2.8,WNW
+238,Clément Berthet,2022-05-13,Bourgogne-Franche-Comté,Doubs,117.8,3:53:33,1936,243,3086,120,55,30.3,69.5,Nuages,18,91,18,8.0,NW
+239,Clément Berthet,2022-05-12,Bourgogne-Franche-Comté,Jura,86.95,2:47:07,1670,293,2366,123,66,31.2,67.9,Quelques nuages,20,46,20,11.6,W
+240,Clément Berthet,2022-05-12,Bourgogne-Franche-Comté,Jura,33.0,1:32:15,579,161,681,20,36,21.5,62.6,Quelques nuages,17,56,17,8.2,SW
+241,Clément Berthet,2022-05-08,Bourgogne-Franche-Comté,Doubs,79.82,2:42:53,1230,233,2098,82,53,29.4,104.8,Quelques nuages,20,54,20,16.2,NE
+242,Clément Berthet,2022-05-06,Bourgogne-Franche-Comté,Doubs,72.4,2:27:52,1389,282,2013,105,64,29.4,69.1,Quelques nuages,13,81,13,12.7,NE
+243,Clément Berthet,2022-06-25,Bourgogne-Franche-Comté,Doubs,29.74,1:34:18,650,228,1098,46,52,18.9,50.3,Quelques nuages,26,40,26,9.0,W
+244,Clément Berthet,2022-06-24,Bourgogne-Franche-Comté,Doubs,24.71,1:19:42,518,211,877,35,48,18.6,43.1,Pluie,16,83,16,12.9,SSW
+245,Clément Berthet,2022-06-23,Bourgogne-Franche-Comté,Doubs,120.24,4:03:36,1443,225,3020,107,51,29.6,72.8,Quelques nuages,20,86,20,2.4,NE
+246,Clément Berthet,2022-06-22,Bourgogne-Franche-Comté,Doubs,85.11,2:56:26,1334,232,2177,83,52,28.9,83.6,Nuages,19,92,19,6.2,ENE
+247,Clément Berthet,2022-06-21,Bourgogne-Franche-Comté,Doubs,16.62,56:14,450,227,643,27,51,17.7,44.4,Quelques nuages,24,68,24,3.8,NNW
+248,Clément Berthet,2022-06-10,Bourgogne-Franche-Comté,Doubs,106.92,3:30:25,1752,268,2533,133,61,30.5,86.2,Dégagé,19,66,19,8.0,N
+249,Clément Berthet,2022-06-09,Bourgogne-Franche-Comté,Doubs,48.94,1:26:28,519,216,1066,36,49,34.0,66.7,Quelques nuages,15,76,15,12.4,NW
+250,Clément Berthet,2022-06-08,Bourgogne-Franche-Comté,Doubs,74.35,2:22:18,1204,303,2057,114,69,31.3,68.4,Quelques nuages,15,75,15,5.5,S
+251,Clément Berthet,2022-06-07,Bourgogne-Franche-Comté,Doubs,86.02,2:58:33,1293,236,2321,90,53,28.9,73.5,Nuages,15,91,15,13.0,WSW
+252,Clément Berthet,2022-06-05,Auvergne-Rhône-Alpes,Savoie,143.63,5:30:54,3953,268,4249,211,61,26.0,83.6,Dégagé,10,100,10,6.5,SE
+253,Clément Berthet,2022-06-04,Auvergne-Rhône-Alpes,Ain,96.65,3:26:09,2473,282,2825,145,64,28.1,70.5,Quelques nuages,20,60,20,5.1,WSW
+254,Clément Berthet,2022-06-03,Auvergne-Rhône-Alpes,Ain,108.71,3:39:57,2118,262,2969,135,59,29.7,80.0,Nuages,15,86,15,5.3,ESE
+255,Clément Berthet,2022-06-01,Auvergne-Rhône-Alpes,Savoie,158.72,6:23:34,4859,264,5260,241,60,24.8,78.8,Quelques nuages,7,94,7,4.4,SW
+256,Clément Berthet,2022-07-30,Auvergne-Rhône-Alpes,Ain,1.43,5:20,5,72,21,0,16,16.1,23.5,Quelques nuages,24,68,25,12.1,N
+257,Clément Berthet,2022-07-28,Bourgogne-Franche-Comté,Doubs,75.05,2:30:50,1139,289,1972,108,65,29.9,77.6,Quelques nuages,19,72,19,2.8,NE
+258,Clément Berthet,2022-07-26,Bourgogne-Franche-Comté,Doubs,101.23,3:08:19,1566,306,2777,150,69,32.3,85.4,Dégagé,21,79,21,6.6,WNW
+259,Clément Berthet,2022-07-25,Bourgogne-Franche-Comté,Doubs,125.19,4:05:34,1601,229,3097,114,52,30.6,59.3,Dégagé,25,56,25,10.2,SSW
+260,Clément Berthet,2022-07-24,Bourgogne-Franche-Comté,Doubs,44.97,1:30:17,439,206,1028,33,47,29.9,64.4,Dégagé,22,68,22,5.6,ENE
+261,Clément Berthet,2022-07-23,Bourgogne-Franche-Comté,Doubs,133.19,4:29:56,2198,233,3396,128,53,29.6,65.9,Nuages,20,88,21,11.6,SW
+262,Clément Berthet,2022-07-22,Bourgogne-Franche-Comté,Doubs,86.78,2:21:23,818,282,1918,97,64,36.8,66.3,Nuages,30,37,30,8.0,SW
+263,Clément Berthet,2022-07-21,Bourgogne-Franche-Comté,Doubs,131.42,4:05:19,1962,289,3443,177,65,32.1,89.7,Dégagé,22,68,22,5.0,N
+264,Clément Berthet,2022-07-20,Bourgogne-Franche-Comté,Doubs,24.24,1:13:21,455,209,794,28,47,19.8,51.6,Dégagé,25,61,25,6.9,N
+265,Clément Berthet,2022-07-19,Bourgogne-Franche-Comté,Doubs,106.18,2:56:09,812,261,2421,105,59,36.2,68.3,Dégagé,24,47,24,4.1,E
+266,Clément Berthet,2022-07-17,Auvergne-Rhône-Alpes,Ain,50.26,1:49:02,717,207,1197,42,47,27.7,61.8,Dégagé,27,28,27,9.2,NE
+267,Clément Berthet,2022-07-08,Auvergne-Rhône-Alpes,Savoie,95.61,3:25:52,1630,257,2534,119,58,27.9,64.1,Quelques nuages,18,67,18,6.1,N
+268,Clément Berthet,2022-07-06,Bourgogne-Franche-Comté,Jura,131.32,4:29:56,2699,281,3677,190,64,29.2,83.8,Dégagé,16,56,16,5.5,NNE
+269,Clément Berthet,2022-07-05,Bourgogne-Franche-Comté,Doubs,119.5,3:54:34,1785,234,2960,114,53,30.6,65.4,Dégagé,18,72,18,3.2,W
+270,Clément Berthet,2022-07-03,Bourgogne-Franche-Comté,Doubs,68.08,3:49:17,1428,192,2161,74,43,17.8,55.9,Dégagé,21,68,21,3.2,NE
+271,Clément Berthet,2022-07-02,Bourgogne-Franche-Comté,Doubs,71.22,1:55:57,474,258,1677,65,58,36.9,65.1,Dégagé,20,64,20,6.9,NNE
+272,Clément Berthet,2022-07-01,Bourgogne-Franche-Comté,Doubs,37.87,2:04:46,1019,245,1525,67,55,18.2,50.3,Quelques nuages,18,68,18,7.1,WNW
+273,Clément Berthet,2022-08-21,Bourgogne-Franche-Comté,Doubs,90.98,2:58:24,1654,298,2369,138,67,30.6,76.7,Quelques nuages,25,50,25,9.4,NW
+274,Clément Berthet,2022-08-21,Bourgogne-Franche-Comté,Doubs,15.23,1:26:49,327,104,418,10,24,10.5,47.2,Dégagé,16,81,16,4.3,E
+275,Clément Berthet,2022-08-20,Bourgogne-Franche-Comté,Doubs,78.83,2:56:04,924,197,1824,59,45,26.9,58.5,Pluie,17,92,17,4.4,NNE
+276,Clément Berthet,2022-08-19,Bourgogne-Franche-Comté,Doubs,94.06,2:55:18,1070,294,2539,137,67,32.2,73.5,Nuages,20,73,20,6.9,NNW
+277,Clément Berthet,2022-08-17,Bourgogne-Franche-Comté,Doubs,148.27,4:42:34,1549,235,3655,139,53,31.5,65.8,Quelques nuages,22,72,22,7.8,W
+278,Clément Berthet,2022-08-16,Bourgogne-Franche-Comté,Doubs,135.72,4:27:26,2302,272,3558,175,62,30.5,71.6,Dégagé,19,74,19,4.1,E
+279,Clément Berthet,2022-08-15,Bourgogne-Franche-Comté,Doubs,124.62,4:02:46,2149,273,3369,157,62,30.8,83.0,Pluie,20,88,20,9.9,SW
+280,Clément Berthet,2022-08-14,Bourgogne-Franche-Comté,Doubs,42.12,1:33:16,569,211,1060,37,48,27.1,87.8,Nuages,25,54,25,17.1,SW
+281,Clément Berthet,2022-08-10,Bourgogne-Franche-Comté,Doubs,119.52,3:55:50,1786,255,3058,138,58,30.4,67.4,Dégagé,24,46,24,17.5,NE
+282,Clément Berthet,2022-08-09,Bourgogne-Franche-Comté,Doubs,101.26,3:14:24,1634,271,2623,123,61,31.3,63.6,Dégagé,23,51,23,17.3,NE
+283,Clément Berthet,2022-09-29,Bourgogne-Franche-Comté,Doubs,83.25,2:38:16,1274,287,2327,112,65,31.6,75.3,Pluie,8,100,8,5.2,S
+284,Clément Berthet,2022-09-27,Bourgogne-Franche-Comté,Doubs,84.68,2:47:27,1521,292,2423,124,66,30.3,64.7,Pluie,9,94,6,15.8,WSW
+285,Clément Berthet,2022-09-26,Bourgogne-Franche-Comté,Doubs,163.48,5:30:16,2810,239,4276,164,54,29.7,76.3,Nuages,11,97,11,7.8,SW
+286,Clément Berthet,2022-09-25,Bourgogne-Franche-Comté,Doubs,78.03,2:36:24,1471,305,2312,124,69,29.9,84.8,Quelques nuages,13,83,13,3.6,NNW
+287,Clément Berthet,2022-09-24,Bourgogne-Franche-Comté,Doubs,67.56,2:17:17,930,248,1786,74,56,29.5,82.7,Pluie,16,85,16,7.0,SW
+288,Clément Berthet,2022-09-22,Bourgogne-Franche-Comté,Doubs,193.33,6:44:15,3586,239,5311,205,54,28.7,83.2,Dégagé,10,76,10,3.1,NNE
+289,Clément Berthet,2022-09-21,Bourgogne-Franche-Comté,Doubs,96.63,2:59:16,1217,254,2531,100,57,32.3,67.6,Dégagé,14,56,14,17.5,NE
+290,Clément Berthet,2022-09-20,Bourgogne-Franche-Comté,Doubs,57.8,1:56:52,740,237,1518,58,54,29.7,66.5,Dégagé,16,51,16,11.9,NNE
+291,Clément Berthet,2022-09-11,Bourgogne-Franche-Comté,Doubs,95.12,2:59:31,1499,289,2580,129,65,31.8,76.7,Quelques nuages,15,86,15,4.5,ENE
+292,Clément Berthet,2022-09-09,Bourgogne-Franche-Comté,Doubs,101.08,2:46:51,804,285,2452,117,64,36.4,76.8,Quelques nuages,16,87,16,19.0,SW
+293,Clément Berthet,2022-09-08,Bourgogne-Franche-Comté,Doubs,133.62,4:30:50,2364,273,3614,177,62,29.6,63.9,Quelques nuages,16,87,16,14.5,SW
+294,Clément Berthet,2022-09-07,Bourgogne-Franche-Comté,Doubs,102.95,2:48:54,935,269,2383,108,61,36.6,68.2,Quelques nuages,22,79,22,6.1,NNW
+295,Clément Berthet,2022-09-05,Bourgogne-Franche-Comté,Doubs,51.82,1:28:35,417,237,1154,44,54,35.1,66.4,Dégagé,19,79,19,4.2,ESE
+296,Clément Berthet,2022-09-02,Bourgogne-Franche-Comté,Doubs,49.95,1:26:21,427,224,1082,38,51,34.7,68.3,Nuages,24,56,24,10.1,SW
+297,Clément Berthet,2022-09-01,Bourgogne-Franche-Comté,Doubs,79.56,2:24:46,1072,305,2111,115,69,33.0,78.5,Quelques nuages,18,70,18,9.6,ENE
+298,Clément Berthet,2022-11-29,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,54.64,2:04:28,1128,289,1657,88,65,26.3,67.3,Pluie,11,81,11,6.8,NNW
+299,Clément Berthet,2022-11-26,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,125.5,4:04:13,1539,244,3237,128,55,30.8,72.0,Dégagé,17,46,17,5.6,S
+300,Clément Berthet,2022-11-25,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,51.65,1:47:00,442,205,1202,40,46,29.0,53.0,Quelques nuages,17,61,17,9.8,ESE
+301,Clément Berthet,2022-11-23,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,162.26,5:32:07,2636,235,4185,162,53,29.3,68.2,Nuages,12,50,12,7.7,NNW
+302,Clément Berthet,2022-11-21,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,92.55,3:00:20,1325,280,2424,124,63,30.8,63.8,Nuages,11,54,11,6.2,N
+303,Clément Berthet,2022-11-20,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,110.09,3:59:05,2188,246,3060,130,56,27.6,79.9,Dégagé,13,58,13,5.9,N
+304,Clément Berthet,2022-11-19,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,84.99,2:56:18,954,207,1992,66,47,28.9,70.5,Nuages,17,43,17,4.1,ESE
+305,Clément Berthet,2022-11-17,Bourgogne-Franche-Comté,Doubs,68.47,2:00:54,598,259,1732,70,59,34.0,60.0,Pluie,10,83,7,20.6,SW
+306,Clément Berthet,2022-11-12,Bourgogne-Franche-Comté,Doubs,57.82,1:59:20,837,219,1452,51,50,29.1,63.2,Quelques nuages,10,73,10,3.3,ENE
+307,Clément Berthet,2022-11-11,Bourgogne-Franche-Comté,Doubs,63.35,2:00:08,911,296,1754,90,67,31.6,71.6,Quelques nuages,12,72,12,2.2,NNE
+308,Clément Berthet,2022-11-10,Bourgogne-Franche-Comté,Doubs,49.52,1:26:24,400,235,1142,41,53,34.4,64.1,Dégagé,13,76,13,8.5,NNE
+309,Clément Berthet,2022-12-28,Bourgogne-Franche-Comté,Doubs,78.22,2:44:36,905,236,2105,80,53,28.5,69.7,Quelques nuages,8,80,5,13.9,SSW
+310,Clément Berthet,2022-12-27,Auvergne-Rhône-Alpes,Ain,53.43,2:00:01,1140,242,1564,60,55,26.7,62.2,Quelques nuages,3,87,3,4.2,W
+311,Clément Berthet,2022-12-20,Bourgogne-Franche-Comté,Doubs,92.28,3:10:30,1250,263,2615,115,60,29.1,96.2,Nuages,10,81,8,13.1,SSW
+312,Clément Berthet,2022-12-19,Bourgogne-Franche-Comté,Doubs,90.77,2:59:51,1242,250,2550,98,57,30.3,65.8,Quelques nuages,6,89,4,9.2,SSW
+313,Clément Berthet,2021-01-30,Bourgogne-Franche-Comté,Doubs,100.42,3:19:33,1328,289,2945,144,65,30.2,61.9,Pluie,7,95,4,14.9,SSW
+314,Clément Berthet,2021-01-29,Bourgogne-Franche-Comté,Doubs,69.11,2:00:41,644,262,1840,72,59,34.4,62.6,Pluie,8,93,4,25.6,WSW
+315,Clément Berthet,2021-01-26,Bourgogne-Franche-Comté,Doubs,36.55,1:07:22,60,227,869,29,51,32.6,50.8,Quelques nuages,3,81,0,9.9,SW
+316,Clément Berthet,2021-01-24,Bourgogne-Franche-Comté,Doubs,114.92,3:59:27,1801,249,3308,135,56,28.8,65.2,Dégagé,1,86,2,9.9,SW
+317,Clément Berthet,2021-01-23,Bourgogne-Franche-Comté,Doubs,34.2,1:48:02,704,246,1466,63,56,19.0,54.0,Quelques nuages,4,81,1,19.0,SSW
+318,Clément Berthet,2021-01-08,Bourgogne-Franche-Comté,Doubs,30.76,1:31:45,567,235,1167,45,53,20.1,46.1,Nuages,1,88,1,2.3,ENE
+319,Clément Berthet,2021-01-07,Bourgogne-Franche-Comté,Doubs,96.58,3:19:57,1552,256,2908,117,58,29.0,63.7,Nuages,2,91,5,5.5,SSE
+320,Clément Berthet,2021-01-06,Bourgogne-Franche-Comté,Doubs,77.18,2:30:51,776,314,2388,129,71,30.7,63.7,Quelques nuages,0,89,0,4.6,SSW
+321,Clément Berthet,2021-01-05,Bourgogne-Franche-Comté,Doubs,52.19,1:29:22,142,249,1298,48,56,35.0,51.1,Quelques nuages,1,81,0,4.9,NNE
+322,Clément Berthet,2021-01-03,Bourgogne-Franche-Comté,Doubs,90.23,3:01:07,1326,281,2659,127,64,29.9,66.2,Nuages,1,98,1,3.8,N
+323,Clément Berthet,2021-01-02,Bourgogne-Franche-Comté,Doubs,85.1,2:37:39,531,247,2250,88,56,32.4,69.1,Nuages,2,93,1,13.4,NNE
+324,Clément Berthet,2021-01-01,Bourgogne-Franche-Comté,Doubs,71.36,2:30:35,1119,313,2091,132,71,28.4,82.8,Nuages,2,92,0,7.3,NNE
+325,Clément Berthet,2021-02-26,Auvergne-Rhône-Alpes,Drôme,48.26,1:51:38,900,267,1456,70,60,25.9,65.5,Quelques nuages,19,46,19,12.9,NNE
+326,Clément Berthet,2021-02-25,Bourgogne-Franche-Comté,Doubs,41.7,1:22:47,401,214,1026,38,48,30.2,61.2,Dégagé,14,64,14,4.6,WSW
+327,Clément Berthet,2021-02-24,Bourgogne-Franche-Comté,Doubs,92.38,3:00:50,1369,267,2540,113,60,30.7,70.2,Dégagé,14,67,14,2.3,SW
+328,Clément Berthet,2021-02-23,Bourgogne-Franche-Comté,Doubs,58.28,2:00:30,769,232,1536,57,52,29.0,72.0,Dégagé,18,57,18,4.1,WSW
+329,Clément Berthet,2021-02-20,Provence-Alpes-Côte d'Azur,Var,166.79,4:26:45,3286,317,4716,232,72,37.5,81.4,Dégagé,13,61,13,7.7,E
+330,Clément Berthet,2021-02-17,Bourgogne-Franche-Comté,Doubs,85.14,3:00:25,1219,276,2363,118,62,28.3,63.7,Nuages,7,100,5,9.7,SW
+331,Clément Berthet,2021-02-15,Bourgogne-Franche-Comté,Doubs,127.35,4:10:34,1626,272,3553,164,62,30.5,81.0,Quelques nuages,3,68,1,8.1,S
+332,Clément Berthet,2021-02-14,Bourgogne-Franche-Comté,Doubs,83.38,2:52:58,1170,247,2387,93,56,28.9,57.2,Quelques nuages,2,62,4,7.5,ENE
+333,Clément Berthet,2021-02-13,Bourgogne-Franche-Comté,Doubs,34.26,2:10:31,1028,243,1646,70,55,15.8,43.9,Dégagé,4,66,10,21.5,ENE
+334,Clément Berthet,2021-02-10,Provence-Alpes-Côte d'Azur,Var,91.14,2:59:19,1550,302,2661,142,68,30.5,60.1,Pluie,10,80,10,16.4,NW
+335,Clément Berthet,2021-02-09,Provence-Alpes-Côte d'Azur,Var,159.38,5:09:01,2661,272,4610,202,62,30.9,65.2,Quelques nuages,6,82,5,8.2,WNW
+336,Clément Berthet,2021-02-08,Provence-Alpes-Côte d'Azur,Var,70.82,2:08:48,791,251,1874,71,57,33.0,56.9,Quelques nuages,10,62,8,10.1,WNW
+337,Clément Berthet,2021-02-06,Bourgogne-Franche-Comté,Doubs,43.49,1:33:02,519,236,1245,46,53,28.1,66.2,Nuages,12,79,12,7.2,ENE
+338,Clément Berthet,2021-02-05,Bourgogne-Franche-Comté,Doubs,183.25,6:00:30,3264,271,5331,231,61,30.5,75.6,Nuages,9,91,9,7.0,SSW
+339,Clément Berthet,2021-02-04,Bourgogne-Franche-Comté,Doubs,93.11,3:00:37,1133,291,2697,133,66,30.9,64.4,Nuages,9,87,9,3.7,ESE
+340,Clément Berthet,2021-02-03,Bourgogne-Franche-Comté,Doubs,21.21,44:43,224,226,571,21,51,28.5,54.4,Pluie,11,94,11,27.5,SW
+341,Clément Berthet,2021-02-02,Bourgogne-Franche-Comté,Doubs,70.73,2:11:05,832,255,1895,75,58,32.4,65.2,Pluie,10,100,7,25.1,SSW
+342,Clément Berthet,2021-02-01,Bourgogne-Franche-Comté,Doubs,54.57,2:01:31,973,278,1600,84,63,26.9,78.8,Pluie,8,100,5,18.5,SW
+343,Clément Berthet,2021-03-30,Bourgogne-Franche-Comté,Doubs,144.4,4:01:35,1688,269,3524,155,61,35.9,72.4,Dégagé,15,58,15,2.6,NNE
+344,Clément Berthet,2021-03-29,Bourgogne-Franche-Comté,Doubs,92.82,3:01:13,1363,236,2431,89,53,30.7,64.1,Quelques nuages,17,44,17,5.1,NNW
+345,Clément Berthet,2021-03-27,Auvergne-Rhône-Alpes,Ain,49.07,1:34:29,713,288,1389,68,65,31.2,65.2,Quelques nuages,12,63,12,14.3,WSW
+346,Clément Berthet,2021-03-24,Bourgogne-Franche-Comté,Doubs,136.98,4:12:37,1957,294,3734,190,67,32.5,65.9,Dégagé,13,51,13,4.2,NW
+347,Clément Berthet,2021-03-23,Bourgogne-Franche-Comté,Doubs,41.05,1:32:24,756,221,1120,41,50,26.7,64.4,Dégagé,6,60,3,13.3,NE
+348,Clément Berthet,2021-03-22,Bourgogne-Franche-Comté,Doubs,154.22,5:00:05,1773,243,4214,155,55,30.8,62.6,Quelques nuages,3,75,0,11.1,NNE
+349,Clément Berthet,2021-03-21,Bourgogne-Franche-Comté,Doubs,122.1,4:00:39,2123,304,3752,199,69,30.4,63.7,Quelques nuages,8,51,6,9.7,N
+350,Clément Berthet,2021-03-20,Bourgogne-Franche-Comté,Doubs,45.37,1:37:22,624,246,1329,53,56,28.0,59.8,Dégagé,5,49,2,15.3,NE
+351,Clément Berthet,2021-03-18,Bourgogne-Franche-Comté,Doubs,154.15,5:03:28,2738,301,4622,242,68,30.5,62.6,Quelques nuages,2,87,0,6.7,NNE
+352,Clément Berthet,2021-03-17,Bourgogne-Franche-Comté,Doubs,94.28,3:07:16,1706,309,2943,161,70,30.2,61.6,Pluie,5,81,2,14.0,N
+353,Clément Berthet,2021-03-16,Bourgogne-Franche-Comté,Doubs,59.31,1:47:24,468,263,1620,67,60,33.1,65.5,Pluie,5,75,3,7.7,NW
+354,Clément Berthet,2021-03-14,Bourgogne-Franche-Comté,Doubs,69.42,3:30:50,2109,318,3315,195,72,19.8,67.7,Neige,1,92,3,15.7,WSW
+355,Clément Berthet,2021-03-13,Bourgogne-Franche-Comté,Doubs,102.99,3:36:33,1744,279,3037,151,63,28.5,68.4,Nuages,7,75,3,30.1,SW
+356,Clément Berthet,2021-03-12,Bourgogne-Franche-Comté,Doubs,38.36,1:28:08,687,227,1040,40,51,26.1,57.6,Quelques nuages,8,74,5,20.4,SW
+357,Clément Berthet,2021-03-10,Provence-Alpes-Côte d'Azur,Var,68.55,1:48:27,287,221,1321,49,50,37.9,64.1,Dégagé,11,47,11,5.9,ENE
+358,Clément Berthet,2021-03-09,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,25.04,34:03,0,337,590,32,76,44.1,59.4,Dégagé,15,51,15,20.9,NW
+359,Clément Berthet,2021-03-09,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,2.4,4:12,0,190,50,1,43,34.4,42.5,Dégagé,15,54,15,17.5,WNW
+360,Clément Berthet,2021-03-09,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,11.39,23:43,0,316,414,26,71,28.8,51.8,Quelques nuages,15,49,15,13.1,NW
+361,Clément Berthet,2021-03-09,Provence-Alpes-Côte d'Azur,Var,70.78,1:50:22,510,242,1445,61,55,38.5,68.8,Quelques nuages,8,69,8,4.1,NNE
+362,Clément Berthet,2021-03-08,Provence-Alpes-Côte d'Azur,Var,37.02,1:00:51,301,253,901,35,57,36.5,63.0,Quelques nuages,13,46,13,10.2,WSW
+363,Clément Berthet,2021-03-08,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,55.39,1:40:50,490,269,1542,68,61,33.0,59.0,Quelques nuages,6,85,6,4.5,NE
+364,Clément Berthet,2021-03-07,Bourgogne-Franche-Comté,Jura,84.3,2:31:38,1018,256,2254,87,58,33.4,61.6,Quelques nuages,1,88,1,4.6,SSW
+365,Clément Berthet,2021-03-06,Bourgogne-Franche-Comté,Jura,32.9,59:20,486,266,928,38,60,33.3,60.5,Quelques nuages,6,64,6,4.5,SE
+366,Clément Berthet,2021-03-05,Bourgogne-Franche-Comté,Doubs,24.94,48:38,119,234,661,22,53,30.8,53.3,Pluie,7,86,4,10.2,N
+367,Clément Berthet,2021-03-03,Bourgogne-Franche-Comté,Doubs,74.41,2:05:45,201,278,1990,83,63,35.5,61.6,Quelques nuages,15,46,15,8.6,W
+368,Clément Berthet,2021-03-02,Bourgogne-Franche-Comté,Doubs,71.35,2:38:03,1263,244,2094,86,55,27.1,65.9,Dégagé,9,68,9,2.2,ESE
+369,Clément Berthet,2021-04-29,Bourgogne-Franche-Comté,Jura,98.86,3:30:45,2119,245,2845,114,55,28.1,63.0,Pluie,5,99,5,4.8,SW
+370,Clément Berthet,2021-04-28,Bourgogne-Franche-Comté,Jura,65.85,2:13:04,1241,256,1971,78,58,29.7,64.4,Nuages,9,81,7,10.1,SSW
+371,Clément Berthet,2021-04-27,Bourgogne-Franche-Comté,Doubs,63.91,1:56:23,587,244,1639,60,55,33.0,63.4,Dégagé,16,41,16,6.7,N
+372,Clément Berthet,2021-04-26,Bourgogne-Franche-Comté,Doubs,44.46,1:27:37,620,234,1128,43,53,30.4,61.2,Nuages,16,43,16,14.8,NE
+373,Clément Berthet,2021-04-16,Bourgogne-Franche-Comté,Doubs,0.01,9s,0,196,2,19,44,5.2,7.6,Quelques nuages,9,41,7,16.6,NE
+374,Clément Berthet,2021-04-07,Bourgogne-Franche-Comté,Doubs,53.69,1:38:12,441,244,1391,53,55,32.8,61.9,Nuages,4,52,2,9.0,W
+375,Clément Berthet,2021-04-06,Bourgogne-Franche-Comté,Doubs,69.87,2:29:20,1077,248,2065,80,56,28.1,64.8,Nuages,2,68,1,8.6,NNW
+376,Clément Berthet,2021-04-05,Bourgogne-Franche-Comté,Doubs,91.88,3:00:12,1578,288,2656,132,65,30.6,63.7,Quelques nuages,7,72,4,15.5,SW
+377,Clément Berthet,2021-04-04,Bourgogne-Franche-Comté,Doubs,11.43,40:20,371,228,524,20,52,17.0,49.0,Dégagé,4,67,1,13.5,NE
+378,Clément Berthet,2021-04-02,Bourgogne-Franche-Comté,Doubs,102.96,3:22:01,1723,256,2811,121,58,30.6,68.4,Dégagé,13,74,13,10.1,NE
+379,Clément Berthet,2021-04-01,Bourgogne-Franche-Comté,Doubs,64.69,1:51:29,486,244,1580,60,55,34.8,67.7,Dégagé,21,43,21,5.9,WNW
+380,Clément Berthet,2021-05-31,Auvergne-Rhône-Alpes,Savoie,112.87,4:27:43,3084,252,3518,149,57,25.3,74.5,Quelques nuages,5,99,5,3.3,W
+381,Clément Berthet,2021-05-30,Auvergne-Rhône-Alpes,Ain,52.08,1:51:03,1210,238,1441,56,54,28.1,66.2,Dégagé,15,81,15,3.2,W
+382,Clément Berthet,2021-05-30,Auvergne-Rhône-Alpes,Ain,71.89,1:57:41,764,300,1847,96,68,36.7,67.0,Dégagé,12,95,12,2.9,WNW
+383,Clément Berthet,2021-05-28,Auvergne-Rhône-Alpes,Savoie,121.25,4:30:10,3439,281,3756,191,64,26.9,77.0,Quelques nuages,4,58,4,2.8,WSW
+384,Clément Berthet,2021-05-27,Auvergne-Rhône-Alpes,Savoie,116.32,4:15:13,3000,261,3422,156,59,27.3,77.4,Quelques nuages,4,75,2,6.2,WNW
+385,Clément Berthet,2021-05-26,Auvergne-Rhône-Alpes,Savoie,132.36,4:31:51,3424,302,3855,220,68,29.2,74.5,Dégagé,1,62,1,4.1,WNW
+386,Clément Berthet,2021-05-25,Auvergne-Rhône-Alpes,Ain,46.07,1:48:23,672,175,1047,29,40,25.5,60.8,Quelques nuages,3,63,1,8.3,WNW
+387,Clément Berthet,2021-05-21,Auvergne-Rhône-Alpes,Ain,94.96,3:58:18,3001,264,3368,153,60,23.9,64.4,Nuages,8,75,8,4.4,SSW
+388,Clément Berthet,2021-05-20,Auvergne-Rhône-Alpes,Savoie,80.15,3:31:33,3001,282,3180,149,64,22.7,68.4,Quelques nuages,6,75,6,3.0,WNW
+389,Clément Berthet,2021-05-19,Auvergne-Rhône-Alpes,Ain,67.88,2:00:20,767,243,1696,63,55,33.8,71.3,Quelques nuages,2,50,0,6.3,WNW
+390,Clément Berthet,2021-05-17,Auvergne-Rhône-Alpes,Ain,90.56,3:29:58,2016,252,2832,117,57,25.9,58.7,Pluie,2,57,0,8.4,W
+391,Clément Berthet,2021-05-16,Auvergne-Rhône-Alpes,Ain,95.71,4:00:09,2712,254,3139,134,57,23.9,64.1,Pluie,6,100,6,4.8,SW
+392,Clément Berthet,2021-05-15,Auvergne-Rhône-Alpes,Ain,87.22,3:18:41,1923,252,2645,110,57,26.3,62.3,Nuages,2,87,2,3.9,SW
+393,Clément Berthet,2021-05-13,Grand Est,Vosges,14.99,37:24,244,187,375,11,42,24.1,63.0,Nuages,12,73,12,13.4,SW
+394,Clément Berthet,2021-05-13,Grand Est,Vosges,112.78,3:20:56,921,261,2980,133,59,33.7,66.6,Pluie,9,95,7,14.0,WSW
+395,Clément Berthet,2021-05-12,Bourgogne-Franche-Comté,Doubs,127.82,4:01:00,1427,243,3394,128,55,31.8,65.2,Nuages,11,85,11,6.0,SW
+396,Clément Berthet,2021-05-11,Bourgogne-Franche-Comté,Doubs,70.05,2:01:43,451,253,1800,70,57,34.5,59.0,Pluie,10,100,10,9.1,SSW
+397,Clément Berthet,2021-05-08,Auvergne-Rhône-Alpes,Ain,90.52,2:56:01,1778,304,2632,141,69,30.9,67.7,Quelques nuages,14,67,14,15.3,SSW
+398,Clément Berthet,2021-05-07,Bourgogne-Franche-Comté,Doubs,41.93,1:35:38,508,212,1066,39,48,26.3,67.3,Quelques nuages,8,88,6,9.9,W
+399,Clément Berthet,2021-05-05,Bourgogne-Franche-Comté,Doubs,125.1,4:08:19,2270,278,3685,172,63,30.2,73.4,Quelques nuages,7,88,3,18.8,W
+400,Clément Berthet,2021-05-03,Bourgogne-Franche-Comté,Doubs,136.49,4:30:05,2320,251,3844,149,57,30.3,67.0,Dégagé,5,79,5,3.5,ESE
+401,Clément Berthet,2021-05-02,Bourgogne-Franche-Comté,Doubs,92.77,3:00:54,1699,280,2751,124,63,30.8,64.4,Pluie,7,97,5,8.2,WNW
+402,Clément Berthet,2021-05-01,Bourgogne-Franche-Comté,Doubs,42.34,1:30:06,586,246,1248,48,56,28.2,59.0,Pluie,7,100,6,9.1,NNE
+403,Clément Berthet,2021-06-29,Bourgogne-Franche-Comté,Doubs,30.31,1:42:36,779,227,1176,49,51,17.7,50.8,Pluie,15,97,15,11.4,WSW
+404,Clément Berthet,2021-06-27,Bourgogne-Franche-Comté,Jura,11.79,28:28,206,275,365,22,62,24.9,53.6,Nuages,25,62,25,4.8,WNW
+405,Clément Berthet,2021-06-26,Auvergne-Rhône-Alpes,Ain,42.19,2:01:00,742,239,1424,68,54,20.9,60.8,Nuages,19,68,19,5.8,W
+406,Clément Berthet,2021-06-25,Bourgogne-Franche-Comté,Jura,18.31,1:37:41,676,217,1081,51,49,11.3,32.4,Quelques nuages,18,79,18,5.3,W
+407,Clément Berthet,2021-06-24,Auvergne-Rhône-Alpes,Ain,17.1,51:12,244,165,415,12,37,20.0,41.0,Pluie,13,94,13,8.7,W
+408,Clément Berthet,2021-06-18,Grand Est,Vosges,38.63,1:11:55,276,206,784,27,47,32.2,52.9,Nuages,26,47,26,4.0,SSE
+409,Clément Berthet,2021-06-17,Grand Est,Vosges,45.14,58:55,445,383,1349,74,87,46.0,72.0,Dégagé,32,36,32,13.0,SSW
+410,Clément Berthet,2021-06-17,Grand Est,Vosges,9.24,16:47,9,210,202,6,48,33.0,50.8,Dégagé,31,38,31,13.1,SSW
+411,Clément Berthet,2021-06-16,Grand Est,Vosges,55.4,1:29:30,471,287,1351,69,65,37.1,71.3,Dégagé,30,37,30,7.2,SW
+412,Clément Berthet,2021-06-14,Bourgogne-Franche-Comté,Doubs,40.09,1:22:15,464,203,908,32,46,29.2,59.4,Dégagé,27,50,28,8.6,N
+413,Clément Berthet,2021-06-11,Occitanie,Gers,3.13,8:39,41,120,55,1,27,21.8,47.9,Quelques nuages,28,41,28,12.6,NNW
+414,Clément Berthet,2021-06-08,Provence-Alpes-Côte d'Azur,Vaucluse,10.8,11:29,2,95,39,0,21,56.4,77.0,Quelques nuages,19,57,19,11.3,NW
+415,Clément Berthet,2021-06-06,Grand Est,Vosges,103.67,2:44:15,960,296,2760,136,67,37.9,71.6,Nuages,15,100,15,7.4,N
+416,Clément Berthet,2021-06-05,Bourgogne-Franche-Comté,Doubs,30.7,56:57,385,243,784,28,55,32.4,58.0,Pluie,15,99,16,11.9,W
+417,Clément Berthet,2021-06-04,Bourgogne-Franche-Comté,Doubs,87.68,2:45:02,1342,297,2377,127,67,31.9,63.4,Quelques nuages,22,70,22,8.4,SW
+418,Clément Berthet,2021-06-03,Bourgogne-Franche-Comté,Doubs,98.87,2:49:38,858,245,2332,89,55,35.0,61.9,Quelques nuages,19,76,19,8.8,WSW
+419,Clément Berthet,2021-06-01,Auvergne-Rhône-Alpes,Savoie,157.18,5:50:06,4536,277,4820,239,63,26.9,75.6,Dégagé,6,91,6,3.2,SSE
+420,Clément Berthet,2021-07-31,Bourgogne-Franche-Comté,Doubs,88.06,3:00:19,1303,238,2341,90,54,29.3,67.0,Quelques nuages,19,67,19,10.0,W
+421,Clément Berthet,2021-07-30,Bourgogne-Franche-Comté,Doubs,115.76,3:42:07,1920,295,3201,166,67,31.3,72.7,Quelques nuages,22,70,23,17.1,WSW
+422,Clément Berthet,2021-07-29,Bourgogne-Franche-Comté,Doubs,24.09,1:20:02,633,227,967,39,51,18.1,54.0,Quelques nuages,20,75,20,8.9,WSW
+423,Clément Berthet,2021-07-27,Bourgogne-Franche-Comté,Doubs,72.53,2:43:42,1245,231,2009,80,52,26.6,59.8,Nuages,20,72,20,2.4,W
+424,Clément Berthet,2021-07-25,Bourgogne-Franche-Comté,Doubs,104.84,3:34:52,1595,232,2749,102,52,29.3,67.0,Quelques nuages,21,83,21,8.0,W
+425,Clément Berthet,2021-07-24,Bourgogne-Franche-Comté,Doubs,34.92,1:18:36,622,229,954,35,52,26.7,60.8,Nuages,19,94,20,5.5,SE
+426,Clément Berthet,2021-07-22,Bourgogne-Franche-Comté,Doubs,214.79,7:03:04,3409,254,5656,239,57,30.5,68.4,Dégagé,20,81,21,5.6,NNE
+427,Clément Berthet,2021-07-20,Bourgogne-Franche-Comté,Doubs,151.77,5:00:15,2563,267,4170,184,60,30.3,69.5,Dégagé,20,81,20,12.1,NE
+428,Clément Berthet,2021-07-19,Bourgogne-Franche-Comté,Doubs,81.32,2:30:29,877,244,2084,76,55,32.4,66.2,Dégagé,27,58,28,16.5,NE
+429,Clément Berthet,2021-07-18,Bourgogne-Franche-Comté,Doubs,41.65,1:30:09,551,218,1119,41,49,27.7,65.9,Dégagé,24,66,24,20.3,NE
+430,Clément Berthet,2021-07-17,Auvergne-Rhône-Alpes,Savoie,133.3,5:02:24,3362,264,4088,187,60,26.4,71.6,Quelques nuages,18,87,18,3.1,N
+431,Clément Berthet,2021-07-16,Auvergne-Rhône-Alpes,Savoie,83.11,3:18:17,2379,270,2775,131,61,25.2,77.0,Pluie,17,95,17,2.9,N
+432,Clément Berthet,2021-07-14,Bourgogne-Franche-Comté,Doubs,106.19,3:30:08,2058,281,3056,144,64,30.3,74.9,Pluie,14,92,14,11.8,WSW
+433,Clément Berthet,2021-07-13,Bourgogne-Franche-Comté,Doubs,76.6,2:33:43,1207,257,2163,88,58,29.9,79.9,Nuages,15,86,15,10.8,WSW
+434,Clément Berthet,2021-07-11,Bourgogne-Franche-Comté,Doubs,155.22,5:00:46,2545,246,4151,158,56,31.0,81.7,Quelques nuages,17,87,17,4.3,W
+435,Clément Berthet,2021-07-10,Bourgogne-Franche-Comté,Doubs,44.18,1:29:52,747,228,1118,40,52,29.5,69.1,Quelques nuages,21,62,21,8.5,W
+436,Clément Berthet,2021-07-09,Bourgogne-Franche-Comté,Doubs,172.78,5:31:55,2302,245,4548,176,55,31.2,74.5,Quelques nuages,17,87,17,5.5,WNW
+437,Clément Berthet,2021-07-08,Bourgogne-Franche-Comté,Doubs,71.1,2:18:58,920,239,1870,72,54,30.7,64.8,Pluie,19,87,19,7.5,WNW
+438,Clément Berthet,2021-07-05,Auvergne-Rhône-Alpes,Ain,96.85,3:00:12,1469,254,2607,103,57,32.2,75.2,Nuages,15,91,15,14.0,SW
+439,Clément Berthet,2021-07-03,Auvergne-Rhône-Alpes,Ain,93.44,3:06:54,1685,239,2486,94,54,30.0,68.4,Nuages,16,81,16,3.5,SE
+440,Clément Berthet,2021-07-02,Auvergne-Rhône-Alpes,Ain,64.88,2:07:28,1189,248,1738,70,56,30.5,61.2,Quelques nuages,19,55,19,7.1,NW
+441,Clément Berthet,2021-07-01,Bourgogne-Franche-Comté,Doubs,97.31,2:57:56,941,242,2454,91,55,32.8,106.9,Quelques nuages,16,81,16,9.1,WSW
+442,Clément Berthet,2021-08-30,Bourgogne-Franche-Comté,Doubs,48.32,1:38:45,424,234,1276,46,53,29.4,53.6,Quelques nuages,19,68,19,12.7,NNE
+443,Clément Berthet,2021-08-23,Bourgogne-Franche-Comté,Doubs,66.75,2:08:06,1020,263,1890,80,60,31.3,68.0,Quelques nuages,18,69,18,8.7,NNW
+444,Clément Berthet,2021-08-22,Bourgogne-Franche-Comté,Doubs,47.18,1:38:31,665,236,1286,48,53,28.7,68.8,Nuages,19,81,19,12.7,SW
+445,Clément Berthet,2021-08-21,Bourgogne-Franche-Comté,Doubs,87.72,2:23:37,795,246,2035,77,56,36.6,69.5,Dégagé,25,56,25,9.7,WSW
+446,Clément Berthet,2021-08-19,Bourgogne-Franche-Comté,Doubs,136.09,4:30:17,2506,268,3922,170,61,30.2,70.2,Quelques nuages,17,87,17,3.2,NNW
+447,Clément Berthet,2021-08-18,Bourgogne-Franche-Comté,Doubs,105.05,3:29:51,1630,245,2905,111,55,30.0,65.9,Nuages,16,87,16,5.4,WNW
+448,Clément Berthet,2021-08-17,Bourgogne-Franche-Comté,Doubs,59.7,2:02:51,998,258,1739,69,58,29.2,74.2,Nuages,20,56,20,10.4,WNW
+449,Clément Berthet,2021-08-05,Bourgogne-Franche-Comté,Doubs,1.92,7:50,58,133,62,2,30,14.8,36.7,Quelques nuages,19,70,19,12.1,SW
+450,Clément Berthet,2021-08-05,Bourgogne-Franche-Comté,Doubs,113.35,3:45:43,1927,295,3225,173,67,30.1,70.6,Pluie,17,82,17,13.7,SW
+451,Clément Berthet,2021-08-04,Bourgogne-Franche-Comté,Doubs,104.49,3:27:33,1378,250,2802,114,57,30.2,74.2,Nuages,14,92,14,3.8,NNE
+452,Clément Berthet,2021-08-03,Auvergne-Rhône-Alpes,Ain,80.83,2:59:25,1739,242,2290,94,55,27.0,70.9,Nuages,12,95,12,6.6,SSW
+453,Clément Berthet,2021-08-01,Bourgogne-Franche-Comté,Doubs,119.37,4:05:22,2352,250,3367,136,57,29.2,79.6,Pluie,14,87,14,5.4,WSW
+454,Clément Berthet,2021-09-30,Bourgogne-Franche-Comté,Doubs,89.44,2:50:45,1398,296,2438,129,67,31.4,65.2,Quelques nuages,13,63,13,8.4,N
+455,Clément Berthet,2021-09-29,Bourgogne-Franche-Comté,Doubs,36.73,1:14:40,395,234,960,34,53,29.5,58.0,Quelques nuages,13,83,13,16.1,WSW
+456,Clément Berthet,2021-09-26,Bourgogne-Franche-Comté,Doubs,86.27,4:15:32,2785,348,4781,268,79,20.3,57.2,Pluie,16,100,17,12.3,SSW
+457,Clément Berthet,2021-09-26,Bourgogne-Franche-Comté,Doubs,6.2,19:41,101,196,180,6,44,18.9,52.2,Pluie,16,100,17,12.3,SSW
+458,Clément Berthet,2021-09-24,Bourgogne-Franche-Comté,Doubs,72.8,2:00:47,472,236,1604,56,53,36.2,63.0,Dégagé,20,61,20,5.4,WNW
+459,Clément Berthet,2021-09-22,Auvergne-Rhône-Alpes,Ain,154.91,5:01:46,3082,284,4351,213,64,30.8,69.1,Quelques nuages,12,70,12,8.2,E
+460,Clément Berthet,2021-09-21,Bourgogne-Franche-Comté,Doubs,119.69,3:51:44,2102,281,3275,159,64,31.0,64.1,Quelques nuages,17,72,17,13.8,NE
+461,Clément Berthet,2021-09-20,Bourgogne-Franche-Comté,Doubs,79.05,2:34:47,754,226,1969,68,51,30.6,68.4,Nuages,15,81,15,6.7,E
+462,Clément Berthet,2021-09-17,Bourgogne-Franche-Comté,Doubs,141.5,4:30:14,2339,292,3853,200,66,31.4,68.8,Quelques nuages,16,87,16,5.5,NNE
+463,Clément Berthet,2021-09-15,Bourgogne-Franche-Comté,Doubs,70.69,2:30:17,1305,299,2051,119,68,28.2,70.6,Pluie,18,87,18,11.3,SW
+464,Clément Berthet,2021-09-14,Bourgogne-Franche-Comté,Doubs,92.0,3:03:07,1551,273,2557,118,62,30.1,68.4,Nuages,17,87,17,5.4,S
+465,Clément Berthet,2021-09-13,Bourgogne-Franche-Comté,Doubs,64.25,1:47:44,504,241,1425,54,55,35.8,60.5,Quelques nuages,24,57,24,4.5,NNW
+466,Clément Berthet,2021-09-12,Bourgogne-Franche-Comté,Doubs,120.53,3:58:35,2145,273,3380,153,62,30.3,66.6,Quelques nuages,14,94,14,3.7,ENE
+467,Clément Berthet,2021-09-11,Bourgogne-Franche-Comté,Doubs,53.07,2:00:18,1098,254,1614,66,57,26.5,61.6,Quelques nuages,20,87,20,6.8,NNW
+468,Clément Berthet,2021-09-10,Bourgogne-Franche-Comté,Doubs,51.23,1:33:43,433,238,1227,47,54,32.8,56.9,Nuages,19,79,19,13.4,WSW
+469,Clément Berthet,2021-09-06,Bourgogne-Franche-Comté,Doubs,23.58,1:15:46,500,219,901,37,50,18.7,54.0,Dégagé,25,52,25,8.3,N
+470,Clément Berthet,2021-09-01,Bourgogne-Franche-Comté,Jura,107.01,3:37:08,2124,285,3103,156,64,29.6,70.9,Dégagé,21,66,21,7.7,N
+471,Clément Berthet,2021-11-26,Bourgogne-Franche-Comté,Doubs,29.49,1:48:32,782,242,1322,60,55,16.3,60.4,Neige,1,98,3,11.6,SW
+472,Clément Berthet,2021-11-25,Bourgogne-Franche-Comté,Doubs,100.84,3:35:27,1506,238,2905,107,54,28.1,69.7,Nuages,4,74,3,5.1,NNW
+473,Clément Berthet,2021-11-24,Bourgogne-Franche-Comté,Doubs,103.25,3:33:11,1596,237,2868,106,54,29.1,67.8,Dégagé,2,82,2,3.3,E

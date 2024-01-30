@@ -1,0 +1,328 @@
+,Athlète,Date,Région,Département,Distance,Durée,Dénivelé,Puissance moyenne,Effort,Charge entraînement,Intensité,Vitesse moyenne,Vitesse max,Météo,Température,Humidité,Température ressentie,Vitesse vent,Direction vent
+0,Franck Bonnamour,2022-01-29,Occitanie,Gard,44.71,1:40:21,815,245,1322,162,98,26.7,62.5,Quelques nuages,2,58,0,7.9,NNW
+1,Franck Bonnamour,2022-01-28,Occitanie,Gard,77.26,2:33:21,1085,267,2149,295,107,30.2,60.5,Dégagé,9,51,7,15.6,N
+2,Franck Bonnamour,2022-01-26,Occitanie,Gard,80.59,2:49:55,1472,277,2350,349,111,28.5,65.0,Dégagé,13,31,13,5.5,NE
+3,Franck Bonnamour,2022-01-25,Auvergne-Rhône-Alpes,Allier,72.44,2:30:34,918,237,1964,243,95,28.9,58.8,Dégagé,2,76,5,6.3,SSW
+4,Franck Bonnamour,2022-01-24,Bretagne,Côtes-d'Armor,79.75,2:32:59,947,263,2313,283,105,31.3,64.2,Quelques nuages,0,95,3,12.2,ESE
+5,Franck Bonnamour,2022-01-21,Bretagne,Côtes-d'Armor,75.29,2:36:56,807,223,1962,209,89,28.8,61.4,Quelques nuages,3,79,0,10.9,ENE
+6,Franck Bonnamour,2022-01-07,Bretagne,Côtes-d'Armor,76.8,2:31:53,856,243,2041,242,97,30.3,62.7,Quelques nuages,6,82,1,37.8,WNW
+7,Franck Bonnamour,2022-01-02,Bretagne,Côtes-d'Armor,78.07,2:43:47,775,224,1856,222,90,28.6,56.9,Quelques nuages,12,86,12,28.7,SW
+8,Franck Bonnamour,2022-01-01,Bretagne,Côtes-d'Armor,58.02,2:00:02,798,237,1528,180,95,29.0,64.5,Quelques nuages,12,77,12,25.7,SSW
+9,Franck Bonnamour,2022-02-28,Bretagne,Côtes-d'Armor,63.81,2:09:29,612,215,1568,161,86,29.6,56.7,Quelques nuages,9,82,6,20.2,S
+10,Franck Bonnamour,2022-02-24,Bretagne,Côtes-d'Armor,40.36,1:30:25,597,232,1106,130,93,26.8,76.5,Vent,8,74,3,42.2,WNW
+11,Franck Bonnamour,2022-02-23,Bretagne,Côtes-d'Armor,125.86,4:04:12,1578,283,3599,536,113,30.9,82.1,Quelques nuages,11,75,11,15.7,SW
+12,Franck Bonnamour,2022-02-22,Bretagne,Côtes-d'Armor,63.36,2:12:00,789,171,1357,999,99,28.8,80.4,Quelques nuages,11,98,11,28.2,WSW
+13,Franck Bonnamour,2022-02-16,Bretagne,Côtes-d'Armor,55.35,1:49:40,687,272,1559,216,109,30.3,54.9,Nuages,12,93,12,34.7,WSW
+14,Franck Bonnamour,2022-02-15,Bretagne,Côtes-d'Armor,95.09,2:49:31,961,263,2368,317,105,33.7,64.9,Pluie,8,92,4,26.1,SW
+15,Franck Bonnamour,2022-02-13,Bretagne,Côtes-d'Armor,96.49,3:06:46,514,241,2338,302,96,31.0,63.5,Vent,8,94,4,36.8,S
+16,Franck Bonnamour,2022-02-12,Bretagne,Côtes-d'Armor,153.29,5:03:51,1647,235,3895,460,94,30.3,62.6,Dégagé,1,89,4,15.7,S
+17,Franck Bonnamour,2022-02-11,Bretagne,Côtes-d'Armor,121.55,4:01:06,1471,233,3154,357,93,30.3,62.9,Quelques nuages,9,75,9,4.6,SE
+18,Franck Bonnamour,2022-02-09,Bretagne,Côtes-d'Armor,107.87,3:30:02,1043,241,2870,326,96,30.8,59.8,Quelques nuages,5,100,3,7.2,SSW
+19,Franck Bonnamour,2022-02-08,Bretagne,Côtes-d'Armor,75.61,2:33:46,748,226,1908,208,90,29.5,65.3,Quelques nuages,12,87,12,13.8,SW
+20,Franck Bonnamour,2022-02-05,Bretagne,Côtes-d'Armor,41.86,1:30:57,416,207,1041,104,83,27.6,53.2,Quelques nuages,9,68,6,24.0,W
+21,Franck Bonnamour,2022-03-30,Bretagne,Côtes-d'Armor,120.53,3:29:41,1145,267,2962,406,107,34.5,67.0,Nuages,9,94,7,18.6,N
+22,Franck Bonnamour,2022-03-29,Bretagne,Côtes-d'Armor,92.91,3:01:02,827,259,2452,336,104,30.8,62.1,Quelques nuages,8,93,7,5.4,SSE
+23,Franck Bonnamour,2022-03-28,Bretagne,Côtes-d'Armor,45.89,1:38:54,545,214,1116,127,86,27.8,56.4,Quelques nuages,11,83,11,10.2,SE
+24,Franck Bonnamour,2022-03-26,Bretagne,Côtes-d'Armor,62.8,2:03:05,472,213,1404,148,85,30.6,67.5,Dégagé,10,81,7,21.0,ENE
+25,Franck Bonnamour,2022-03-25,Bretagne,Côtes-d'Armor,77.22,2:33:09,778,245,2023,254,98,30.3,63.8,Dégagé,10,81,8,15.2,ENE
+26,Franck Bonnamour,2022-03-24,Bretagne,Côtes-d'Armor,77.85,2:34:31,847,237,2059,238,95,30.2,61.9,Dégagé,9,82,8,6.7,E
+27,Franck Bonnamour,2022-03-23,Bretagne,Côtes-d'Armor,95.28,3:03:43,965,280,2500,391,112,31.1,66.2,Quelques nuages,10,72,7,17.0,SE
+28,Franck Bonnamour,2022-03-22,Bretagne,Côtes-d'Armor,48.07,1:33:27,500,225,1170,130,90,30.9,68.3,Dégagé,15,62,15,24.5,SE
+29,Franck Bonnamour,2022-03-21,Bretagne,Côtes-d'Armor,94.64,3:00:29,1205,253,2579,315,101,31.5,70.1,Quelques nuages,10,88,10,19.1,SE
+30,Franck Bonnamour,2022-03-20,Bretagne,Côtes-d'Armor,55.21,1:43:25,544,251,1472,173,100,32.0,66.8,Nuages,9,80,7,12.4,ESE
+31,Franck Bonnamour,2022-03-18,Auvergne-Rhône-Alpes,Loire,45.4,1:31:24,234,228,1222,129,91,29.8,50.2,Dégagé,6,66,1,28.0,NE
+32,Franck Bonnamour,2022-03-17,Bretagne,Côtes-d'Armor,77.9,2:30:03,818,268,2073,292,107,31.2,57.1,Dégagé,7,83,5,9.3,NNW
+33,Franck Bonnamour,2022-03-16,Bretagne,Côtes-d'Armor,59.97,2:03:43,646,238,1578,190,95,29.1,58.2,Pluie,10,99,9,7.3,SSW
+34,Franck Bonnamour,2022-03-15,Bretagne,Côtes-d'Armor,40.44,2:03:31,486,96,708,999,99,19.6,47.3,Quelques nuages,8,88,6,9.5,SSE
+35,Franck Bonnamour,2022-03-09,Auvergne-Rhône-Alpes,Allier,13.2,18:46,191,360,400,64,144,42.2,74.1,Quelques nuages,16,34,16,9.5,S
+36,Franck Bonnamour,2022-03-04,Bretagne,Côtes-d'Armor,49.98,1:40:33,473,235,1286,149,94,29.8,64.0,Quelques nuages,7,82,3,20.0,NNW
+37,Franck Bonnamour,2022-03-03,Bretagne,Côtes-d'Armor,65.52,2:07:46,780,258,1777,227,103,30.8,57.3,Nuages,10,93,7,14.1,WNW
+38,Franck Bonnamour,2022-03-02,Bretagne,Côtes-d'Armor,161.39,5:00:48,1926,250,4131,504,100,32.2,68.9,Nuages,9,93,7,17.0,SSE
+39,Franck Bonnamour,2022-04-30,Bretagne,Côtes-d'Armor,110.03,3:39:26,1200,231,2766,313,92,30.1,70.5,Nuages,9,87,6,17.0,ENE
+40,Franck Bonnamour,2022-04-29,Bretagne,Côtes-d'Armor,139.41,4:40:53,1408,227,3454,402,91,29.8,60.3,Nuages,10,99,10,16.3,NE
+41,Franck Bonnamour,2022-04-28,Bretagne,Côtes-d'Armor,84.85,2:51:23,816,234,2247,264,94,29.7,71.3,Nuages,11,92,11,19.8,ENE
+42,Franck Bonnamour,2022-04-27,Bretagne,Côtes-d'Armor,63.13,2:05:09,628,248,1690,204,99,30.3,67.7,Quelques nuages,10,82,7,23.7,E
+43,Franck Bonnamour,2022-04-24,Bretagne,Côtes-d'Armor,63.64,2:07:01,324,234,1628,186,94,30.1,69.2,Nuages,11,97,11,14.2,N
+44,Franck Bonnamour,2022-04-17,Bretagne,Côtes-d'Armor,81.22,2:16:43,768,275,2025,280,110,35.6,77.9,Quelques nuages,9,88,7,12.4,SSE
+45,Franck Bonnamour,2022-04-16,Bretagne,Côtes-d'Armor,93.81,2:37:21,757,265,2276,298,106,35.8,69.8,Quelques nuages,9,100,8,7.1,E
+46,Franck Bonnamour,2022-04-15,Bretagne,Côtes-d'Armor,94.29,3:00:08,1098,282,2471,395,113,31.4,60.7,Quelques nuages,10,98,10,4.5,S
+47,Franck Bonnamour,2022-04-14,Bretagne,Côtes-d'Armor,92.65,2:59:58,949,224,2206,244,90,30.9,62.6,Dégagé,10,93,9,7.5,S
+48,Franck Bonnamour,2022-04-06,Bretagne,Côtes-d'Armor,171.04,5:00:01,1705,250,4106,519,100,34.2,90.3,Quelques nuages,9,83,5,27.2,SW
+49,Franck Bonnamour,2022-04-05,Bretagne,Côtes-d'Armor,92.25,3:00:17,985,233,2366,260,93,30.7,77.9,Nuages,10,93,7,18.8,WNW
+50,Franck Bonnamour,2022-04-04,Bretagne,Côtes-d'Armor,56.89,2:00:13,524,187,1246,114,75,28.4,58.3,Quelques nuages,6,75,3,22.9,WSW
+51,Franck Bonnamour,2022-05-30,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,39.07,1:24:58,697,186,950,999,99,27.6,60.7,Quelques nuages,23,67,23,11.5,SSE
+52,Franck Bonnamour,2022-05-29,Bretagne,Côtes-d'Armor,76.55,2:31:19,801,255,1932,262,102,30.4,70.3,Dégagé,12,81,12,15.6,E
+53,Franck Bonnamour,2022-05-28,Bretagne,Côtes-d'Armor,82.17,2:27:37,884,301,2275,357,120,33.4,71.5,Dégagé,13,76,13,18.9,NE
+54,Franck Bonnamour,2022-05-26,Bretagne,Côtes-d'Armor,61.97,2:05:04,680,272,1589,248,109,29.7,76.5,Quelques nuages,14,82,14,17.7,NW
+55,Franck Bonnamour,2022-05-25,Bretagne,Côtes-d'Armor,101.14,3:07:34,892,265,2598,355,106,32.4,66.7,Quelques nuages,12,80,12,21.5,WSW
+56,Franck Bonnamour,2022-05-24,Bretagne,Côtes-d'Armor,108.49,3:13:17,895,230,2443,273,92,33.7,71.0,Quelques nuages,12,82,12,18.8,SW
+57,Franck Bonnamour,2022-05-20,Bretagne,Côtes-d'Armor,67.35,2:04:57,681,268,1715,241,107,32.3,59.1,Pluie,13,82,13,11.1,NW
+58,Franck Bonnamour,2022-05-19,Bretagne,Côtes-d'Armor,79.15,2:13:40,643,258,1783,243,103,35.5,67.9,Quelques nuages,13,85,13,8.7,SSW
+59,Franck Bonnamour,2022-05-17,Bretagne,Côtes-d'Armor,55.43,1:54:32,538,194,1182,115,78,29.0,62.5,Quelques nuages,17,83,17,15.2,SSE
+60,Franck Bonnamour,2022-05-10,Auvergne-Rhône-Alpes,Isère,36.02,1:15:01,521,215,852,93,86,28.8,76.3,Dégagé,21,55,21,1.6,WNW
+61,Franck Bonnamour,2022-05-01,Bretagne,Côtes-d'Armor,64.11,2:04:14,564,220,1538,169,88,31.0,67.8,Quelques nuages,10,93,9,6.8,E
+62,Franck Bonnamour,2022-06-27,Bretagne,Côtes-d'Armor,70.46,2:14:07,578,249,1842,222,100,31.5,58.1,Quelques nuages,15,75,15,19.5,WSW
+63,Franck Bonnamour,2022-06-24,Bretagne,Côtes-d'Armor,63.36,2:01:52,867,239,1567,188,96,31.2,60.7,Quelques nuages,15,87,15,17.5,SW
+64,Franck Bonnamour,2022-06-23,Bretagne,Côtes-d'Armor,64.07,2:00:01,581,226,1521,164,90,32.0,57.4,Nuages,15,92,15,7.1,SW
+65,Franck Bonnamour,2022-06-22,Bretagne,Côtes-d'Armor,61.61,2:01:28,543,234,1487,178,94,30.4,59.0,Quelques nuages,20,70,20,17.7,NE
+66,Franck Bonnamour,2022-06-04,Auvergne-Rhône-Alpes,Ain,65.25,1:50:37,648,250,1661,999,99,35.4,64.0,Quelques nuages,25,62,25,7.6,S
+67,Franck Bonnamour,2022-06-03,Auvergne-Rhône-Alpes,Drôme,43.54,1:20:32,229,191,922,999,99,32.4,54.4,Quelques nuages,31,40,31,17.2,S
+68,Franck Bonnamour,2022-07-31,Bretagne,Côtes-d'Armor,73.42,2:11:05,670,244,1827,218,98,33.6,65.8,Quelques nuages,17,94,17,16.4,WSW
+69,Franck Bonnamour,2022-07-30,Bretagne,Côtes-d'Armor,69.15,2:00:03,741,262,1809,224,105,34.6,66.1,Quelques nuages,19,85,19,13.9,NW
+70,Franck Bonnamour,2022-07-27,Bretagne,Morbihan,89.17,2:12:00,408,274,1872,264,110,40.5,69.1,Quelques nuages,23,43,23,14.8,N
+71,Franck Bonnamour,2022-07-26,Normandie,Calvados,80.22,2:01:35,213,266,1611,231,106,39.6,71.7,Quelques nuages,20,56,20,15.6,NNW
+72,Franck Bonnamour,2022-07-24,Île-de-France,Hauts-de-Seine,117.11,3:12:10,786,315,3637,999,99,36.6,77.1,Dégagé,32,30,32,10.2,S
+73,Franck Bonnamour,2022-07-23,Occitanie,Lot,40.74,58:08,407,305,1027,144,122,42.1,76.4,Quelques nuages,25,55,25,9.8,NW
+74,Franck Bonnamour,2022-07-22,Occitanie,Hautes-Pyrénées,189.96,4:19:38,879,423,6583,999,99,43.9,81.3,Quelques nuages,27,63,28,17.6,WNW
+75,Franck Bonnamour,2022-07-21,Occitanie,Hautes-Pyrénées,14.88,24:19,13,257,375,999,99,36.7,66.8,Dégagé,25,41,25,6.8,NNE
+76,Franck Bonnamour,2022-07-21,Occitanie,Hautes-Pyrénées,145.0,4:40:45,3985,345,5811,999,99,31.0,88.1,Dégagé,28,47,28,9.1,NNE
+77,Franck Bonnamour,2022-07-20,Auvergne-Rhône-Alpes,Ain,132.29,3:49:32,3318,391,5390,999,99,34.6,84.2,Quelques nuages,25,56,25,5.1,N
+78,Franck Bonnamour,2022-07-19,Occitanie,Aude,183.15,5:03:46,3126,341,6218,999,99,36.2,91.6,Quelques nuages,30,50,31,25.5,E
+79,Franck Bonnamour,2022-07-18,Occitanie,Aude,9.95,29:38,90,79,141,999,99,20.1,43.1,Dégagé,32,34,32,32.6,ESE
+80,Franck Bonnamour,2022-07-17,Occitanie,Aveyron,205.9,5:01:38,1559,380,6882,999,99,41.0,92.3,Dégagé,33,11,33,4.8,ENE
+81,Franck Bonnamour,2022-07-16,Auvergne-Rhône-Alpes,Ain,200.52,4:54:20,1966,400,7064,999,99,40.9,93.5,Dégagé,26,30,26,12.1,N
+82,Franck Bonnamour,2022-07-15,Auvergne-Rhône-Alpes,Isère,197.3,4:35:47,1472,411,6796,999,99,42.9,86.4,Dégagé,28,28,28,8.4,NW
+83,Franck Bonnamour,2022-07-14,Provence-Alpes-Côte d'Azur,Hautes-Alpes,168.09,5:36:24,3723,277,5590,999,99,30.0,93.0,Quelques nuages,25,31,25,5.9,WNW
+84,Franck Bonnamour,2022-07-12,Auvergne-Rhône-Alpes,Savoie,7.63,12:07,27,108,78,999,99,37.8,63.0,Quelques nuages,21,34,21,7.5,WNW
+85,Franck Bonnamour,2022-07-12,Auvergne-Rhône-Alpes,Savoie,152.37,3:46:03,2243,397,5382,999,99,40.4,82.1,Quelques nuages,23,37,23,8.5,NW
+86,Franck Bonnamour,2022-07-11,Auvergne-Rhône-Alpes,Savoie,35.95,1:28:28,880,191,1016,999,99,24.4,83.6,Dégagé,17,75,17,6.8,NNW
+87,Franck Bonnamour,2022-07-09,Bourgogne-Franche-Comté,Jura,192.89,4:28:52,2098,444,7157,999,99,43.0,94.5,Quelques nuages,24,43,24,17.6,NNE
+88,Franck Bonnamour,2022-07-08,Auvergne-Rhône-Alpes,Ain,179.07,4:17:14,2207,459,7091,999,99,41.8,86.0,Dégagé,23,40,23,13.1,N
+89,Franck Bonnamour,2022-07-06,Hauts-de-France,Nord,168.79,3:46:34,797,432,5875,999,99,44.7,75.3,Quelques nuages,22,49,22,11.2,NNW
+90,Franck Bonnamour,2022-07-04,Hauts-de-France,Nord,58.14,1:54:19,387,168,1153,999,99,30.5,52.1,Quelques nuages,18,75,18,8.4,SSW
+91,Franck Bonnamour,2022-08-31,Bretagne,Côtes-d'Armor,96.89,2:46:39,996,254,2229,291,102,34.9,76.6,Quelques nuages,18,87,18,27.6,ENE
+92,Franck Bonnamour,2022-08-30,Bretagne,Côtes-d'Armor,83.99,2:41:39,976,234,2076,237,94,31.2,69.1,Quelques nuages,18,89,18,24.0,ENE
+93,Franck Bonnamour,2022-08-27,Bretagne,Côtes-d'Armor,57.4,1:47:01,707,260,1521,194,104,32.2,67.0,Quelques nuages,15,91,15,4.2,ENE
+94,Franck Bonnamour,2022-08-26,Bretagne,Côtes-d'Armor,66.14,2:01:12,811,290,1789,275,116,32.7,64.0,Quelques nuages,15,91,15,9.9,NW
+95,Franck Bonnamour,2022-08-25,Bretagne,Côtes-d'Armor,87.78,2:47:59,963,243,2286,272,97,31.4,60.1,Nuages,17,100,18,18.8,NNW
+96,Franck Bonnamour,2022-08-23,Bretagne,Côtes-d'Armor,91.67,2:53:51,1064,234,2250,258,94,31.6,73.2,Nuages,19,100,20,14.4,SW
+97,Franck Bonnamour,2022-08-22,Bretagne,Côtes-d'Armor,55.39,1:52:38,574,218,1288,143,87,29.5,56.5,Nuages,22,82,22,14.1,WSW
+98,Franck Bonnamour,2022-08-20,Bretagne,Côtes-d'Armor,54.18,1:41:09,340,233,1315,146,93,32.1,53.8,Quelques nuages,17,75,17,11.6,W
+99,Franck Bonnamour,2022-08-13,Bretagne,Côtes-d'Armor,55.86,1:51:24,603,219,1250,147,88,30.1,57.1,Quelques nuages,19,77,20,8.1,E
+100,Franck Bonnamour,2022-08-11,Bretagne,Côtes-d'Armor,90.27,3:07:08,1209,230,2199,273,92,28.9,63.3,Dégagé,19,82,19,12.6,ENE
+101,Franck Bonnamour,2022-08-10,Bretagne,Côtes-d'Armor,84.23,2:31:55,1051,273,2149,308,109,33.3,67.6,Quelques nuages,19,92,19,17.4,ENE
+102,Franck Bonnamour,2022-08-09,Bretagne,Côtes-d'Armor,145.67,4:31:13,1736,263,3766,516,105,32.2,73.0,Quelques nuages,18,88,18,16.0,NE
+103,Franck Bonnamour,2022-08-06,Nouvelle-Aquitaine,Creuse,62.94,2:04:48,1019,233,1587,187,93,30.3,62.5,Dégagé,17,73,17,17.1,NE
+104,Franck Bonnamour,2022-08-05,Nouvelle-Aquitaine,Creuse,48.45,1:28:55,736,263,1259,165,105,32.7,76.3,Nuages,26,52,26,15.9,N
+105,Franck Bonnamour,2022-08-04,Bretagne,Côtes-d'Armor,66.67,2:00:08,751,253,1676,204,101,33.3,62.0,Quelques nuages,17,82,17,14.7,NNW
+106,Franck Bonnamour,2022-08-03,Bretagne,Côtes-d'Armor,28.62,56:37,422,259,754,103,104,30.3,60.0,Quelques nuages,22,79,23,17.5,WNW
+107,Franck Bonnamour,2022-08-03,Bretagne,Côtes-d'Armor,65.39,1:52:19,720,280,1716,234,112,34.9,62.6,Quelques nuages,25,64,26,13.0,WNW
+108,Franck Bonnamour,2022-08-02,Bretagne,Côtes-d'Armor,104.79,3:06:59,1215,261,2732,352,104,33.6,64.7,Quelques nuages,18,98,18,10.4,WSW
+109,Franck Bonnamour,2022-08-01,Bretagne,Côtes-d'Armor,71.39,2:06:32,703,255,1866,226,102,33.9,64.6,Quelques nuages,17,99,18,10.8,WNW
+110,Franck Bonnamour,2022-09-30,Bretagne,Côtes-d'Armor,84.44,2:52:14,1232,233,2090,252,93,29.4,63.1,Quelques nuages,10,100,8,13.4,SW
+111,Franck Bonnamour,2022-09-29,Bretagne,Côtes-d'Armor,94.8,3:05:19,1325,285,2546,406,114,30.7,60.8,Quelques nuages,11,87,11,19.3,NW
+112,Franck Bonnamour,2022-09-28,Bretagne,Côtes-d'Armor,51.78,1:44:14,514,217,1264,131,87,29.8,56.0,Nuages,14,79,14,29.5,NW
+113,Franck Bonnamour,2022-09-27,Bretagne,Côtes-d'Armor,89.32,3:04:25,1338,274,2460,378,110,29.1,69.8,Quelques nuages,13,79,13,28.7,WNW
+114,Franck Bonnamour,2022-09-26,Bretagne,Côtes-d'Armor,73.56,2:33:11,925,229,1848,219,92,28.8,59.0,Nuages,16,79,16,33.4,NW
+115,Franck Bonnamour,2022-09-22,Bretagne,Côtes-d'Armor,105.55,3:18:30,1262,272,2853,406,109,31.9,64.7,Dégagé,8,93,7,10.2,S
+116,Franck Bonnamour,2022-09-21,Bretagne,Côtes-d'Armor,99.19,3:10:11,1153,264,2506,356,106,31.3,64.0,Quelques nuages,10,89,10,9.4,ESE
+117,Franck Bonnamour,2022-09-09,Bretagne,Côtes-d'Armor,89.82,3:00:25,1072,226,2208,245,90,29.9,59.1,Quelques nuages,15,92,15,26.9,SSW
+118,Franck Bonnamour,2022-09-08,Bretagne,Côtes-d'Armor,77.16,2:30:29,1020,270,2024,304,108,30.8,71.8,Pluie,15,89,15,25.7,SW
+119,Franck Bonnamour,2022-09-07,Bretagne,Côtes-d'Armor,129.45,3:33:10,1442,272,3055,423,109,36.4,70.8,Quelques nuages,16,89,16,22.1,SSW
+120,Franck Bonnamour,2022-09-06,Bretagne,Côtes-d'Armor,96.64,3:03:59,1032,245,2445,298,98,31.5,61.2,Quelques nuages,17,87,17,21.5,S
+121,Franck Bonnamour,2022-09-05,Bretagne,Côtes-d'Armor,59.64,2:00:02,584,213,1404,144,85,29.8,59.5,Quelques nuages,19,83,19,22.6,SSE
+122,Franck Bonnamour,2022-09-02,Bretagne,Côtes-d'Armor,71.75,2:15:53,822,264,1827,254,106,31.7,62.6,Quelques nuages,16,94,16,6.0,W
+123,Franck Bonnamour,2022-10-06,Bretagne,Côtes-d'Armor,61.54,2:00:21,681,226,1497,166,90,30.7,64.9,Dégagé,10,93,8,10.7,SW
+124,Franck Bonnamour,2022-10-05,Bretagne,Côtes-d'Armor,209.37,6:54:19,3190,246,5565,697,98,30.3,75.9,Quelques nuages,15,88,15,31.0,SSW
+125,Franck Bonnamour,2022-10-04,Bretagne,Côtes-d'Armor,98.8,3:05:06,1171,253,2563,330,101,32.0,74.7,Quelques nuages,13,93,13,13.8,SSW
+126,Franck Bonnamour,2022-10-03,Bretagne,Côtes-d'Armor,62.2,2:01:09,643,223,1494,162,89,30.8,63.3,Quelques nuages,18,80,18,11.9,SSE
+127,Franck Bonnamour,2022-10-01,Bretagne,Côtes-d'Armor,64.53,2:05:46,576,227,1567,174,91,30.8,58.6,Quelques nuages,15,100,15,24.9,W
+128,Franck Bonnamour,2022-11-30,Bretagne,Côtes-d'Armor,121.91,4:00:43,1294,240,3135,382,96,30.4,57.4,Quelques nuages,5,94,2,13.1,SSE
+129,Franck Bonnamour,2022-11-29,Bretagne,Côtes-d'Armor,125.37,4:04:36,1236,260,3441,452,104,30.8,60.5,Quelques nuages,8,94,6,10.4,NNW
+130,Franck Bonnamour,2022-11-28,Bretagne,Côtes-d'Armor,62.87,2:08:06,658,229,1654,180,92,29.4,58.8,Quelques nuages,9,93,6,25.0,WSW
+131,Franck Bonnamour,2022-11-26,Bretagne,Côtes-d'Armor,77.78,2:35:46,898,229,1944,221,92,30.0,65.4,Quelques nuages,9,92,6,23.2,S
+132,Franck Bonnamour,2022-11-25,Bretagne,Côtes-d'Armor,95.47,3:06:56,1072,243,2426,301,97,30.6,77.4,Quelques nuages,8,94,6,15.5,W
+133,Franck Bonnamour,2022-11-24,Bretagne,Côtes-d'Armor,119.31,4:07:40,1613,229,3064,356,92,28.9,62.7,Nuages,10,93,10,28.7,S
+134,Franck Bonnamour,2022-11-23,Auvergne-Rhône-Alpes,Ain,9.32,52:13,82,44,139,999,99,10.7,26.0,Dégagé,12,77,12,30.7,W
+135,Franck Bonnamour,2022-11-22,Bretagne,Côtes-d'Armor,77.2,2:36:00,877,230,1959,221,92,29.7,59.0,Vent,10,81,5,43.5,W
+136,Franck Bonnamour,2022-11-20,Bretagne,Côtes-d'Armor,42.71,1:43:02,312,151,773,66,60,24.9,43.8,Quelques nuages,11,76,11,32.3,WNW
+137,Franck Bonnamour,2022-11-19,Bretagne,Côtes-d'Armor,114.71,3:36:16,1253,269,3145,431,108,31.8,77.3,Quelques nuages,6,93,4,9.1,WNW
+138,Franck Bonnamour,2022-11-18,Bretagne,Côtes-d'Armor,96.78,3:14:49,1188,253,2659,333,101,29.8,53.6,Quelques nuages,9,87,6,23.3,NW
+139,Franck Bonnamour,2022-11-16,Bretagne,Côtes-d'Armor,89.17,3:00:20,946,233,2224,262,93,29.7,61.6,Quelques nuages,10,80,10,25.6,SW
+140,Franck Bonnamour,2022-11-14,Bretagne,Côtes-d'Armor,110.54,3:44:57,1438,171,2313,999,99,29.5,66.1,Quelques nuages,13,85,13,23.4,W
+141,Franck Bonnamour,2022-11-12,Bretagne,Morbihan,90.85,3:04:20,488,144,1587,999,99,29.6,54.6,Dégagé,18,88,18,24.7,SSE
+142,Franck Bonnamour,2022-11-11,Bretagne,Morbihan,87.06,3:04:46,887,143,1581,999,99,28.3,50.5,Quelques nuages,13,73,13,17.9,SE
+143,Franck Bonnamour,2022-11-09,Auvergne-Rhône-Alpes,Ain,73.13,2:27:53,311,147,1308,999,99,29.7,53.6,Nuages,15,75,15,22.4,WSW
+144,Franck Bonnamour,2022-11-08,Auvergne-Rhône-Alpes,Ain,71.28,2:29:15,384,141,1265,999,99,28.7,59.0,Nuages,16,74,16,27.5,SSW
+145,Franck Bonnamour,2022-11-06,Bretagne,Côtes-d'Armor,68.21,2:18:55,716,160,1337,999,99,29.5,58.3,Quelques nuages,13,92,13,24.9,SW
+146,Franck Bonnamour,2022-11-02,Bretagne,Côtes-d'Armor,73.77,2:30:30,829,220,1779,196,88,29.4,69.4,Dégagé,10,82,10,20.6,SSW
+147,Franck Bonnamour,2022-11-01,Bretagne,Côtes-d'Armor,64.37,2:14:06,736,160,1285,999,99,28.8,71.4,Quelques nuages,14,81,14,40.1,SW
+148,Franck Bonnamour,2022-12-29,Bretagne,Côtes-d'Armor,205.96,6:51:11,2165,170,4201,999,99,30.1,61.3,Quelques nuages,7,87,3,32.5,WSW
+149,Franck Bonnamour,2022-12-26,Bretagne,Côtes-d'Armor,109.33,3:36:31,1577,283,3199,464,113,30.3,73.3,Quelques nuages,7,86,4,15.8,WNW
+150,Franck Bonnamour,2022-12-21,Bretagne,Côtes-d'Armor,120.5,4:01:58,1298,229,3033,344,92,29.9,74.4,Pluie,10,93,10,19.4,SSW
+151,Franck Bonnamour,2022-12-20,Bretagne,Côtes-d'Armor,89.74,3:02:20,1320,271,2455,356,108,29.5,61.2,Quelques nuages,10,92,8,11.7,WSW
+152,Franck Bonnamour,2022-12-17,Bretagne,Côtes-d'Armor,150.3,5:03:37,1525,231,3889,449,92,29.7,56.5,Quelques nuages,0,79,4,12.4,SE
+153,Franck Bonnamour,2022-12-16,Bretagne,Côtes-d'Armor,124.62,4:02:43,1232,246,3316,404,98,30.8,67.3,Dégagé,5,76,3,14.0,E
+154,Franck Bonnamour,2022-12-15,Bretagne,Côtes-d'Armor,92.03,3:04:14,969,246,2404,306,98,30.0,59.6,Pluie,4,83,2,30.6,ENE
+155,Franck Bonnamour,2022-12-14,Bretagne,Côtes-d'Armor,57.69,1:59:39,527,223,1506,158,89,28.9,58.4,Pluie,4,93,2,29.6,E
+156,Franck Bonnamour,2022-12-13,Bretagne,Côtes-d'Armor,152.21,5:09:01,1594,234,4039,477,94,29.6,58.2,Quelques nuages,0,80,5,17.7,ESE
+157,Franck Bonnamour,2022-12-11,Bretagne,Côtes-d'Armor,93.31,2:53:29,857,270,2529,340,108,32.3,60.7,Quelques nuages,3,87,0,13.6,SW
+158,Franck Bonnamour,2022-12-10,Bretagne,Côtes-d'Armor,120.77,3:57:52,1213,238,3089,365,95,30.5,68.8,Quelques nuages,3,76,0,13.6,SSW
+159,Franck Bonnamour,2022-12-08,Bretagne,Côtes-d'Armor,171.16,5:36:09,2214,264,4754,652,106,30.6,60.9,Quelques nuages,3,83,0,12.3,NE
+160,Franck Bonnamour,2022-12-07,Bretagne,Côtes-d'Armor,136.08,4:26:04,1428,242,3488,448,97,30.7,57.7,Nuages,5,87,3,8.0,ESE
+161,Franck Bonnamour,2022-12-06,Bretagne,Côtes-d'Armor,131.38,4:17:59,1309,235,3397,410,94,30.6,59.1,Quelques nuages,2,83,2,15.6,ESE
+162,Franck Bonnamour,2022-12-05,Bretagne,Côtes-d'Armor,60.55,2:06:37,649,220,1533,179,88,28.7,64.2,Quelques nuages,4,79,1,12.9,ESE
+163,Franck Bonnamour,2022-12-02,Bretagne,Côtes-d'Armor,77.28,2:36:26,780,231,2008,227,92,29.6,61.8,Dégagé,3,88,1,14.3,ESE
+164,Franck Bonnamour,2022-12-01,Bretagne,Côtes-d'Armor,123.33,4:06:37,1630,272,3587,494,109,30.0,71.6,Quelques nuages,3,100,1,7.7,ESE
+165,Franck Bonnamour,2021-01-29,Bretagne,Côtes-d'Armor,81.37,2:46:43,914,221,2073,221,88,29.3,62.6,Quelques nuages,9,82,5,39.3,W
+166,Franck Bonnamour,2021-01-27,Bretagne,Côtes-d'Armor,111.87,3:10:06,1097,242,2492,303,97,35.3,65.5,Nuages,10,95,7,19.0,WSW
+167,Franck Bonnamour,2021-01-26,Bretagne,Côtes-d'Armor,105.97,3:01:27,1125,286,2703,406,114,35.0,69.1,Nuages,7,88,2,33.6,S
+168,Franck Bonnamour,2021-01-25,Bretagne,Côtes-d'Armor,79.16,2:38:35,840,243,2127,255,97,30.0,56.9,Quelques nuages,3,81,1,14.4,NNE
+169,Franck Bonnamour,2021-01-23,Bretagne,Côtes-d'Armor,72.98,2:30:19,859,231,1952,214,92,29.1,55.1,Pluie,5,91,0,28.1,NNW
+170,Franck Bonnamour,2021-01-13,Bretagne,Côtes-d'Armor,90.59,3:00:24,1133,244,2439,302,98,30.1,74.9,Quelques nuages,9,94,5,24.6,SW
+171,Franck Bonnamour,2021-01-12,Bretagne,Côtes-d'Armor,83.86,2:48:27,1126,251,2350,286,100,29.9,62.3,Nuages,11,92,11,36.6,W
+172,Franck Bonnamour,2021-01-08,Bretagne,Côtes-d'Armor,93.16,3:00:37,988,233,2394,266,93,30.9,60.8,Quelques nuages,2,95,2,13.9,SW
+173,Franck Bonnamour,2021-01-06,Bretagne,Côtes-d'Armor,135.95,4:37:24,1750,240,3789,437,96,29.4,58.7,Nuages,2,100,0,6.4,NE
+174,Franck Bonnamour,2021-01-05,Bretagne,Côtes-d'Armor,60.51,2:03:30,644,243,1702,204,97,29.4,56.9,Nuages,5,87,1,28.7,NE
+175,Franck Bonnamour,2021-01-04,Bretagne,Côtes-d'Armor,93.95,3:04:30,903,270,2736,365,108,30.6,51.5,Quelques nuages,4,95,0,16.0,NE
+176,Franck Bonnamour,2021-01-02,Bretagne,Côtes-d'Armor,77.36,2:42:37,930,238,2121,245,95,28.5,64.8,Nuages,5,94,2,16.9,NNE
+177,Franck Bonnamour,2021-01-01,Bretagne,Côtes-d'Armor,44.32,1:40:51,455,210,1125,123,84,26.4,56.5,Dégagé,1,91,1,6.9,NE
+178,Franck Bonnamour,2021-02-24,Bretagne,Côtes-d'Armor,131.28,3:59:50,1238,229,3013,346,92,32.8,65.5,Quelques nuages,12,77,12,25.1,S
+179,Franck Bonnamour,2021-02-23,Bretagne,Côtes-d'Armor,150.63,4:59:56,1802,228,3810,422,91,30.1,67.0,Vent,8,82,4,34.8,S
+180,Franck Bonnamour,2021-02-22,Bretagne,Côtes-d'Armor,107.46,3:25:18,1290,278,3061,425,111,31.4,66.6,Nuages,8,88,6,14.8,NW
+181,Franck Bonnamour,2021-02-21,Bretagne,Côtes-d'Armor,103.9,3:10:20,1027,255,2785,331,102,32.8,70.2,Pluie,10,97,8,13.0,S
+182,Franck Bonnamour,2021-02-20,Bretagne,Côtes-d'Armor,92.28,3:01:39,1147,244,2512,291,98,30.5,67.0,Vent,11,87,11,34.8,S
+183,Franck Bonnamour,2021-02-19,Bretagne,Côtes-d'Armor,74.38,2:37:18,745,203,1794,173,81,28.4,63.0,Nuages,10,85,6,32.4,SSW
+184,Franck Bonnamour,2021-02-18,Bretagne,Côtes-d'Armor,60.05,2:01:51,605,208,1420,140,83,29.6,60.5,Quelques nuages,9,81,5,28.9,W
+185,Franck Bonnamour,2021-02-08,Bretagne,Côtes-d'Armor,70.52,2:31:04,678,206,1721,170,82,28.0,56.5,Nuages,1,81,4,22.5,NE
+186,Franck Bonnamour,2021-02-07,Bretagne,Côtes-d'Armor,105.28,3:32:02,1051,245,2753,341,98,29.8,60.1,Quelques nuages,5,86,2,13.6,N
+187,Franck Bonnamour,2021-02-06,Bretagne,Côtes-d'Armor,126.43,4:04:45,1611,270,3478,478,108,31.0,58.3,Quelques nuages,3,93,1,10.1,WSW
+188,Franck Bonnamour,2021-02-05,Bretagne,Côtes-d'Armor,151.32,5:13:45,1935,230,3919,458,92,28.9,57.2,Quelques nuages,6,94,4,14.0,SSW
+189,Franck Bonnamour,2021-02-03,Bretagne,Côtes-d'Armor,99.97,3:30:19,1554,264,2735,401,106,28.5,54.4,Pluie,8,100,4,27.6,WNW
+190,Franck Bonnamour,2021-02-02,Bretagne,Côtes-d'Armor,59.29,2:03:18,609,208,1453,142,83,28.9,66.6,Pluie,11,100,11,31.3,SW
+191,Franck Bonnamour,2021-03-30,Bretagne,Côtes-d'Armor,78.52,2:34:34,1037,247,2127,256,99,30.5,62.6,Dégagé,10,77,7,15.2,SSE
+192,Franck Bonnamour,2021-03-29,Bretagne,Côtes-d'Armor,111.37,3:28:16,1256,273,2982,423,109,32.1,68.0,Dégagé,7,91,4,14.8,SSW
+193,Franck Bonnamour,2021-03-28,Bretagne,Côtes-d'Armor,107.93,3:34:13,1292,239,2835,328,96,30.2,64.1,Quelques nuages,7,87,4,23.2,SSW
+194,Franck Bonnamour,2021-03-26,Bretagne,Côtes-d'Armor,35.69,1:14:40,359,205,864,86,82,28.7,50.8,Quelques nuages,11,83,11,34.8,SW
+195,Franck Bonnamour,2021-03-25,Bretagne,Côtes-d'Armor,105.82,3:31:27,1054,231,2641,308,92,30.0,60.1,Quelques nuages,8,91,5,15.4,SSW
+196,Franck Bonnamour,2021-03-24,Bretagne,Côtes-d'Armor,103.8,3:26:41,1232,236,2684,311,94,30.1,68.4,Quelques nuages,8,92,6,12.9,SSW
+197,Franck Bonnamour,2021-03-23,Bretagne,Côtes-d'Armor,70.74,2:34:33,716,195,1642,156,78,27.5,60.5,Dégagé,6,77,3,13.5,S
+198,Franck Bonnamour,2021-03-22,Bretagne,Côtes-d'Armor,120.04,3:52:24,1198,234,3102,344,94,31.0,63.7,Quelques nuages,8,80,8,4.0,WSW
+199,Franck Bonnamour,2021-03-20,Bretagne,Côtes-d'Armor,106.59,3:42:23,1327,228,2796,322,91,28.8,64.4,Dégagé,6,77,4,9.5,NE
+200,Franck Bonnamour,2021-03-19,Bretagne,Côtes-d'Armor,85.52,3:00:23,996,233,2273,268,93,28.4,61.6,Nuages,9,85,5,31.9,NE
+201,Franck Bonnamour,2021-03-16,Bretagne,Côtes-d'Armor,91.78,3:02:17,1047,235,2420,271,94,30.2,68.8,Nuages,10,94,8,15.0,NW
+202,Franck Bonnamour,2021-03-15,Bretagne,Côtes-d'Armor,76.67,2:27:30,807,244,2029,237,98,31.2,65.2,Nuages,9,88,6,26.2,NW
+203,Franck Bonnamour,2021-03-12,Bretagne,Côtes-d'Armor,74.72,2:30:47,715,230,1968,213,92,29.7,65.2,Quelques nuages,8,81,3,34.6,WSW
+204,Franck Bonnamour,2021-03-10,Bretagne,Côtes-d'Armor,86.77,2:57:49,1111,241,2398,280,96,29.3,70.2,Vent,9,95,4,42.7,SSW
+205,Franck Bonnamour,2021-03-09,Bretagne,Côtes-d'Armor,90.77,2:59:49,1087,240,2395,291,96,30.3,59.8,Quelques nuages,3,80,1,5.9,SW
+206,Franck Bonnamour,2021-03-08,Bretagne,Côtes-d'Armor,72.94,2:36:54,891,212,1826,195,85,27.9,65.2,Quelques nuages,4,68,1,10.3,ENE
+207,Franck Bonnamour,2021-03-06,Auvergne-Rhône-Alpes,Ain,71.79,2:06:45,611,246,1541,222,98,34.0,64.8,Dégagé,7,54,4,19.4,ENE
+208,Franck Bonnamour,2021-03-04,Bretagne,Côtes-d'Armor,55.43,2:02:05,522,108,156,39,43,27.2,55.4,Quelques nuages,8,93,6,10.7,NW
+209,Franck Bonnamour,2021-04-30,Bretagne,Côtes-d'Armor,104.11,3:24:46,1154,243,2833,330,97,30.5,70.6,Dégagé,7,72,6,6.8,ENE
+210,Franck Bonnamour,2021-04-29,Bretagne,Côtes-d'Armor,88.12,2:54:45,938,244,2398,286,98,30.3,56.5,Quelques nuages,8,86,5,17.0,NNE
+211,Franck Bonnamour,2021-04-27,Bretagne,Côtes-d'Armor,62.57,2:07:55,709,227,1625,184,91,29.3,63.0,Dégagé,12,52,12,15.5,NNE
+212,Franck Bonnamour,2021-04-12,Bretagne,Côtes-d'Armor,94.96,3:00:04,1164,255,2581,313,102,31.6,64.4,Dégagé,10,54,8,14.9,WNW
+213,Franck Bonnamour,2021-04-11,Bretagne,Côtes-d'Armor,72.41,2:24:16,868,282,1960,308,113,30.1,70.9,Pluie,5,87,1,20.4,N
+214,Franck Bonnamour,2021-04-09,Bretagne,Côtes-d'Armor,109.1,3:30:10,1217,248,2857,348,99,31.1,69.8,Quelques nuages,5,83,5,2.6,SE
+215,Franck Bonnamour,2021-04-08,Bretagne,Côtes-d'Armor,202.62,6:37:59,2562,240,5317,630,96,30.5,76.7,Quelques nuages,3,82,1,6.6,SE
+216,Franck Bonnamour,2021-04-07,Bretagne,Côtes-d'Armor,60.05,2:00:22,686,233,1561,188,93,29.9,66.2,Quelques nuages,9,55,7,14.8,WNW
+217,Franck Bonnamour,2021-05-28,Bretagne,Côtes-d'Armor,61.87,2:01:02,729,252,1827,999,99,30.7,62.6,Nuages,11,86,11,6.9,ESE
+218,Franck Bonnamour,2021-05-27,Bretagne,Côtes-d'Armor,64.42,2:07:30,648,226,1728,999,99,30.3,61.9,Quelques nuages,9,94,9,3.7,S
+219,Franck Bonnamour,2021-05-25,Bretagne,Côtes-d'Armor,44.27,1:30:08,383,205,1108,999,99,29.5,53.3,Quelques nuages,11,85,11,29.3,WNW
+220,Franck Bonnamour,2021-05-24,Bretagne,Côtes-d'Armor,81.72,2:33:41,856,292,2364,350,117,31.9,57.6,Pluie,9,89,6,32.3,WSW
+221,Franck Bonnamour,2021-05-23,Bretagne,Côtes-d'Armor,124.83,4:03:31,1315,239,3225,380,96,30.8,67.3,Quelques nuages,10,87,7,23.8,SW
+222,Franck Bonnamour,2021-05-19,Bretagne,Côtes-d'Armor,90.53,3:00:14,987,236,2351,269,94,30.1,61.9,Quelques nuages,10,93,10,25.2,WNW
+223,Franck Bonnamour,2021-05-18,Bretagne,Côtes-d'Armor,62.01,2:02:43,605,225,1523,167,90,30.3,55.8,Quelques nuages,10,89,10,16.5,WSW
+224,Franck Bonnamour,2021-05-11,Bretagne,Côtes-d'Armor,40.01,1:17:58,353,222,985,102,89,30.8,54.0,Quelques nuages,8,82,5,17.6,SSW
+225,Franck Bonnamour,2021-05-10,Bretagne,Côtes-d'Armor,71.68,2:23:55,776,247,1884,239,99,29.9,67.3,Quelques nuages,10,85,7,28.9,SW
+226,Franck Bonnamour,2021-05-09,Bretagne,Côtes-d'Armor,90.83,2:37:32,877,284,2577,345,114,34.6,60.5,Nuages,14,83,14,19.8,SSW
+227,Franck Bonnamour,2021-05-07,Bretagne,Côtes-d'Armor,81.49,2:55:14,1222,293,2299,413,117,27.9,72.4,Quelques nuages,7,81,7,4.2,SSW
+228,Franck Bonnamour,2021-05-05,Bretagne,Côtes-d'Armor,117.69,3:49:59,1332,255,3206,409,102,30.7,74.5,Quelques nuages,8,69,5,23.7,WNW
+229,Franck Bonnamour,2021-05-04,Bretagne,Côtes-d'Armor,83.85,2:46:00,1053,276,2398,346,110,30.3,54.0,Pluie,11,75,11,30.9,W
+230,Franck Bonnamour,2021-05-03,Bretagne,Côtes-d'Armor,124.02,4:00:23,1496,271,3435,479,108,31.0,67.3,Quelques nuages,6,82,3,15.3,SSW
+231,Franck Bonnamour,2021-05-01,Bretagne,Côtes-d'Armor,103.94,3:21:08,1102,253,2810,349,101,31.0,60.1,Quelques nuages,6,79,5,5.5,NNW
+232,Franck Bonnamour,2021-06-30,Pays de la Loire,Mayenne,26.71,35:30,339,387,821,142,155,45.2,82.4,Quelques nuages,19,88,19,15.8,WNW
+233,Franck Bonnamour,2021-06-23,Bretagne,Côtes-d'Armor,83.93,2:36:37,707,237,2224,999,99,32.2,58.7,Quelques nuages,12,82,12,12.6,NNE
+234,Franck Bonnamour,2021-06-17,Bretagne,Côtes-d'Armor,62.43,2:07:06,819,238,1818,999,99,29.5,54.0,Nuages,14,98,14,21.2,NNW
+235,Franck Bonnamour,2021-06-16,Auvergne-Rhône-Alpes,Loire,8.83,20:59,0,131,166,999,99,25.2,52.9,Quelques nuages,23,77,24,15.1,SW
+236,Franck Bonnamour,2021-06-14,Bretagne,Côtes-d'Armor,48.94,1:39:24,551,231,1381,999,99,29.5,66.6,Quelques nuages,15,95,15,4.5,WSW
+237,Franck Bonnamour,2021-06-13,Bretagne,Côtes-d'Armor,63.11,2:03:25,682,243,1798,999,99,30.7,70.9,Dégagé,15,80,15,12.2,E
+238,Franck Bonnamour,2021-06-12,Bretagne,Côtes-d'Armor,107.62,3:02:52,1023,302,3311,999,99,35.3,66.6,Quelques nuages,18,77,18,12.5,NNW
+239,Franck Bonnamour,2021-06-11,Bretagne,Côtes-d'Armor,91.82,3:00:23,1012,236,2552,999,99,30.5,63.0,Quelques nuages,17,87,17,6.4,N
+240,Franck Bonnamour,2021-06-10,Bretagne,Côtes-d'Armor,96.9,3:01:14,982,220,1977,254,88,32.1,63.7,Quelques nuages,15,93,15,10.2,SW
+241,Franck Bonnamour,2021-06-09,Bretagne,Côtes-d'Armor,62.2,2:00:09,692,232,1517,172,93,31.1,59.0,Quelques nuages,14,80,14,6.2,S
+242,Franck Bonnamour,2021-06-07,Bretagne,Côtes-d'Armor,50.2,1:45:55,483,203,1288,999,99,28.4,52.9,Nuages,17,88,17,13.7,N
+243,Franck Bonnamour,2021-06-02,Auvergne-Rhône-Alpes,Loire,23.91,46:15,405,242,597,72,97,31.0,72.4,Quelques nuages,19,68,19,10.9,S
+244,Franck Bonnamour,2021-06-01,Auvergne-Rhône-Alpes,Loire,177.53,4:17:14,2049,465,7178,999,99,41.4,87.8,Quelques nuages,22,54,22,8.6,SSE
+245,Franck Bonnamour,2021-07-31,Bretagne,Côtes-d'Armor,129.1,4:10:33,1601,242,3631,999,99,30.9,69.5,Quelques nuages,15,86,15,18.3,WSW
+246,Franck Bonnamour,2021-07-30,Bretagne,Côtes-d'Armor,81.0,2:31:36,1015,258,2346,999,99,32.1,68.8,Pluie,15,81,15,35.0,W
+247,Franck Bonnamour,2021-07-29,Bretagne,Côtes-d'Armor,79.79,2:30:58,1107,271,2458,999,99,31.7,60.5,Quelques nuages,19,68,19,16.1,W
+248,Franck Bonnamour,2021-07-28,Bretagne,Côtes-d'Armor,83.25,2:34:56,874,240,2233,999,99,32.2,60.1,Quelques nuages,16,80,16,23.6,WSW
+249,Franck Bonnamour,2021-07-27,Bretagne,Côtes-d'Armor,92.38,3:01:06,1202,248,2690,999,99,30.6,83.9,Quelques nuages,17,95,17,14.7,W
+250,Franck Bonnamour,2021-07-26,Bretagne,Côtes-d'Armor,98.6,3:09:05,1247,255,2893,999,99,31.3,68.4,Quelques nuages,17,97,17,13.7,SW
+251,Franck Bonnamour,2021-07-25,Bretagne,Côtes-d'Armor,80.62,2:37:53,933,240,2273,999,99,30.6,76.3,Quelques nuages,18,97,18,15.8,NW
+252,Franck Bonnamour,2021-07-24,Bretagne,Côtes-d'Armor,62.87,1:59:09,550,231,1652,999,99,31.7,57.2,Quelques nuages,21,81,21,20.4,SSW
+253,Franck Bonnamour,2021-07-23,Bretagne,Côtes-d'Armor,62.13,2:02:29,692,225,1657,999,99,30.4,60.5,Quelques nuages,21,81,21,22.9,E
+254,Franck Bonnamour,2021-07-22,Bourgogne-Franche-Comté,Côte-d'Or,43.35,1:26:35,404,219,1137,999,99,30.0,60.8,Dégagé,20,69,20,7.5,NNE
+255,Franck Bonnamour,2021-07-17,Nouvelle-Aquitaine,Gironde,30.61,43:18,273,333,841,136,133,42.4,73.1,Dégagé,29,41,29,13.9,NNE
+256,Franck Bonnamour,2021-07-10,Occitanie,Aude,0.05,10s,0,71,1,999,99,20.9,24.1,Quelques nuages,28,47,29,13.1,NNW
+257,Franck Bonnamour,2021-07-01,Centre-Val de Loire,Indre,164.24,3:26:50,970,235,2294,305,94,47.6,83.9,Quelques nuages,22,62,22,5.4,SW
+258,Franck Bonnamour,2021-08-31,Bretagne,Côtes-d'Armor,71.74,2:50:38,688,162,1663,999,99,25.2,52.9,Quelques nuages,15,94,15,23.4,ENE
+259,Franck Bonnamour,2021-08-29,Bretagne,Morbihan,248.31,5:59:42,4018,458,9877,999,99,41.4,103.7,Dégagé,16,79,16,20.8,NE
+260,Franck Bonnamour,2021-08-28,Bretagne,Morbihan,35.47,1:05:09,269,240,940,999,99,32.7,64.8,Dégagé,16,81,16,20.0,ENE
+261,Franck Bonnamour,2021-08-27,Nouvelle-Aquitaine,Charente,167.53,3:45:25,1248,456,6167,999,99,44.6,80.3,Dégagé,20,60,20,22.7,NE
+262,Franck Bonnamour,2021-08-26,Nouvelle-Aquitaine,Vienne,23.5,29:09,120,393,692,119,157,48.4,62.6,Dégagé,26,44,26,17.3,NNE
+263,Franck Bonnamour,2021-08-26,Nouvelle-Aquitaine,Vienne,109.42,2:24:21,632,481,4169,999,99,45.5,73.1,Dégagé,14,94,14,14.6,NE
+264,Franck Bonnamour,2021-08-25,Nouvelle-Aquitaine,Deux-Sèvres,194.88,4:33:31,1930,426,6989,999,99,42.8,79.9,Dégagé,21,58,21,26.7,ENE
+265,Franck Bonnamour,2021-08-24,Nouvelle-Aquitaine,Charente,202.99,5:14:25,1976,304,5730,999,99,38.7,72.7,Quelques nuages,23,63,23,22.8,NE
+266,Franck Bonnamour,2021-08-23,Auvergne-Rhône-Alpes,Ain,50.53,1:24:52,316,262,1209,156,105,35.7,50.8,Quelques nuages,26,43,26,14.3,NE
+267,Franck Bonnamour,2021-08-22,Pays de la Loire,Vendée,54.58,1:52:55,106,172,1164,999,99,29.0,51.1,Quelques nuages,19,81,19,16.7,NW
+268,Franck Bonnamour,2021-08-20,Nouvelle-Aquitaine,Vienne,175.73,4:21:56,2944,439,6901,999,99,40.3,82.4,Quelques nuages,22,67,22,4.8,S
+269,Franck Bonnamour,2021-08-19,Nouvelle-Aquitaine,Corrèze,185.54,4:22:16,2962,445,7005,999,99,42.4,91.4,Quelques nuages,18,68,18,4.9,N
+270,Franck Bonnamour,2021-08-18,Nouvelle-Aquitaine,Dordogne,174.68,4:21:20,2600,445,6983,999,99,40.1,103.0,Quelques nuages,20,73,20,7.8,NW
+271,Franck Bonnamour,2021-08-17,Nouvelle-Aquitaine,Vienne,191.05,4:45:34,3152,433,7422,999,99,40.1,82.8,Quelques nuages,18,67,18,10.8,NW
+272,Franck Bonnamour,2021-08-16,Nouvelle-Aquitaine,Vienne,44.74,1:28:56,692,256,1366,999,99,30.2,66.2,Quelques nuages,15,87,15,11.0,WSW
+273,Franck Bonnamour,2021-08-15,Normandie,Manche,174.97,4:07:22,2539,470,6969,999,99,42.4,87.5,Nuages,21,75,21,15.7,NW
+274,Franck Bonnamour,2021-08-14,Auvergne-Rhône-Alpes,Ain,32.51,1:01:47,357,245,909,999,99,31.6,68.0,Dégagé,27,43,27,8.5,WSW
+275,Franck Bonnamour,2021-08-13,Bretagne,Côtes-d'Armor,80.92,2:30:20,970,263,2375,999,99,32.3,65.9,Quelques nuages,14,93,14,12.2,SW
+276,Franck Bonnamour,2021-08-11,Bretagne,Côtes-d'Armor,171.1,4:59:54,1951,303,5460,999,99,34.2,74.9,Quelques nuages,13,88,13,8.7,SSW
+277,Franck Bonnamour,2021-08-10,Bretagne,Côtes-d'Armor,95.8,2:34:00,1057,364,3359,999,99,37.3,80.6,Quelques nuages,20,68,20,14.0,WNW
+278,Franck Bonnamour,2021-08-09,Bretagne,Côtes-d'Armor,81.28,2:33:23,1009,262,2416,999,99,31.8,65.2,Quelques nuages,15,91,15,19.3,SW
+279,Franck Bonnamour,2021-08-07,Nouvelle-Aquitaine,Creuse,65.16,1:44:20,865,364,2280,999,99,37.5,54.7,Quelques nuages,18,67,18,19.8,WSW
+280,Franck Bonnamour,2021-08-07,Auvergne-Rhône-Alpes,Allier,54.02,1:45:30,680,238,1505,999,99,30.7,72.7,Pluie,17,82,17,14.3,SW
+281,Franck Bonnamour,2021-08-06,Nouvelle-Aquitaine,Corrèze,165.35,5:16:11,2095,258,4901,999,99,31.4,71.3,Nuages,17,81,17,10.5,SW
+282,Franck Bonnamour,2021-08-05,Auvergne-Rhône-Alpes,Cantal,62.17,2:01:45,891,246,1795,999,99,30.6,67.7,Nuages,13,92,13,5.1,SW
+283,Franck Bonnamour,2021-08-04,Auvergne-Rhône-Alpes,Cantal,76.43,2:08:38,1279,343,2645,999,99,35.7,65.9,Pluie,15,97,15,9.6,WNW
+284,Franck Bonnamour,2021-08-04,Auvergne-Rhône-Alpes,Allier,64.84,2:00:50,625,238,1724,999,99,32.2,59.0,Nuages,15,89,15,10.3,SSE
+285,Franck Bonnamour,2021-08-02,Bretagne,Côtes-d'Armor,94.44,2:29:05,851,350,3132,999,99,38.0,79.9,Quelques nuages,14,93,14,8.2,NW
+286,Franck Bonnamour,2021-08-01,Bretagne,Côtes-d'Armor,40.0,1:19:25,336,200,955,999,99,30.2,48.2,Quelques nuages,18,80,18,17.4,SSW
+287,Franck Bonnamour,2021-09-30,Bretagne,Côtes-d'Armor,46.6,1:30:29,460,233,1264,999,99,30.9,67.0,Quelques nuages,9,85,7,18.7,S
+288,Franck Bonnamour,2021-09-29,Bretagne,Côtes-d'Armor,88.29,2:28:28,868,327,2910,999,99,35.7,74.5,Quelques nuages,11,83,11,22.6,WNW
+289,Franck Bonnamour,2021-09-28,Bretagne,Côtes-d'Armor,80.61,2:35:39,1009,248,2315,999,99,31.1,69.1,Nuages,13,85,13,17.8,SSW
+290,Franck Bonnamour,2021-09-27,Bretagne,Côtes-d'Armor,32.22,1:03:46,237,193,738,999,99,30.3,55.8,Quelques nuages,12,89,12,23.7,WNW
+291,Franck Bonnamour,2021-09-24,Bretagne,Côtes-d'Armor,77.45,2:27:24,845,235,2080,999,99,31.5,58.3,Quelques nuages,14,100,14,8.3,SW
+292,Franck Bonnamour,2021-09-23,Bretagne,Côtes-d'Armor,78.69,2:35:18,757,226,2110,999,99,30.4,73.1,Quelques nuages,12,100,12,8.3,WNW
+293,Franck Bonnamour,2021-09-21,Bretagne,Côtes-d'Armor,29.81,1:02:04,386,219,817,999,99,28.8,64.4,Quelques nuages,13,91,13,9.5,NNE
+294,Franck Bonnamour,2021-09-09,Bretagne,Côtes-d'Armor,106.91,3:03:09,1119,321,3527,999,99,35.0,72.7,Nuages,18,97,18,20.0,SSW
+295,Franck Bonnamour,2021-09-07,Bretagne,Côtes-d'Armor,59.02,2:07:02,705,215,1637,999,99,27.9,65.5,Dégagé,19,70,19,20.7,ESE
+296,Franck Bonnamour,2021-09-06,Bretagne,Côtes-d'Armor,43.56,1:30:57,410,200,1090,999,99,28.7,60.5,Dégagé,27,60,28,18.5,ENE
+297,Franck Bonnamour,2021-09-03,Bourgogne-Franche-Comté,Doubs,32.69,1:11:40,485,244,1051,999,99,27.4,62.3,Dégagé,25,75,25,5.5,WNW
+298,Franck Bonnamour,2021-09-01,Bretagne,Côtes-d'Armor,89.81,3:05:40,1154,231,2569,999,99,29.0,57.6,Quelques nuages,15,91,15,23.5,ENE
+299,Franck Bonnamour,2021-10-08,Bretagne,Côtes-d'Armor,59.51,2:00:14,661,217,1564,999,99,29.7,61.9,Quelques nuages,13,89,13,8.2,ESE
+300,Franck Bonnamour,2021-10-07,Bretagne,Côtes-d'Armor,30.95,1:02:37,302,221,832,999,99,29.7,49.0,Quelques nuages,18,81,18,9.6,SSW
+301,Franck Bonnamour,2021-10-06,Bretagne,Côtes-d'Armor,185.54,6:03:57,3023,244,5321,999,99,30.6,84.2,Quelques nuages,11,88,11,17.4,W
+302,Franck Bonnamour,2021-11-30,Bretagne,Côtes-d'Armor,88.98,3:02:28,1117,224,2451,999,99,29.3,73.8,Quelques nuages,8,89,5,21.6,WSW
+303,Franck Bonnamour,2021-11-29,Bretagne,Côtes-d'Armor,91.15,3:05:02,1048,229,2540,999,99,29.6,60.2,Quelques nuages,4,82,1,8.5,N
+304,Franck Bonnamour,2021-11-22,Auvergne-Rhône-Alpes,Loire,92.45,3:07:50,556,196,2210,999,99,29.5,46.3,Dégagé,9,81,5,39.8,NE
+305,Franck Bonnamour,2021-11-20,Bretagne,Côtes-d'Armor,76.85,2:37:50,921,222,2105,999,99,29.2,59.5,Quelques nuages,5,92,2,10.7,SE
+306,Franck Bonnamour,2021-11-19,Bretagne,Côtes-d'Armor,89.5,3:03:27,917,215,2366,999,99,29.3,56.5,Quelques nuages,8,86,8,4.4,SSE
+307,Franck Bonnamour,2021-11-17,Auvergne-Rhône-Alpes,Ain,15.93,1:05:15,90,128,503,999,99,14.7,41.7,Quelques nuages,14,80,14,14.6,NW
+308,Franck Bonnamour,2021-11-16,Bretagne,Côtes-d'Armor,73.91,2:32:28,816,226,2066,999,99,29.1,55.1,Quelques nuages,8,91,7,6.9,S
+309,Franck Bonnamour,2021-11-14,Bretagne,Côtes-d'Armor,45.2,2:15:18,228,152,1231,999,99,20.0,47.8,Quelques nuages,11,87,11,14.1,NNE
+310,Franck Bonnamour,2021-11-12,Bretagne,Côtes-d'Armor,39.9,2:33:44,788,155,1433,999,99,15.6,46.4,Nuages,11,97,11,24.1,SW
+311,Franck Bonnamour,2021-11-10,Bretagne,Côtes-d'Armor,58.81,2:47:16,851,178,1788,999,99,21.1,56.1,Quelques nuages,11,86,11,6.8,SSW
+312,Franck Bonnamour,2021-11-07,Bretagne,Côtes-d'Armor,49.59,2:48:02,598,145,1464,999,99,17.7,49.3,Nuages,12,87,12,18.6,WNW
+313,Franck Bonnamour,2021-12-31,Bretagne,Côtes-d'Armor,185.67,6:07:18,2396,240,4857,575,96,30.3,66.2,Quelques nuages,13,88,13,24.7,SW
+314,Franck Bonnamour,2021-12-29,Bretagne,Côtes-d'Armor,97.43,3:14:27,1310,258,2614,347,103,30.1,65.0,Vent,14,93,14,40.0,WSW
+315,Franck Bonnamour,2021-12-28,Bretagne,Côtes-d'Armor,115.23,3:39:04,1434,280,3154,463,112,31.6,65.1,Vent,10,83,6,39.9,W
+316,Franck Bonnamour,2021-12-26,Bretagne,Côtes-d'Armor,126.75,4:02:14,1178,242,3296,388,97,31.4,59.8,Quelques nuages,9,93,6,17.0,SW
+317,Franck Bonnamour,2021-12-24,Bretagne,Côtes-d'Armor,154.17,5:00:15,1386,243,4059,482,97,30.8,67.2,Nuages,10,97,7,22.8,S
+318,Franck Bonnamour,2021-12-23,Bretagne,Côtes-d'Armor,93.78,3:01:24,1056,241,2469,284,96,31.0,64.6,Nuages,9,92,5,28.0,S
+319,Franck Bonnamour,2021-12-22,Bretagne,Côtes-d'Armor,13.76,53:58,261,162,525,999,99,15.3,44.3,Nuages,7,58,3,20.8,SSE
+320,Franck Bonnamour,2021-12-21,Bretagne,Côtes-d'Armor,84.91,2:56:05,1145,236,2275,265,94,28.9,65.5,Quelques nuages,1,93,4,18.6,ESE
+321,Franck Bonnamour,2021-12-08,Bretagne,Côtes-d'Armor,44.05,3:04:12,962,161,1783,999,99,14.4,45.5,Pluie,6,81,1,25.5,WNW
+322,Franck Bonnamour,2021-12-06,Bretagne,Côtes-d'Armor,59.43,4:18:11,1302,149,2315,999,99,13.8,45.5,Pluie,7,92,3,20.4,SW
+323,Franck Bonnamour,2021-12-05,Bretagne,Côtes-d'Armor,53.05,3:07:03,870,158,1772,999,99,17.0,50.7,Quelques nuages,7,82,2,38.9,NW
+324,Franck Bonnamour,2021-12-04,Bretagne,Côtes-d'Armor,31.65,2:00:03,641,164,1178,999,99,15.8,43.3,Quelques nuages,8,81,4,34.3,NW
+325,Franck Bonnamour,2021-12-02,Bretagne,Côtes-d'Armor,77.25,2:42:36,924,211,2059,999,99,28.5,56.9,Quelques nuages,6,81,2,23.0,NW
+326,Franck Bonnamour,2021-12-01,Bretagne,Côtes-d'Armor,31.76,2:00:58,598,158,1149,999,99,15.8,39.7,Quelques nuages,9,77,5,39.6,NW
