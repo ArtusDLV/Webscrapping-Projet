@@ -19,9 +19,6 @@ df['Month'] = df['Month'].apply(lambda x: calendar.month_name[x])
 df['Year'] = df['Date'].dt.year
 #On applique les différentes modifications au dataframe avant d'afficher les graphes
 
-df_donnees_globales = pd.read_csv("Données_globales.csv")
-df_donnees_globales
-
 #Fonction pour afficher les différents graphes
 def display_graph(selected_graph):
     if selected_graph == 'Moyenne de Qualité de l\'Air par Région':
