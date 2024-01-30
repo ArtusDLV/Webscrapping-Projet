@@ -1,0 +1,527 @@
+,Athlète,Date,Région,Département,Distance,Durée,Dénivelé,Puissance moyenne,Effort,Charge entraînement,Intensité,Vitesse moyenne,Vitesse max,Météo,Température,Humidité,Température ressentie,Vitesse vent,Direction vent
+0,Pierre Rolland,2022-01-21,Auvergne-Rhône-Alpes,Loire,37.3,1:28:01,116,999,9999,999,99,25.4,43.7,Dégagé,2,75,1,14.6,NNE
+1,Pierre Rolland,2022-01-20,Auvergne-Rhône-Alpes,Loire,51.08,1:47:23,144,999,9999,999,99,28.5,42.9,Dégagé,4,76,1,10.6,N
+2,Pierre Rolland,2022-01-19,Auvergne-Rhône-Alpes,Loire,117.78,3:42:07,374,999,9999,999,99,31.8,56.9,Nuages,4,93,1,10.0,SW
+3,Pierre Rolland,2022-01-18,Auvergne-Rhône-Alpes,Loire,87.42,3:05:26,304,999,9999,999,99,28.3,43.4,Quelques nuages,3,94,1,15.8,ENE
+4,Pierre Rolland,2022-01-17,Auvergne-Rhône-Alpes,Loire,38.95,1:30:31,144,999,9999,999,99,25.8,35.9,Quelques nuages,7,88,7,2.3,NNE
+5,Pierre Rolland,2022-01-11,Auvergne-Rhône-Alpes,Loire,37.37,1:25:09,98,999,9999,999,99,26.3,44.2,Quelques nuages,1,93,2,6.7,E
+6,Pierre Rolland,2022-01-09,Auvergne-Rhône-Alpes,Loire,46.45,1:44:11,134,999,9999,999,99,26.8,40.1,Nuages,6,98,2,19.3,SSW
+7,Pierre Rolland,2022-01-08,Auvergne-Rhône-Alpes,Loire,46.27,1:38:53,124,999,9999,999,99,28.1,52.6,Nuages,6,95,3,17.6,WSW
+8,Pierre Rolland,2022-01-07,Auvergne-Rhône-Alpes,Ain,1.0,2:20,2,999,9999,999,99,25.7,32.8,Quelques nuages,7,81,3,25.1,W
+9,Pierre Rolland,2022-01-07,Auvergne-Rhône-Alpes,Loire,106.02,3:35:48,384,999,9999,999,99,29.5,53.9,Nuages,5,93,1,20.9,WSW
+10,Pierre Rolland,2022-01-06,Auvergne-Rhône-Alpes,Loire,61.38,2:03:44,164,999,9999,999,99,29.8,48.9,Quelques nuages,0,92,0,3.9,SW
+11,Pierre Rolland,2022-01-05,Auvergne-Rhône-Alpes,Loire,181.03,5:31:57,633,999,9999,999,99,32.7,51.8,Dégagé,2,93,1,11.8,W
+12,Pierre Rolland,2022-01-03,Auvergne-Rhône-Alpes,Loire,47.03,1:29:21,114,999,9999,999,99,31.6,49.8,Nuages,12,77,12,22.3,SW
+13,Pierre Rolland,2022-01-02,Auvergne-Rhône-Alpes,Ain,96.92,3:03:24,1202,999,9999,999,99,31.7,80.3,Nuages,9,44,8,10.3,WSW
+14,Pierre Rolland,2022-01-01,Auvergne-Rhône-Alpes,Ain,73.9,2:45:39,1548,999,9999,999,99,26.8,81.8,Quelques nuages,9,43,8,5.9,SW
+15,Pierre Rolland,2022-02-14,Auvergne-Rhône-Alpes,Loire,29.68,1:12:44,73,999,9999,999,99,24.5,42.9,Quelques nuages,7,92,4,20.1,SW
+16,Pierre Rolland,2022-02-13,Auvergne-Rhône-Alpes,Ain,1.1,2:08,0,999,9999,999,99,31.1,44.6,Quelques nuages,8,47,6,12.8,SSE
+17,Pierre Rolland,2022-02-13,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,155.78,4:04:44,2557,999,9999,999,99,38.2,84.7,Quelques nuages,8,62,6,11.0,ESE
+18,Pierre Rolland,2022-02-12,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,185.99,4:38:37,2280,999,9999,999,99,40.1,84.0,Dégagé,9,56,6,18.5,NNE
+19,Pierre Rolland,2022-02-11,Auvergne-Rhône-Alpes,Ain,0.71,2:26,4,999,9999,999,99,17.6,23.5,Dégagé,14,56,14,37.9,N
+20,Pierre Rolland,2022-02-11,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,151.62,3:21:16,490,999,9999,999,99,45.2,80.5,Quelques nuages,13,63,13,38.1,NNW
+21,Pierre Rolland,2022-02-11,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,0.61,1:50,1,999,9999,999,99,20.2,22.8,Quelques nuages,13,63,13,38.1,NNW
+22,Pierre Rolland,2022-02-11,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,5.96,14:09,45,999,9999,999,99,25.3,39.8,Quelques nuages,13,63,13,38.5,NNW
+23,Pierre Rolland,2022-02-10,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,0.68,3:17,2,999,9999,999,99,12.5,30.1,Dégagé,15,62,15,9.0,SW
+24,Pierre Rolland,2022-02-10,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,7.14,9:04,19,999,9999,999,99,47.3,58.7,Dégagé,15,62,15,9.0,SW
+25,Pierre Rolland,2022-02-10,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,0.0,0s,0,999,9999,999,99,0.0,0.6,Dégagé,15,63,15,7.8,SW
+26,Pierre Rolland,2022-02-10,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,30.71,53:44,66,999,9999,999,99,34.3,54.5,Quelques nuages,13,72,13,7.2,SSW
+27,Pierre Rolland,2022-02-09,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,50.66,1:33:51,339,999,9999,999,99,32.4,59.2,Quelques nuages,15,60,15,11.3,SSE
+28,Pierre Rolland,2022-02-08,Auvergne-Rhône-Alpes,Loire,39.06,1:31:05,96,999,9999,999,99,25.7,39.8,Quelques nuages,6,88,4,8.4,SSW
+29,Pierre Rolland,2022-03-31,Auvergne-Rhône-Alpes,Loire,45.4,1:33:15,107,999,9999,999,99,29.2,54.7,Nuages,7,87,6,9.9,NW
+30,Pierre Rolland,2022-03-30,Auvergne-Rhône-Alpes,Loire,39.0,1:26:46,77,999,9999,999,99,27.0,39.7,Nuages,8,94,7,7.9,WSW
+31,Pierre Rolland,2022-03-29,Auvergne-Rhône-Alpes,Loire,90.01,2:34:46,276,999,9999,999,99,34.9,51.5,Nuages,13,73,13,13.1,WSW
+32,Pierre Rolland,2022-03-28,Auvergne-Rhône-Alpes,Loire,37.35,1:20:36,77,999,9999,999,99,27.8,38.9,Dégagé,11,66,11,4.6,SE
+33,Pierre Rolland,2022-03-27,Centre-Val de Loire,Indre,211.74,4:54:47,1678,999,9999,999,99,43.1,77.1,Dégagé,18,44,18,13.7,ENE
+34,Pierre Rolland,2022-03-26,Auvergne-Rhône-Alpes,Ain,68.46,2:26:25,499,999,9999,999,99,28.1,44.7,Dégagé,10,66,7,16.2,ENE
+35,Pierre Rolland,2022-03-25,Auvergne-Rhône-Alpes,Loire,68.66,2:37:56,165,999,9999,999,99,26.1,48.1,Dégagé,16,43,16,14.3,ENE
+36,Pierre Rolland,2022-03-24,Auvergne-Rhône-Alpes,Loire,39.08,1:34:15,78,999,9999,999,99,24.9,35.6,Dégagé,12,56,12,8.4,E
+37,Pierre Rolland,2022-03-23,Auvergne-Rhône-Alpes,Loire,197.17,6:05:51,791,999,9999,999,99,32.3,59.9,Dégagé,11,46,11,10.9,SE
+38,Pierre Rolland,2022-03-22,Auvergne-Rhône-Alpes,Loire,108.01,3:38:52,402,999,9999,999,99,29.6,50.3,Dégagé,11,44,11,15.9,SSE
+39,Pierre Rolland,2022-03-21,Auvergne-Rhône-Alpes,Loire,37.48,1:23:21,74,999,9999,999,99,27.0,40.2,Quelques nuages,12,69,12,11.1,SE
+40,Pierre Rolland,2022-03-20,Auvergne-Rhône-Alpes,Ain,0.49,1:50,0,999,9999,999,99,16.3,23.2,Quelques nuages,17,52,17,10.4,S
+41,Pierre Rolland,2022-03-20,Auvergne-Rhône-Alpes,Ain,207.71,4:55:34,1977,999,9999,999,99,42.2,81.1,Nuages,11,66,11,11.3,SE
+42,Pierre Rolland,2022-03-19,Auvergne-Rhône-Alpes,Ain,46.92,1:32:55,455,999,9999,999,99,30.3,52.4,Dégagé,17,52,17,14.3,SE
+43,Pierre Rolland,2022-03-18,Auvergne-Rhône-Alpes,Loire,76.91,2:46:59,294,999,9999,999,99,27.6,57.1,Quelques nuages,11,51,11,28.1,NE
+44,Pierre Rolland,2022-03-17,Auvergne-Rhône-Alpes,Loire,30.34,1:13:22,82,999,9999,999,99,24.8,39.6,Nuages,10,67,7,19.4,NNE
+45,Pierre Rolland,2022-03-16,Auvergne-Rhône-Alpes,Loire,167.9,5:04:38,685,999,9999,999,99,33.1,60.2,Quelques nuages,14,68,14,8.9,SE
+46,Pierre Rolland,2022-03-15,Auvergne-Rhône-Alpes,Loire,54.38,2:05:34,127,999,9999,999,99,26.0,35.0,Quelques nuages,13,83,13,5.4,SE
+47,Pierre Rolland,2022-03-14,Auvergne-Rhône-Alpes,Loire,71.13,3:00:47,146,999,9999,999,99,23.6,49.5,Dégagé,10,72,10,11.9,ESE
+48,Pierre Rolland,2022-03-11,Auvergne-Rhône-Alpes,Loire,43.44,1:40:40,116,999,9999,999,99,25.9,39.7,Nuages,9,74,7,18.9,SSE
+49,Pierre Rolland,2022-03-10,Auvergne-Rhône-Alpes,Ain,43.54,1:38:36,104,999,9999,999,99,26.5,48.9,Quelques nuages,10,62,8,11.2,SE
+50,Pierre Rolland,2022-03-09,Auvergne-Rhône-Alpes,Ain,146.59,4:19:47,508,999,9999,999,99,33.9,59.2,Dégagé,8,68,5,14.0,SSE
+51,Pierre Rolland,2022-03-08,Auvergne-Rhône-Alpes,Loire,91.66,2:56:46,300,999,9999,999,99,31.1,50.2,Dégagé,8,50,6,11.3,SE
+52,Pierre Rolland,2022-03-05,Auvergne-Rhône-Alpes,Loire,54.42,2:03:21,129,999,9999,999,99,26.5,36.9,Quelques nuages,8,83,7,6.8,NNE
+53,Pierre Rolland,2022-03-04,Auvergne-Rhône-Alpes,Loire,78.85,2:44:09,224,999,9999,999,99,28.8,47.6,Nuages,9,87,8,7.1,NNE
+54,Pierre Rolland,2022-03-03,Auvergne-Rhône-Alpes,Loire,30.34,1:13:57,72,999,9999,999,99,24.6,37.0,Nuages,8,93,8,6.1,SSW
+55,Pierre Rolland,2022-03-02,Auvergne-Rhône-Alpes,Ain,159.76,5:02:22,503,999,9999,999,99,31.7,56.6,Nuages,9,62,7,8.1,SE
+56,Pierre Rolland,2022-04-29,Auvergne-Rhône-Alpes,Ain,0.99,2:55,1,999,9999,999,99,20.5,24.2,Nuages,18,49,18,11.3,NE
+57,Pierre Rolland,2022-04-29,Auvergne-Rhône-Alpes,Loire,54.61,2:01:21,125,999,9999,999,99,27.0,42.5,Quelques nuages,16,60,16,10.9,NE
+58,Pierre Rolland,2022-04-28,Auvergne-Rhône-Alpes,Loire,57.99,2:00:33,125,999,9999,999,99,28.9,51.0,Quelques nuages,16,61,16,17.2,ENE
+59,Pierre Rolland,2022-04-27,Auvergne-Rhône-Alpes,Loire,171.74,5:02:27,546,999,9999,999,99,34.1,60.7,Quelques nuages,13,68,13,19.3,ENE
+60,Pierre Rolland,2022-04-26,Auvergne-Rhône-Alpes,Loire,137.1,4:23:59,315,999,9999,999,99,31.2,48.3,Dégagé,10,68,10,9.3,NE
+61,Pierre Rolland,2022-04-25,Auvergne-Rhône-Alpes,Loire,56.14,1:57:31,116,999,9999,999,99,28.7,41.5,Nuages,10,73,10,6.4,WNW
+62,Pierre Rolland,2022-04-22,Auvergne-Rhône-Alpes,Loire,38.84,1:32:22,92,999,9999,999,99,25.2,40.4,Dégagé,12,75,12,15.4,ENE
+63,Pierre Rolland,2022-04-18,Auvergne-Rhône-Alpes,Loire,51.13,1:58:56,126,999,9999,999,99,25.8,45.2,Quelques nuages,11,61,11,10.4,N
+64,Pierre Rolland,2022-04-16,Bourgogne-Franche-Comté,Jura,0.73,2:08,0,999,9999,999,99,20.7,41.0,Quelques nuages,19,38,19,15.3,NE
+65,Pierre Rolland,2022-04-16,Bourgogne-Franche-Comté,Jura,174.43,4:20:53,2614,999,9999,999,99,40.1,84.5,Quelques nuages,14,66,14,12.0,NE
+66,Pierre Rolland,2022-04-15,Bourgogne-Franche-Comté,Doubs,7.45,19:09,46,999,9999,999,99,23.3,58.5,Quelques nuages,19,54,19,12.1,N
+67,Pierre Rolland,2022-04-15,Bourgogne-Franche-Comté,Doubs,2.35,5:54,0,999,9999,999,99,23.9,39.5,Quelques nuages,19,54,19,12.1,N
+68,Pierre Rolland,2022-04-15,Bourgogne-Franche-Comté,Doubs,186.11,4:43:38,2987,999,9999,999,99,39.4,89.9,Quelques nuages,16,74,16,10.9,NNE
+69,Pierre Rolland,2022-04-14,Bourgogne-Franche-Comté,Doubs,53.33,2:08:17,962,999,9999,999,99,24.9,72.6,Quelques nuages,16,85,16,7.0,NW
+70,Pierre Rolland,2022-04-12,Normandie,Calvados,0.39,2:06,4,999,9999,999,99,11.2,21.2,Pluie,16,81,16,16.2,SSW
+71,Pierre Rolland,2022-04-12,Occitanie,Aude,218.04,5:35:26,2724,999,9999,999,99,39.0,78.5,Nuages,13,70,13,19.8,SSE
+72,Pierre Rolland,2022-04-11,Auvergne-Rhône-Alpes,Loire,45.13,1:28:58,107,999,9999,999,99,30.4,40.6,Nuages,9,50,7,15.7,ESE
+73,Pierre Rolland,2022-04-10,Auvergne-Rhône-Alpes,Loire,44.21,1:45:44,130,999,9999,999,99,25.1,39.0,Quelques nuages,6,70,5,7.8,SE
+74,Pierre Rolland,2022-04-09,Auvergne-Rhône-Alpes,Loire,28.75,1:03:19,75,999,9999,999,99,27.2,43.7,Quelques nuages,6,100,3,12.6,NNW
+75,Pierre Rolland,2022-04-08,Pays de la Loire,Sarthe,0.26,52s,1,999,9999,999,99,18.4,20.1,Pluie,14,89,14,38.5,WSW
+76,Pierre Rolland,2022-04-08,Pays de la Loire,Sarthe,146.55,3:35:25,817,999,9999,999,99,40.8,77.0,Pluie,11,100,11,38.8,SW
+77,Pierre Rolland,2022-04-07,Pays de la Loire,Sarthe,0.74,2:09,0,999,9999,999,99,20.7,31.0,Pluie,13,97,13,29.1,W
+78,Pierre Rolland,2022-04-07,Pays de la Loire,Sarthe,181.26,4:17:54,990,999,9999,999,99,42.2,78.0,Pluie,13,98,13,39.9,WSW
+79,Pierre Rolland,2022-04-06,Pays de la Loire,Sarthe,174.3,4:09:15,1400,999,9999,999,99,42.0,74.2,Nuages,11,81,11,17.9,W
+80,Pierre Rolland,2022-04-05,Pays de la Loire,Sarthe,194.4,4:39:13,2595,999,9999,999,99,41.8,89.6,Nuages,10,93,8,14.9,WSW
+81,Pierre Rolland,2022-04-04,Auvergne-Rhône-Alpes,Loire,47.26,1:39:07,120,999,9999,999,99,28.6,42.2,Dégagé,0,82,2,6.8,WSW
+82,Pierre Rolland,2022-04-02,Auvergne-Rhône-Alpes,Loire,57.07,1:42:55,175,999,9999,999,99,33.3,51.0,Dégagé,1,79,5,22.9,N
+83,Pierre Rolland,2022-04-01,Auvergne-Rhône-Alpes,Ain,174.64,4:30:02,2500,999,9999,999,99,38.8,74.1,Quelques nuages,5,67,1,36.8,NNW
+84,Pierre Rolland,2022-04-01,Auvergne-Rhône-Alpes,Ain,0.84,3:36,7,999,9999,999,99,14.0,27.6,Dégagé,4,68,1,35.7,NNW
+85,Pierre Rolland,2022-05-31,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,138.82,4:15:48,3505,999,9999,999,99,32.6,92.3,Nuages,21,52,21,5.7,S
+86,Pierre Rolland,2022-05-31,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,0.4,2:17,3,999,9999,999,99,10.5,14.9,Quelques nuages,20,60,20,5.3,SE
+87,Pierre Rolland,2022-05-30,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,22.78,55:06,295,999,9999,999,99,24.8,71.7,Nuages,20,79,20,8.6,SSE
+88,Pierre Rolland,2022-05-29,Auvergne-Rhône-Alpes,Isère,0.96,2:43,0,999,9999,999,99,21.3,26.8,Quelques nuages,21,30,21,7.1,NW
+89,Pierre Rolland,2022-05-29,Auvergne-Rhône-Alpes,Isère,136.15,4:11:13,3957,999,9999,999,99,32.5,91.4,Dégagé,15,49,15,8.1,NNW
+90,Pierre Rolland,2022-05-29,Auvergne-Rhône-Alpes,Ain,2.45,6:30,10,999,9999,999,99,22.7,38.8,Dégagé,15,49,15,8.1,NNW
+91,Pierre Rolland,2022-05-28,Auvergne-Rhône-Alpes,Ain,177.32,4:31:28,2677,999,9999,999,99,39.2,78.6,Quelques nuages,20,52,20,25.0,N
+92,Pierre Rolland,2022-05-28,Auvergne-Rhône-Alpes,Ain,0.73,3:26,4,999,9999,999,99,12.8,17.7,Quelques nuages,20,52,20,25.0,N
+93,Pierre Rolland,2022-05-27,Auvergne-Rhône-Alpes,Rhône,154.57,3:54:08,1833,999,9999,999,99,39.6,82.1,Quelques nuages,21,50,21,19.8,N
+94,Pierre Rolland,2022-05-27,Auvergne-Rhône-Alpes,Rhône,1.56,6:24,4,999,9999,999,99,14.6,30.3,Quelques nuages,20,55,20,20.5,N
+95,Pierre Rolland,2022-05-26,Auvergne-Rhône-Alpes,Ain,7.67,18:32,74,999,9999,999,99,24.8,49.0,Quelques nuages,24,37,24,21.8,N
+96,Pierre Rolland,2022-05-26,Auvergne-Rhône-Alpes,Isère,165.11,4:03:49,2278,999,9999,999,99,40.6,81.9,Quelques nuages,19,51,19,8.8,NNW
+97,Pierre Rolland,2022-05-25,Auvergne-Rhône-Alpes,Isère,122.83,2:55:27,1208,999,9999,999,99,42.0,83.2,Quelques nuages,21,46,21,21.2,NNW
+98,Pierre Rolland,2022-05-25,Auvergne-Rhône-Alpes,Isère,6.21,15:44,19,999,9999,999,99,23.7,35.0,Quelques nuages,20,49,20,21.1,NNW
+99,Pierre Rolland,2022-05-24,Auvergne-Rhône-Alpes,Ain,32.1,1:15:40,399,999,9999,999,99,25.5,73.1,Quelques nuages,19,57,19,11.3,NNE
+100,Pierre Rolland,2022-05-23,Auvergne-Rhône-Alpes,Loire,19.54,54:13,67,999,9999,999,99,21.6,36.9,Pluie,18,88,18,20.2,SSW
+101,Pierre Rolland,2022-05-22,Bretagne,Finistère,0.27,1:28,2,999,9999,999,99,11.2,24.4,Nuages,22,70,22,7.4,NW
+102,Pierre Rolland,2022-05-22,Bretagne,Finistère,174.51,4:03:05,2622,999,9999,999,99,43.1,84.5,Quelques nuages,22,62,22,6.7,E
+103,Pierre Rolland,2022-05-22,Bretagne,Finistère,4.65,11:28,68,999,9999,999,99,24.4,59.5,Nuages,21,66,21,9.0,ENE
+104,Pierre Rolland,2022-05-21,Bretagne,Finistère,4.96,15:01,67,999,9999,999,99,19.9,47.4,Dégagé,22,50,22,7.6,NW
+105,Pierre Rolland,2022-05-21,Auvergne-Rhône-Alpes,Ain,203.29,4:59:57,2964,999,9999,999,99,40.7,84.4,Quelques nuages,17,76,17,4.1,NNE
+106,Pierre Rolland,2022-05-20,Bretagne,Finistère,35.01,1:22:26,531,999,9999,999,99,25.5,59.6,Quelques nuages,18,61,18,21.0,W
+107,Pierre Rolland,2022-05-19,Auvergne-Rhône-Alpes,Loire,57.54,2:01:08,194,999,9999,999,99,28.5,49.2,Quelques nuages,21,75,21,12.9,S
+108,Pierre Rolland,2022-05-18,Auvergne-Rhône-Alpes,Loire,106.59,3:30:51,319,999,9999,999,99,30.3,57.3,Quelques nuages,25,57,25,9.3,ENE
+109,Pierre Rolland,2022-05-16,Occitanie,Hautes-Pyrénées,112.58,3:41:36,2567,999,9999,999,99,30.5,83.3,Dégagé,20,58,20,5.1,SSE
+110,Pierre Rolland,2022-05-15,Occitanie,Haute-Garonne,135.73,4:35:27,3173,999,9999,999,99,29.6,76.3,Quelques nuages,20,62,20,7.7,SSE
+111,Pierre Rolland,2022-05-14,Occitanie,Aude,154.44,4:39:55,2800,999,9999,999,99,33.1,87.8,Quelques nuages,23,68,23,4.8,NE
+112,Pierre Rolland,2022-05-13,Occitanie,Aude,0.95,3:43,8,999,9999,999,99,15.4,28.9,Quelques nuages,26,50,27,12.8,WNW
+113,Pierre Rolland,2022-05-13,Occitanie,Aveyron,191.76,4:50:37,2285,999,9999,999,99,39.6,90.8,Nuages,15,68,15,3.4,S
+114,Pierre Rolland,2022-05-12,Auvergne-Rhône-Alpes,Loire,191.41,5:42:02,3377,999,9999,999,99,33.6,87.8,Quelques nuages,14,70,14,5.3,SSW
+115,Pierre Rolland,2022-05-11,Auvergne-Rhône-Alpes,Isère,139.4,4:14:14,1615,999,9999,999,99,32.9,73.1,Dégagé,18,60,18,5.1,SSW
+116,Pierre Rolland,2022-05-10,Auvergne-Rhône-Alpes,Isère,36.12,1:17:30,514,999,9999,999,99,28.0,74.7,Dégagé,19,63,19,1.7,NW
+117,Pierre Rolland,2022-05-09,Nouvelle-Aquitaine,Pyrénées-Atlantiques,144.97,4:34:05,2454,999,9999,999,99,31.7,74.9,Quelques nuages,17,72,17,4.1,NE
+118,Pierre Rolland,2022-05-08,Occitanie,Hautes-Pyrénées,130.97,4:20:15,2530,999,9999,999,99,30.2,88.5,Quelques nuages,15,74,15,5.7,NNE
+119,Pierre Rolland,2022-05-07,Nouvelle-Aquitaine,Pyrénées-Atlantiques,1.74,6:03,16,999,9999,999,99,17.3,27.5,Quelques nuages,16,75,16,6.7,WNW
+120,Pierre Rolland,2022-05-07,Nouvelle-Aquitaine,Pyrénées-Atlantiques,62.58,2:00:13,564,999,9999,999,99,31.2,64.0,Nuages,13,88,13,6.9,NNW
+121,Pierre Rolland,2022-05-06,Nouvelle-Aquitaine,Pyrénées-Atlantiques,207.49,6:57:19,3918,999,9999,999,99,29.8,72.2,Quelques nuages,12,91,12,8.8,SSW
+122,Pierre Rolland,2022-05-05,Nouvelle-Aquitaine,Pyrénées-Atlantiques,171.51,5:30:05,2589,999,9999,999,99,31.2,81.9,Quelques nuages,11,91,11,5.2,SSW
+123,Pierre Rolland,2022-05-04,Nouvelle-Aquitaine,Pyrénées-Atlantiques,177.58,6:10:08,2943,999,9999,999,99,28.8,76.2,Nuages,12,91,12,8.3,WSW
+124,Pierre Rolland,2022-05-03,Nouvelle-Aquitaine,Pyrénées-Atlantiques,109.83,3:20:15,1186,999,9999,999,99,32.9,77.0,Pluie,12,85,12,6.6,NW
+125,Pierre Rolland,2022-05-02,Nouvelle-Aquitaine,Pyrénées-Atlantiques,28.78,58:02,130,999,9999,999,99,29.8,44.5,Nuages,16,64,16,5.9,WNW
+126,Pierre Rolland,2022-06-28,Auvergne-Rhône-Alpes,Loire,53.54,1:55:43,167,999,9999,999,99,27.8,44.8,Dégagé,15,63,15,3.4,W
+127,Pierre Rolland,2022-06-27,Auvergne-Rhône-Alpes,Loire,39.14,1:27:43,104,130,623,112,86,26.8,40.5,Quelques nuages,18,62,18,11.7,WSW
+128,Pierre Rolland,2022-06-26,Auvergne-Rhône-Alpes,Ain,219.8,4:54:34,2146,445,7872,999,99,44.8,70.4,Nuages,18,52,18,12.8,SSW
+129,Pierre Rolland,2022-06-25,Auvergne-Rhône-Alpes,Loire,57.9,1:46:15,513,201,1279,999,99,32.7,56.1,Nuages,15,73,15,15.1,SW
+130,Pierre Rolland,2022-06-24,Auvergne-Rhône-Alpes,Loire,60.1,1:49:42,207,999,9999,999,99,32.9,48.8,Pluie,18,83,18,14.5,SSW
+131,Pierre Rolland,2022-06-23,Auvergne-Rhône-Alpes,Loire,50.91,1:55:57,125,104,232,49,69,26.3,43.6,Quelques nuages,18,83,18,9.8,SW
+132,Pierre Rolland,2022-06-23,Auvergne-Rhône-Alpes,Loire,50.82,1:53:21,126,128,801,139,85,26.9,37.5,Quelques nuages,18,83,18,9.8,SW
+133,Pierre Rolland,2022-06-22,Auvergne-Rhône-Alpes,Loire,93.34,3:09:45,261,999,9999,999,99,29.5,55.9,Nuages,21,75,21,10.4,NE
+134,Pierre Rolland,2022-06-22,Auvergne-Rhône-Alpes,Loire,93.27,3:04:19,267,214,1765,631,142,30.4,55.1,Nuages,21,75,21,10.4,NE
+135,Pierre Rolland,2022-06-21,Auvergne-Rhône-Alpes,Ain,57.19,1:51:14,183,242,1160,761,160,30.9,53.8,Quelques nuages,21,79,21,10.8,NE
+136,Pierre Rolland,2022-06-21,Auvergne-Rhône-Alpes,Loire,59.03,1:54:45,208,222,1180,427,147,30.9,53.6,Quelques nuages,21,79,21,10.8,NE
+137,Pierre Rolland,2022-06-20,Auvergne-Rhône-Alpes,Loire,53.14,1:58:54,162,149,944,196,99,26.8,41.5,Quelques nuages,20,82,20,6.5,ENE
+138,Pierre Rolland,2022-06-19,Auvergne-Rhône-Alpes,Loire,156.33,4:36:27,391,999,9999,999,99,33.9,61.7,Quelques nuages,19,75,19,13.5,NNE
+139,Pierre Rolland,2022-06-18,Auvergne-Rhône-Alpes,Ain,1.0,3:52,2,54,12,0,36,15.7,26.9,Dégagé,32,37,32,12.2,SE
+140,Pierre Rolland,2022-06-18,Auvergne-Rhône-Alpes,Loire,99.29,2:59:54,306,163,1463,350,108,33.1,56.4,Dégagé,23,54,23,7.6,SE
+141,Pierre Rolland,2022-06-17,Auvergne-Rhône-Alpes,Loire,65.69,2:15:50,170,999,9999,999,99,29.0,42.9,Dégagé,23,61,23,9.0,E
+142,Pierre Rolland,2022-06-16,Auvergne-Rhône-Alpes,Ain,70.44,2:52:41,145,999,9999,999,99,24.5,44.0,Dégagé,24,50,24,9.8,NE
+143,Pierre Rolland,2022-06-16,Auvergne-Rhône-Alpes,Ain,67.39,2:42:16,196,999,9999,999,99,24.9,44.8,Dégagé,24,51,24,10.1,NE
+144,Pierre Rolland,2022-06-15,Auvergne-Rhône-Alpes,Loire,34.61,1:25:47,87,999,9999,999,99,24.2,44.4,Dégagé,27,43,27,10.8,E
+145,Pierre Rolland,2022-06-14,Auvergne-Rhône-Alpes,Ain,106.25,3:14:52,2527,329,3852,999,99,32.7,83.0,Dégagé,29,31,29,9.0,NW
+146,Pierre Rolland,2022-06-13,Provence-Alpes-Côte d'Azur,Vaucluse,34.52,1:12:23,232,156,675,999,99,28.6,59.6,Quelques nuages,27,54,28,25.5,N
+147,Pierre Rolland,2022-06-12,Auvergne-Rhône-Alpes,Savoie,14.59,24:55,7,999,9999,999,99,35.1,78.8,Quelques nuages,22,38,22,5.2,WNW
+148,Pierre Rolland,2022-06-12,Auvergne-Rhône-Alpes,Ain,141.07,4:21:39,3816,339,5320,999,99,32.4,87.0,Dégagé,28,37,28,4.4,NW
+149,Pierre Rolland,2022-06-12,Auvergne-Rhône-Alpes,Ain,2.84,9:30,40,999,9999,999,99,18.0,40.3,Dégagé,28,37,28,4.4,NW
+150,Pierre Rolland,2022-06-11,Auvergne-Rhône-Alpes,Ain,137.93,4:12:48,3935,999,9999,999,99,32.7,90.8,Dégagé,22,20,22,5.9,WNW
+151,Pierre Rolland,2022-06-11,Auvergne-Rhône-Alpes,Ain,0.49,2:42,10,999,9999,999,99,10.9,24.1,Dégagé,22,20,22,5.9,WNW
+152,Pierre Rolland,2022-06-11,Provence-Alpes-Côte d'Azur,Hautes-Alpes,0.0,0s,0,999,9999,999,99,0.0,0.0,Dégagé,18,27,18,3.3,W
+153,Pierre Rolland,2022-06-10,Auvergne-Rhône-Alpes,Isère,205.72,4:40:48,2805,999,9999,999,99,44.0,107.6,Dégagé,17,68,17,10.7,N
+154,Pierre Rolland,2022-06-10,Auvergne-Rhône-Alpes,Isère,1.31,5:24,28,999,9999,999,99,14.6,30.1,Dégagé,17,68,17,10.7,N
+155,Pierre Rolland,2022-06-10,Auvergne-Rhône-Alpes,Isère,0.71,2:01,3,999,9999,999,99,21.2,30.0,Dégagé,16,73,16,8.5,N
+156,Pierre Rolland,2022-06-09,Auvergne-Rhône-Alpes,Rhône,164.05,3:51:44,2072,999,9999,999,99,42.5,87.8,Quelques nuages,15,76,15,13.2,NW
+157,Pierre Rolland,2022-06-09,Auvergne-Rhône-Alpes,Rhône,0.81,3:52,46,999,9999,999,99,12.7,19.1,Quelques nuages,15,76,15,13.2,NW
+158,Pierre Rolland,2022-06-08,Auvergne-Rhône-Alpes,Ain,3.97,11:24,20,999,9999,999,99,20.9,27.6,Nuages,21,56,21,13.5,W
+159,Pierre Rolland,2022-06-08,Auvergne-Rhône-Alpes,Loire,31.99,40:32,120,999,9999,999,99,47.4,69.4,Nuages,20,61,20,11.6,WNW
+160,Pierre Rolland,2022-06-08,Auvergne-Rhône-Alpes,Loire,0.34,1:38,2,999,9999,999,99,12.5,22.5,Nuages,20,61,20,11.6,WNW
+161,Pierre Rolland,2022-06-07,Auvergne-Rhône-Alpes,Ain,172.69,4:21:58,2633,999,9999,999,99,39.6,76.1,Quelques nuages,20,47,20,12.3,WNW
+162,Pierre Rolland,2022-06-06,Auvergne-Rhône-Alpes,Loire,0.35,1:42,3,999,9999,999,99,12.5,20.0,Nuages,25,38,25,10.4,WNW
+163,Pierre Rolland,2022-06-06,Auvergne-Rhône-Alpes,Ain,173.41,4:12:59,2570,999,9999,999,99,41.1,94.7,Dégagé,26,55,26,12.0,NNE
+164,Pierre Rolland,2022-06-05,Auvergne-Rhône-Alpes,Ardèche,200.54,4:59:25,2286,999,9999,999,99,40.2,78.2,Dégagé,24,80,24,4.2,E
+165,Pierre Rolland,2022-06-04,Auvergne-Rhône-Alpes,Ain,65.15,1:53:35,647,999,9999,999,99,34.4,70.5,Quelques nuages,25,62,25,7.6,S
+166,Pierre Rolland,2022-06-03,Auvergne-Rhône-Alpes,Drôme,8.15,19:03,58,999,9999,999,99,25.7,43.9,Dégagé,33,36,33,19.4,S
+167,Pierre Rolland,2022-06-03,Auvergne-Rhône-Alpes,Ain,37.41,1:24:31,667,999,9999,999,99,26.6,63.7,Nuages,16,66,16,6.3,S
+168,Pierre Rolland,2022-06-02,Auvergne-Rhône-Alpes,Ain,60.85,2:18:32,1178,999,9999,999,99,26.4,77.3,Quelques nuages,18,60,18,6.2,S
+169,Pierre Rolland,2022-06-01,Auvergne-Rhône-Alpes,Ain,34.4,1:27:14,579,999,9999,999,99,23.7,84.3,Quelques nuages,15,66,15,5.4,WNW
+170,Pierre Rolland,2022-07-30,Auvergne-Rhône-Alpes,Loire,29.16,1:14:59,449,999,9999,999,99,23.3,35.2,Quelques nuages,28,37,28,7.5,WSW
+171,Pierre Rolland,2022-07-28,Auvergne-Rhône-Alpes,Loire,27.29,1:16:46,353,999,9999,999,99,21.3,38.1,Nuages,23,44,23,7.1,ENE
+172,Pierre Rolland,2022-07-24,Île-de-France,Hauts-de-Seine,117.75,3:21:11,891,999,9999,999,99,35.1,79.0,Dégagé,32,30,32,10.2,S
+173,Pierre Rolland,2022-07-23,Occitanie,Lot,40.63,57:17,315,999,9999,999,99,42.6,72.8,Quelques nuages,25,55,25,9.8,NW
+174,Pierre Rolland,2022-07-23,Occitanie,Lot,0.0,0s,0,999,9999,999,99,0.0,0.6,Quelques nuages,25,55,25,9.8,NW
+175,Pierre Rolland,2022-07-22,Occitanie,Hautes-Pyrénées,190.76,4:12:57,814,999,9999,999,99,45.2,80.1,Quelques nuages,27,63,28,17.6,WNW
+176,Pierre Rolland,2022-07-21,Occitanie,Hautes-Pyrénées,160.29,5:02:56,3994,999,9999,999,99,31.7,88.4,Dégagé,28,47,28,9.1,NNE
+177,Pierre Rolland,2022-07-21,Occitanie,Hautes-Pyrénées,0.01,0s,0,999,9999,999,99,0.0,1.0,Dégagé,21,63,21,5.8,ENE
+178,Pierre Rolland,2022-07-20,Occitanie,Hautes-Pyrénées,0.63,3:22,71,999,9999,999,99,11.3,16.5,Quelques nuages,23,44,23,8.4,NNE
+179,Pierre Rolland,2022-07-20,Auvergne-Rhône-Alpes,Ain,132.26,3:50:06,3320,999,9999,999,99,34.5,97.9,Quelques nuages,25,56,25,5.1,N
+180,Pierre Rolland,2022-07-19,Occitanie,Aude,0.37,2:03,54,999,9999,999,99,10.9,25.8,Quelques nuages,30,51,31,25.5,E
+181,Pierre Rolland,2022-07-18,Occitanie,Aude,21.05,51:22,324,999,9999,999,99,24.6,57.8,Dégagé,32,34,32,32.6,ESE
+182,Pierre Rolland,2022-07-17,Occitanie,Aveyron,207.49,4:49:58,2447,999,9999,999,99,42.9,106.0,Dégagé,33,11,33,4.8,ENE
+183,Pierre Rolland,2022-07-16,Auvergne-Rhône-Alpes,Ain,200.02,5:14:04,2117,999,9999,999,99,38.2,87.5,Dégagé,26,30,26,12.1,N
+184,Pierre Rolland,2022-07-15,Auvergne-Rhône-Alpes,Ain,0.15,57s,0,999,9999,999,99,9.9,18.7,Quelques nuages,31,28,31,14.4,N
+185,Pierre Rolland,2022-07-15,Auvergne-Rhône-Alpes,Isère,198.4,4:40:03,1296,999,9999,999,99,42.5,92.3,Dégagé,28,28,28,8.4,NW
+186,Pierre Rolland,2022-07-14,Auvergne-Rhône-Alpes,Isère,0.13,2:39,15,999,9999,999,99,3.1,17.0,Dégagé,22,25,22,7.0,NW
+187,Pierre Rolland,2022-07-14,Auvergne-Rhône-Alpes,Isère,0.84,2:55,9,999,9999,999,99,17.3,32.9,Dégagé,22,25,22,7.0,NW
+188,Pierre Rolland,2022-07-14,Provence-Alpes-Côte d'Azur,Hautes-Alpes,168.34,5:29:44,4038,999,9999,999,99,30.6,129.9,Quelques nuages,25,31,25,5.9,WNW
+189,Pierre Rolland,2022-07-14,Provence-Alpes-Côte d'Azur,Hautes-Alpes,0.26,1:11,1,999,9999,999,99,13.3,15.7,Quelques nuages,25,31,25,5.9,WNW
+190,Pierre Rolland,2022-07-13,Auvergne-Rhône-Alpes,Ain,11.61,23:04,7,999,9999,999,99,30.2,53.2,Quelques nuages,24,31,24,6.2,WSW
+191,Pierre Rolland,2022-07-13,Auvergne-Rhône-Alpes,Savoie,159.52,5:03:18,3824,999,9999,999,99,31.6,86.4,Dégagé,28,28,28,5.4,W
+192,Pierre Rolland,2022-07-13,Auvergne-Rhône-Alpes,Savoie,0.33,1:26,2,999,9999,999,99,14.0,22.0,Dégagé,28,28,28,5.4,W
+193,Pierre Rolland,2022-07-12,Auvergne-Rhône-Alpes,Savoie,6.06,12:36,8,999,9999,999,99,28.9,52.9,Quelques nuages,24,28,24,7.3,WNW
+194,Pierre Rolland,2022-07-12,Auvergne-Rhône-Alpes,Savoie,152.7,3:44:37,2352,999,9999,999,99,40.8,85.4,Quelques nuages,23,37,23,8.5,NW
+195,Pierre Rolland,2022-07-11,Auvergne-Rhône-Alpes,Savoie,17.12,42:34,284,999,9999,999,99,24.1,57.3,Dégagé,17,75,17,6.8,NNW
+196,Pierre Rolland,2022-07-09,Bourgogne-Franche-Comté,Jura,193.43,4:39:12,2527,999,9999,999,99,41.6,93.6,Quelques nuages,24,43,24,17.6,NNE
+197,Pierre Rolland,2022-07-08,Centre-Val de Loire,Cher,9.3,18:00,9,999,9999,999,99,31.0,55.9,Dégagé,20,31,20,8.3,ENE
+198,Pierre Rolland,2022-07-08,Auvergne-Rhône-Alpes,Ain,179.47,4:11:28,2564,999,9999,999,99,42.8,82.9,Dégagé,23,40,23,13.1,N
+199,Pierre Rolland,2022-07-06,Hauts-de-France,Nord,1.83,4:25,12,999,9999,999,99,25.0,55.0,Quelques nuages,25,43,25,16.0,NW
+200,Pierre Rolland,2022-07-06,Hauts-de-France,Nord,0.34,1:46,0,999,9999,999,99,11.6,16.1,Quelques nuages,25,43,25,16.0,NW
+201,Pierre Rolland,2022-07-06,Hauts-de-France,Nord,0.13,39s,0,999,9999,999,99,12.8,26.0,Quelques nuages,25,43,25,16.0,NW
+202,Pierre Rolland,2022-07-06,Hauts-de-France,Nord,168.76,3:46:25,777,999,9999,999,99,44.7,74.0,Quelques nuages,22,49,22,11.2,NNW
+203,Pierre Rolland,2022-07-06,Hauts-de-France,Nord,0.39,1:44,0,999,9999,999,99,13.5,20.6,Quelques nuages,22,49,22,11.2,NNW
+204,Pierre Rolland,2022-07-06,Hauts-de-France,Nord,0.01,10s,0,999,9999,999,99,6.4,1.4,Quelques nuages,18,72,18,8.3,WSW
+205,Pierre Rolland,2022-07-04,Hauts-de-France,Nord,2.64,7:52,10,999,9999,999,99,20.2,37.2,Quelques nuages,22,57,22,8.4,SW
+206,Pierre Rolland,2022-07-04,Hauts-de-France,Nord,38.69,1:15:52,217,999,9999,999,99,30.6,51.2,Quelques nuages,20,64,20,7.9,SSW
+207,Pierre Rolland,2022-07-04,Hauts-de-France,Nord,19.5,40:18,64,999,9999,999,99,29.0,45.6,Quelques nuages,18,75,18,8.4,SSW
+208,Pierre Rolland,2022-08-31,Auvergne-Rhône-Alpes,Loire,140.61,4:22:24,523,227,2935,1019,150,32.2,55.1,Quelques nuages,20,69,20,8.2,NE
+209,Pierre Rolland,2022-08-28,Bretagne,Morbihan,254.07,6:05:40,3173,387,8497,999,99,41.7,78.0,Quelques nuages,20,68,20,18.4,ENE
+210,Pierre Rolland,2022-08-27,Auvergne-Rhône-Alpes,Loire,60.41,2:02:11,175,202,1187,381,134,29.7,50.8,Nuages,18,87,18,9.7,NE
+211,Pierre Rolland,2022-08-26,Auvergne-Rhône-Alpes,Loire,97.47,2:59:46,279,254,2277,873,168,32.5,55.0,Quelques nuages,18,93,19,11.1,NNW
+212,Pierre Rolland,2022-08-25,Auvergne-Rhône-Alpes,Loire,96.37,2:52:33,292,255,2137,826,169,33.5,62.2,Quelques nuages,21,58,21,5.7,NE
+213,Pierre Rolland,2022-08-24,Auvergne-Rhône-Alpes,Loire,126.77,4:29:45,427,234,2876,1214,155,28.2,55.0,Quelques nuages,24,70,25,6.6,E
+214,Pierre Rolland,2022-08-22,Auvergne-Rhône-Alpes,Loire,48.19,1:49:53,108,130,778,137,86,26.3,41.9,Nuages,19,87,19,9.1,SW
+215,Pierre Rolland,2022-08-21,Auvergne-Rhône-Alpes,Ain,169.06,5:32:03,3093,271,4329,1831,179,30.5,68.2,Nuages,12,81,12,3.9,NNE
+216,Pierre Rolland,2022-08-20,Auvergne-Rhône-Alpes,Ain,88.2,2:47:19,1777,302,2406,1183,200,31.6,78.6,Quelques nuages,13,81,13,5.9,NNW
+217,Pierre Rolland,2022-08-19,Auvergne-Rhône-Alpes,Ain,120.27,4:00:57,2049,264,3077,1287,175,29.9,71.0,Quelques nuages,13,87,13,7.3,NW
+218,Pierre Rolland,2022-08-18,Auvergne-Rhône-Alpes,Ain,101.6,3:12:35,2181,314,2915,1464,208,31.7,77.0,Nuages,12,93,12,5.3,NNW
+219,Pierre Rolland,2022-08-17,Auvergne-Rhône-Alpes,Ain,156.27,5:16:37,2995,999,9999,999,99,29.6,76.5,Quelques nuages,11,95,11,4.4,SW
+220,Pierre Rolland,2022-08-16,Auvergne-Rhône-Alpes,Ain,77.99,2:29:55,941,999,9999,999,99,31.2,75.1,Quelques nuages,20,54,20,6.4,SSE
+221,Pierre Rolland,2022-08-13,Auvergne-Rhône-Alpes,Ain,39.51,1:24:58,405,999,9999,999,99,27.9,65.4,Dégagé,33,17,33,12.1,ESE
+222,Pierre Rolland,2022-08-12,Auvergne-Rhône-Alpes,Loire,95.48,3:00:44,330,999,9999,999,99,31.7,48.5,Dégagé,25,30,25,14.1,ENE
+223,Pierre Rolland,2022-08-11,Auvergne-Rhône-Alpes,Ain,75.31,2:28:38,1171,999,9999,999,99,30.4,62.4,Dégagé,21,28,21,5.0,SSW
+224,Pierre Rolland,2022-08-10,Auvergne-Rhône-Alpes,Ain,129.22,4:21:10,2570,999,9999,999,99,29.7,80.1,Dégagé,22,36,22,11.8,ENE
+225,Pierre Rolland,2022-08-09,Auvergne-Rhône-Alpes,Ain,107.47,3:44:16,2147,999,9999,999,99,28.8,69.0,Dégagé,20,37,20,13.1,NE
+226,Pierre Rolland,2022-08-08,Auvergne-Rhône-Alpes,Ain,80.77,3:06:08,1702,999,9999,999,99,26.0,68.9,Dégagé,18,40,18,10.6,ENE
+227,Pierre Rolland,2022-08-07,Occitanie,Lot,102.66,2:22:22,600,999,9999,999,99,43.3,62.6,Dégagé,34,20,34,8.1,N
+228,Pierre Rolland,2022-08-06,Nouvelle-Aquitaine,Creuse,0.99,3:39,16,999,9999,999,99,16.3,35.3,Dégagé,22,28,22,16.3,NE
+229,Pierre Rolland,2022-08-06,Nouvelle-Aquitaine,Creuse,66.31,1:42:32,688,999,9999,999,99,38.8,58.6,Dégagé,26,23,26,19.2,NE
+230,Pierre Rolland,2022-08-06,Nouvelle-Aquitaine,Creuse,3.95,13:22,46,999,9999,999,99,17.7,38.4,Dégagé,26,23,26,19.2,NE
+231,Pierre Rolland,2022-08-06,Nouvelle-Aquitaine,Creuse,0.35,1:29,0,999,9999,999,99,14.4,31.9,Dégagé,26,23,26,19.7,NE
+232,Pierre Rolland,2022-08-06,Nouvelle-Aquitaine,Creuse,4.41,9:02,48,999,9999,999,99,29.3,57.7,Dégagé,26,23,26,19.7,NE
+233,Pierre Rolland,2022-08-06,Nouvelle-Aquitaine,Creuse,2.74,7:57,50,999,9999,999,99,20.7,48.0,Dégagé,27,25,27,19.5,NE
+234,Pierre Rolland,2022-08-06,Auvergne-Rhône-Alpes,Ain,42.99,1:35:43,799,999,9999,999,99,27.0,71.4,Dégagé,16,70,16,9.4,NE
+235,Pierre Rolland,2022-08-05,Auvergne-Rhône-Alpes,Ain,71.51,2:42:01,1229,999,9999,999,99,26.5,62.9,Quelques nuages,21,69,21,7.1,NW
+236,Pierre Rolland,2022-08-04,Auvergne-Rhône-Alpes,Ain,104.76,4:01:08,2094,999,9999,999,99,26.1,84.6,Quelques nuages,25,40,25,4.8,SSW
+237,Pierre Rolland,2022-08-03,Auvergne-Rhône-Alpes,Ain,80.19,3:01:44,1400,999,9999,999,99,26.5,84.3,Dégagé,25,37,25,6.2,WSW
+238,Pierre Rolland,2022-08-02,Auvergne-Rhône-Alpes,Ain,77.67,3:09:24,1564,999,9999,999,99,24.6,77.4,Dégagé,20,64,20,6.0,NE
+239,Pierre Rolland,2022-09-25,Auvergne-Rhône-Alpes,Loire,44.67,1:33:14,105,174,896,209,115,28.7,42.0,Quelques nuages,13,81,13,8.3,E
+240,Pierre Rolland,2022-09-24,Auvergne-Rhône-Alpes,Loire,113.76,3:47:20,326,146,1691,364,97,30.0,58.0,Nuages,10,93,9,6.2,S
+241,Pierre Rolland,2022-09-23,Auvergne-Rhône-Alpes,Loire,70.46,2:10:49,152,265,1672,669,175,32.3,49.0,Nuages,15,56,15,2.5,SSE
+242,Pierre Rolland,2022-09-22,Auvergne-Rhône-Alpes,Loire,86.66,2:56:07,235,200,1804,528,132,29.5,47.8,Dégagé,12,68,12,9.7,ENE
+243,Pierre Rolland,2022-09-21,Auvergne-Rhône-Alpes,Loire,106.72,3:45:31,386,228,2625,941,151,28.4,50.5,Dégagé,15,68,15,12.6,NE
+244,Pierre Rolland,2022-09-20,Auvergne-Rhône-Alpes,Loire,71.57,2:30:57,272,134,1211,999,99,28.5,51.7,Dégagé,12,76,12,9.6,NE
+245,Pierre Rolland,2022-09-11,Auvergne-Rhône-Alpes,Ain,70.29,2:32:23,1600,258,1801,750,171,27.7,75.0,Dégagé,13,68,13,4.5,ESE
+246,Pierre Rolland,2022-09-10,Auvergne-Rhône-Alpes,Ain,128.11,4:34:42,2115,233,2949,1133,154,28.0,63.1,Quelques nuages,9,87,8,5.7,WNW
+247,Pierre Rolland,2022-09-08,Auvergne-Rhône-Alpes,Loire,112.39,3:46:27,561,220,2265,826,146,29.8,53.9,Nuages,15,95,15,18.0,SSW
+248,Pierre Rolland,2022-09-05,Auvergne-Rhône-Alpes,Loire,100.07,3:19:53,358,201,2033,604,133,30.0,49.7,Quelques nuages,22,77,22,5.8,ENE
+249,Pierre Rolland,2022-09-04,Bourgogne-Franche-Comté,Doubs,207.03,5:02:15,2971,382,6933,999,99,41.1,83.0,Quelques nuages,19,73,19,2.8,SE
+250,Pierre Rolland,2022-09-03,Bourgogne-Franche-Comté,Doubs,43.17,1:33:58,749,183,1032,999,99,27.6,66.4,Quelques nuages,22,67,22,11.5,WSW
+251,Pierre Rolland,2022-09-01,Auvergne-Rhône-Alpes,Loire,102.26,3:13:55,341,259,2322,988,172,31.6,54.5,Quelques nuages,23,62,23,5.7,ENE
+252,Pierre Rolland,2022-10-15,Auvergne-Rhône-Alpes,Loire,55.82,2:03:33,208,172,1111,289,114,27.1,42.4,Pluie,16,100,17,24.5,SW
+253,Pierre Rolland,2022-10-13,Auvergne-Rhône-Alpes,Loire,39.27,1:30:33,74,141,693,131,93,26.0,37.3,Quelques nuages,13,89,13,10.8,SSW
+254,Pierre Rolland,2022-10-12,Auvergne-Rhône-Alpes,Loire,50.49,1:55:59,87,199,1161,340,132,26.1,45.6,Quelques nuages,13,88,13,6.1,NE
+255,Pierre Rolland,2022-10-09,Auvergne-Rhône-Alpes,Ain,13.0,40:15,341,188,453,999,99,19.4,40.0,Dégagé,14,70,14,6.4,SSE
+256,Pierre Rolland,2022-10-06,Auvergne-Rhône-Alpes,Loire,195.82,4:24:20,2134,456,7232,999,99,44.4,85.1,Quelques nuages,15,76,15,8.3,N
+257,Pierre Rolland,2022-10-05,Auvergne-Rhône-Alpes,Loire,43.01,1:27:36,109,222,983,321,147,29.5,53.7,Dégagé,16,77,16,19.0,SSW
+258,Pierre Rolland,2022-10-04,Auvergne-Rhône-Alpes,Loire,51.2,1:59:25,95,189,1081,321,125,25.7,44.4,Quelques nuages,11,83,11,5.1,SSE
+259,Pierre Rolland,2022-10-03,Auvergne-Rhône-Alpes,Loire,32.67,1:22:25,75,114,507,83,75,23.8,38.0,Quelques nuages,17,69,17,10.0,ENE
+260,Pierre Rolland,2022-11-23,Auvergne-Rhône-Alpes,Loire,46.07,1:54:47,183,89,616,999,99,24.1,41.3,Pluie,9,99,6,19.9,S
+261,Pierre Rolland,2022-11-22,Auvergne-Rhône-Alpes,Loire,89.16,3:35:55,306,97,1259,999,99,24.8,48.0,Nuages,8,87,4,25.9,WSW
+262,Pierre Rolland,2022-11-09,Auvergne-Rhône-Alpes,Loire,81.78,3:18:02,235,154,989,273,102,24.8,52.2,Nuages,14,91,14,17.3,WSW
+263,Pierre Rolland,2022-12-18,Auvergne-Rhône-Alpes,Loire,37.66,1:36:40,97,82,476,999,99,23.4,33.9,Nuages,4,74,8,10.4,SSE
+264,Pierre Rolland,2022-12-17,Auvergne-Rhône-Alpes,Ain,38.5,1:34:24,109,92,523,999,99,24.5,36.3,Dégagé,2,77,6,11.1,E
+265,Pierre Rolland,2022-12-01,Auvergne-Rhône-Alpes,Loire,39.22,1:45:13,114,76,480,999,99,22.4,35.0,Quelques nuages,7,75,5,14.0,NNE
+266,Pierre Rolland,2021-01-31,Auvergne-Rhône-Alpes,Loire,109.93,3:18:03,300,999,9999,999,99,33.3,58.3,Quelques nuages,6,88,6,4.4,NNE
+267,Pierre Rolland,2021-01-30,Occitanie,Haute-Garonne,32.13,1:25:19,104,999,9999,999,99,22.6,42.1,Pluie,9,91,7,9.6,NNW
+268,Pierre Rolland,2021-01-30,Auvergne-Rhône-Alpes,Loire,86.25,2:23:25,107,999,9999,999,99,36.1,59.4,Pluie,10,97,7,20.2,WSW
+269,Pierre Rolland,2021-01-29,Auvergne-Rhône-Alpes,Loire,93.47,2:44:25,300,999,9999,999,99,34.1,58.0,Pluie,10,86,6,27.2,WSW
+270,Pierre Rolland,2021-01-28,Auvergne-Rhône-Alpes,Loire,51.75,1:41:37,106,999,9999,999,99,30.6,53.3,Pluie,12,92,12,28.2,WSW
+271,Pierre Rolland,2021-01-27,Auvergne-Rhône-Alpes,Loire,162.77,4:51:21,557,999,9999,999,99,33.5,56.2,Nuages,5,95,2,13.2,WSW
+272,Pierre Rolland,2021-01-25,Auvergne-Rhône-Alpes,Loire,77.31,2:27:16,179,999,9999,999,99,31.5,53.6,Quelques nuages,4,76,0,19.8,NNW
+273,Pierre Rolland,2021-01-24,Occitanie,Haute-Garonne,40.36,2:12:57,846,999,9999,999,99,18.2,59.1,Pluie,4,87,0,15.2,NW
+274,Pierre Rolland,2021-01-16,Occitanie,Haute-Garonne,51.74,2:40:08,685,999,9999,999,99,19.4,62.0,Quelques nuages,6,66,4,12.6,WNW
+275,Pierre Rolland,2021-01-09,Occitanie,Haute-Garonne,34.58,1:24:38,287,999,9999,999,99,24.5,56.2,Nuages,4,63,3,6.2,NNE
+276,Pierre Rolland,2021-01-07,Auvergne-Rhône-Alpes,Loire,106.83,3:48:56,351,999,9999,999,99,28.0,46.4,Nuages,0,93,2,7.2,SSW
+277,Pierre Rolland,2021-01-06,Auvergne-Rhône-Alpes,Loire,56.02,1:49:44,130,999,9999,999,99,30.6,46.8,Nuages,2,98,1,7.2,N
+278,Pierre Rolland,2021-01-05,Auvergne-Rhône-Alpes,Loire,63.37,2:02:39,131,999,9999,999,99,31.0,54.4,Nuages,1,97,3,12.2,NNE
+279,Pierre Rolland,2021-01-04,Auvergne-Rhône-Alpes,Ain,0.95,3:23,41,999,9999,999,99,17.0,20.9,Nuages,2,93,1,10.5,NE
+280,Pierre Rolland,2021-01-04,Auvergne-Rhône-Alpes,Loire,103.04,4:38:56,310,999,9999,999,99,22.2,39.6,Nuages,1,100,2,8.5,NE
+281,Pierre Rolland,2021-01-03,Auvergne-Rhône-Alpes,Loire,126.6,3:46:30,423,999,9999,999,99,33.5,55.8,Nuages,1,95,1,4.1,ENE
+282,Pierre Rolland,2021-01-02,Auvergne-Rhône-Alpes,Loire,4.08,15:22,3,999,9999,999,99,15.9,29.9,Dégagé,2,87,1,9.1,N
+283,Pierre Rolland,2021-01-02,Auvergne-Rhône-Alpes,Loire,58.44,2:07:30,161,999,9999,999,99,27.5,38.5,Dégagé,1,93,2,8.0,N
+284,Pierre Rolland,2021-01-02,Occitanie,Haute-Garonne,33.65,1:11:15,1,999,9999,999,99,28.3,48.4,Nuages,1,91,6,16.7,WNW
+285,Pierre Rolland,2021-02-28,Auvergne-Rhône-Alpes,Ain,111.5,3:54:11,2275,999,9999,999,99,28.6,74.5,Dégagé,7,49,6,6.6,SE
+286,Pierre Rolland,2021-02-27,Auvergne-Rhône-Alpes,Ain,24.3,2:05:25,807,999,9999,999,99,11.6,45.4,Quelques nuages,1,76,3,15.6,NE
+287,Pierre Rolland,2021-02-25,Centre-Val de Loire,Cher,70.13,2:36:49,1232,999,9999,999,99,26.8,74.5,Quelques nuages,10,61,8,10.3,S
+288,Pierre Rolland,2021-02-24,Auvergne-Rhône-Alpes,Loire,146.55,4:03:56,469,999,9999,999,99,36.0,61.6,Dégagé,14,70,14,14.9,S
+289,Pierre Rolland,2021-02-23,Auvergne-Rhône-Alpes,Loire,27.33,1:07:43,71,999,9999,999,99,24.2,39.2,Quelques nuages,13,80,13,17.9,SSW
+290,Pierre Rolland,2021-02-22,Auvergne-Rhône-Alpes,Loire,88.59,2:30:22,215,999,9999,999,99,35.4,53.3,Nuages,12,63,12,9.2,SSE
+291,Pierre Rolland,2021-02-21,Auvergne-Rhône-Alpes,Loire,100.45,2:50:19,406,999,9999,999,99,35.4,67.0,Quelques nuages,6,86,4,11.6,SSE
+292,Pierre Rolland,2021-02-20,Auvergne-Rhône-Alpes,Ain,0.99,3:02,4,999,9999,999,99,19.7,28.4,Quelques nuages,16,56,16,20.5,S
+293,Pierre Rolland,2021-02-20,Auvergne-Rhône-Alpes,Loire,37.41,1:20:01,79,999,9999,999,99,28.1,42.8,Quelques nuages,12,67,12,17.9,SSE
+294,Pierre Rolland,2021-02-19,Occitanie,Haute-Garonne,32.3,1:22:58,206,107,534,999,99,23.4,51.5,Quelques nuages,15,70,15,25.6,SE
+295,Pierre Rolland,2021-02-16,Occitanie,Haute-Garonne,14.8,44:15,0,163,366,89,108,20.1,50.0,Dégagé,13,72,13,12.4,SSE
+296,Pierre Rolland,2021-02-13,Occitanie,Haute-Garonne,55.78,2:51:24,691,999,9999,999,99,19.5,61.2,Nuages,9,82,8,8.0,NNW
+297,Pierre Rolland,2021-02-09,Occitanie,Lot,266.27,2:30:17,1313,999,9999,999,99,106.3,528.5,Nuages,3,87,8,12.9,NNE
+298,Pierre Rolland,2021-02-07,Auvergne-Rhône-Alpes,Loire,129.99,3:24:42,532,999,9999,999,99,38.1,55.8,Pluie,3,93,1,20.1,WSW
+299,Pierre Rolland,2021-02-07,Occitanie,Haute-Garonne,60.4,2:46:37,865,999,9999,999,99,21.8,57.3,Quelques nuages,6,85,2,16.2,NW
+300,Pierre Rolland,2021-02-07,Auvergne-Rhône-Alpes,Loire,3.66,8:31,12,999,9999,999,99,25.8,36.0,Pluie,3,87,1,19.8,W
+301,Pierre Rolland,2021-02-05,Auvergne-Rhône-Alpes,Ain,0.96,2:22,2,999,9999,999,99,24.3,31.7,Nuages,11,80,11,6.8,SSE
+302,Pierre Rolland,2021-02-05,Auvergne-Rhône-Alpes,Loire,116.22,3:17:49,252,999,9999,999,99,35.3,55.8,Nuages,8,93,7,9.0,SSW
+303,Pierre Rolland,2021-02-03,Auvergne-Rhône-Alpes,Loire,166.61,5:08:25,672,999,9999,999,99,32.4,61.9,Pluie,11,98,11,28.6,SW
+304,Pierre Rolland,2021-02-01,Auvergne-Rhône-Alpes,Loire,63.67,2:16:00,154,999,9999,999,99,28.1,50.4,Nuages,10,100,10,17.8,SSW
+305,Pierre Rolland,2021-03-31,Auvergne-Rhône-Alpes,Loire,233.03,6:40:26,714,999,9999,999,99,34.9,59.4,Dégagé,10,81,9,6.2,S
+306,Pierre Rolland,2021-03-30,Auvergne-Rhône-Alpes,Loire,75.07,2:30:22,242,999,9999,999,99,30.0,57.6,Dégagé,10,68,10,5.0,SE
+307,Pierre Rolland,2021-03-29,Auvergne-Rhône-Alpes,Loire,46.62,1:43:03,113,999,9999,999,99,27.1,40.7,Dégagé,13,56,13,9.0,S
+308,Pierre Rolland,2021-03-28,Auvergne-Rhône-Alpes,Ain,206.04,4:57:21,1912,999,9999,999,99,41.6,79.6,Quelques nuages,10,67,10,10.0,SSW
+309,Pierre Rolland,2021-03-28,Auvergne-Rhône-Alpes,Ain,0.18,22s,2,999,9999,999,99,30.6,32.0,Quelques nuages,10,67,10,10.0,SSW
+310,Pierre Rolland,2021-03-27,Auvergne-Rhône-Alpes,Loire,66.35,2:06:54,168,999,9999,999,99,31.4,53.6,Quelques nuages,6,77,3,17.1,WSW
+311,Pierre Rolland,2021-03-26,Auvergne-Rhône-Alpes,Ain,1.03,3:36,2,999,9999,999,99,17.2,29.9,Quelques nuages,14,54,14,21.2,SW
+312,Pierre Rolland,2021-03-26,Auvergne-Rhône-Alpes,Loire,107.92,3:01:49,313,999,9999,999,99,35.6,68.0,Quelques nuages,10,76,8,13.8,SSW
+313,Pierre Rolland,2021-03-25,Auvergne-Rhône-Alpes,Loire,39.02,1:22:11,91,999,9999,999,99,28.5,40.3,Nuages,10,85,10,12.1,WSW
+314,Pierre Rolland,2021-03-24,Auvergne-Rhône-Alpes,Loire,105.0,2:55:36,366,999,9999,999,99,35.9,54.7,Quelques nuages,15,44,15,8.8,SSW
+315,Pierre Rolland,2021-03-08,Auvergne-Rhône-Alpes,Ain,0.96,2:32,3,999,9999,999,99,22.9,30.2,Dégagé,4,55,1,11.5,NNE
+316,Pierre Rolland,2021-03-08,Auvergne-Rhône-Alpes,Loire,38.02,1:23:52,95,999,9999,999,99,27.2,37.8,Dégagé,2,60,1,11.6,NNE
+317,Pierre Rolland,2021-03-07,Auvergne-Rhône-Alpes,Loire,97.07,2:34:14,407,999,9999,999,99,37.8,59.8,Dégagé,1,62,2,9.3,NE
+318,Pierre Rolland,2021-03-06,Auvergne-Rhône-Alpes,Loire,84.55,2:54:48,267,999,9999,999,99,29.0,41.4,Dégagé,4,60,0,20.5,NE
+319,Pierre Rolland,2021-03-04,Auvergne-Rhône-Alpes,Ain,123.62,4:13:02,2114,999,9999,999,99,29.3,80.3,Quelques nuages,6,68,6,3.1,NE
+320,Pierre Rolland,2021-03-03,Auvergne-Rhône-Alpes,Ain,84.71,2:40:40,1517,999,9999,999,99,31.6,84.2,Dégagé,7,40,7,3.7,SSW
+321,Pierre Rolland,2021-03-02,Auvergne-Rhône-Alpes,Ain,87.41,3:17:50,1932,999,9999,999,99,26.5,77.4,Dégagé,9,33,8,5.9,SSE
+322,Pierre Rolland,2021-03-01,Auvergne-Rhône-Alpes,Ain,132.53,5:07:46,3198,999,9999,999,99,25.8,83.2,Dégagé,5,60,3,9.0,SE
+323,Pierre Rolland,2021-04-27,Auvergne-Rhône-Alpes,Loire,84.95,3:05:09,414,999,9999,999,99,27.5,54.0,Dégagé,14,37,14,12.7,NE
+324,Pierre Rolland,2021-04-26,Auvergne-Rhône-Alpes,Loire,85.26,2:56:16,346,999,9999,999,99,29.0,61.9,Nuages,12,46,12,21.5,ENE
+325,Pierre Rolland,2021-04-25,Auvergne-Rhône-Alpes,Loire,40.4,1:36:23,112,999,9999,999,99,25.2,35.3,Quelques nuages,11,56,11,24.8,ENE
+326,Pierre Rolland,2021-04-24,Auvergne-Rhône-Alpes,Loire,142.22,4:04:34,410,999,9999,999,99,34.9,64.1,Dégagé,14,43,14,17.7,ENE
+327,Pierre Rolland,2021-04-23,Auvergne-Rhône-Alpes,Loire,67.75,2:22:28,164,999,9999,999,99,28.5,53.3,Dégagé,13,43,13,17.4,ENE
+328,Pierre Rolland,2021-04-22,Auvergne-Rhône-Alpes,Loire,12.09,54:00,24,999,9999,999,99,13.4,33.1,Quelques nuages,19,37,19,18.3,ENE
+329,Pierre Rolland,2021-04-22,Auvergne-Rhône-Alpes,Loire,74.85,2:51:49,233,999,9999,999,99,26.1,46.8,Dégagé,11,69,11,17.4,ENE
+330,Pierre Rolland,2021-04-21,Auvergne-Rhône-Alpes,Loire,97.23,3:10:17,325,999,9999,999,99,30.7,47.5,Dégagé,15,57,15,10.0,NE
+331,Pierre Rolland,2021-04-20,Auvergne-Rhône-Alpes,Ain,0.99,3:04,4,999,9999,999,99,19.4,25.6,Quelques nuages,15,44,15,6.3,E
+332,Pierre Rolland,2021-04-20,Auvergne-Rhône-Alpes,Loire,48.85,1:46:28,133,999,9999,999,99,27.5,37.1,Quelques nuages,13,50,13,4.5,E
+333,Pierre Rolland,2021-04-17,Occitanie,Haute-Garonne,40.38,3:03:28,695,77,845,999,99,13.2,47.6,Quelques nuages,12,37,12,20.2,WNW
+334,Pierre Rolland,2021-04-08,Auvergne-Rhône-Alpes,Loire,59.02,2:12:20,188,999,9999,999,99,26.8,41.0,Quelques nuages,6,57,6,4.8,S
+335,Pierre Rolland,2021-04-07,Auvergne-Rhône-Alpes,Loire,98.04,3:15:04,299,999,9999,999,99,30.2,49.3,Dégagé,2,72,0,7.4,SW
+336,Pierre Rolland,2021-04-06,Auvergne-Rhône-Alpes,Loire,58.31,2:02:10,144,999,9999,999,99,28.6,49.7,Dégagé,5,47,2,13.0,NW
+337,Pierre Rolland,2021-04-05,Auvergne-Rhône-Alpes,Loire,29.45,1:09:40,80,999,9999,999,99,25.4,38.2,Quelques nuages,7,72,4,15.8,W
+338,Pierre Rolland,2021-04-04,Centre-Val de Loire,Indre,2.03,4:37,0,999,9999,999,99,26.4,48.2,Dégagé,17,36,17,15.9,NNE
+339,Pierre Rolland,2021-04-04,Auvergne-Rhône-Alpes,Ain,204.91,5:04:53,1759,999,9999,999,99,40.3,83.2,Dégagé,11,56,11,18.7,NE
+340,Pierre Rolland,2021-04-03,Auvergne-Rhône-Alpes,Loire,45.62,1:40:27,127,999,9999,999,99,27.2,41.8,Dégagé,6,68,1,24.6,NE
+341,Pierre Rolland,2021-04-02,Auvergne-Rhône-Alpes,Loire,91.75,2:41:08,249,999,9999,999,99,34.2,60.8,Dégagé,10,72,7,20.5,NE
+342,Pierre Rolland,2021-04-01,Auvergne-Rhône-Alpes,Loire,46.42,1:44:18,130,999,9999,999,99,26.7,40.7,Quelques nuages,18,58,18,7.8,NE
+343,Pierre Rolland,2021-05-31,Auvergne-Rhône-Alpes,Loire,176.95,4:34:20,3197,999,9999,999,99,38.7,87.8,Dégagé,21,55,21,3.3,E
+344,Pierre Rolland,2021-05-30,Auvergne-Rhône-Alpes,Puy-de-Dôme,183.75,4:17:25,2416,999,9999,999,99,42.8,87.8,Dégagé,20,56,20,8.3,N
+345,Pierre Rolland,2021-05-29,Occitanie,Haute-Garonne,72.79,3:36:54,1314,999,9999,999,99,20.1,66.7,Quelques nuages,24,47,24,13.8,WNW
+346,Pierre Rolland,2021-05-29,Auvergne-Rhône-Alpes,Ain,49.82,1:34:11,686,999,9999,999,99,31.7,76.3,Nuages,18,62,18,5.2,N
+347,Pierre Rolland,2021-05-28,Auvergne-Rhône-Alpes,Ain,54.04,2:14:00,1008,999,9999,999,99,24.2,70.2,Quelques nuages,12,62,12,3.9,SSW
+348,Pierre Rolland,2021-05-27,Auvergne-Rhône-Alpes,Ain,83.13,3:00:00,1763,999,9999,999,99,27.7,74.9,Quelques nuages,13,54,13,5.5,NNE
+349,Pierre Rolland,2021-05-26,Auvergne-Rhône-Alpes,Ain,134.42,5:04:46,3545,999,9999,999,99,26.5,82.8,Quelques nuages,7,63,6,7.5,W
+350,Pierre Rolland,2021-05-26,Auvergne-Rhône-Alpes,Ain,0.72,2:25,36,999,9999,999,99,17.9,37.8,Quelques nuages,7,63,6,7.5,W
+351,Pierre Rolland,2021-05-25,Auvergne-Rhône-Alpes,Puy-de-Dôme,26.73,1:11:51,890,999,9999,999,99,22.3,58.0,Quelques nuages,11,64,11,9.9,W
+352,Pierre Rolland,2021-05-24,Auvergne-Rhône-Alpes,Ain,46.61,1:45:59,895,999,9999,999,99,26.4,92.9,Quelques nuages,7,62,5,13.2,SSW
+353,Pierre Rolland,2021-05-24,Occitanie,Haute-Garonne,44.86,1:59:47,534,999,9999,999,99,22.5,60.6,Quelques nuages,12,77,12,11.2,E
+354,Pierre Rolland,2021-05-23,Auvergne-Rhône-Alpes,Ain,72.42,2:58:08,1596,999,9999,999,99,24.4,65.9,Quelques nuages,4,75,2,7.5,WSW
+355,Pierre Rolland,2021-05-22,Occitanie,Haute-Garonne,57.34,2:45:30,759,999,9999,999,99,20.8,67.7,Nuages,17,52,17,10.4,WNW
+356,Pierre Rolland,2021-05-21,Occitanie,Hautes-Pyrénées,115.23,3:37:44,1077,999,9999,999,99,31.8,65.5,Quelques nuages,15,60,15,5.9,NNE
+357,Pierre Rolland,2021-05-20,Occitanie,Hautes-Pyrénées,125.41,4:28:23,3030,999,9999,999,99,28.0,76.3,Nuages,16,52,16,5.2,NE
+358,Pierre Rolland,2021-05-19,Auvergne-Rhône-Alpes,Ain,117.13,4:59:33,3391,999,9999,999,99,23.5,70.2,Nuages,12,68,12,8.2,WNW
+359,Pierre Rolland,2021-05-18,Occitanie,Ariège,158.85,5:07:19,2752,999,9999,999,99,31.0,78.1,Quelques nuages,14,40,14,5.0,NNE
+360,Pierre Rolland,2021-05-17,Occitanie,Pyrénées-Orientales,187.2,6:15:56,4182,999,9999,999,99,29.9,89.6,Nuages,13,68,13,3.8,NNW
+361,Pierre Rolland,2021-05-16,Occitanie,Aude,130.07,4:10:51,1687,999,9999,999,99,31.1,86.0,Quelques nuages,16,81,16,3.5,NNE
+362,Pierre Rolland,2021-05-15,Auvergne-Rhône-Alpes,Ain,1.67,33:51,6,999,9999,999,99,3.0,19.4,Pluie,4,100,2,11.4,SW
+363,Pierre Rolland,2021-05-14,Auvergne-Rhône-Alpes,Ain,2.14,31:12,11,999,9999,999,99,4.1,26.3,Quelques nuages,7,82,4,14.1,W
+364,Pierre Rolland,2021-05-14,Auvergne-Rhône-Alpes,Ain,8.14,1:20:14,4,999,9999,999,99,6.1,38.5,Nuages,2,100,0,8.7,W
+365,Pierre Rolland,2021-05-13,Auvergne-Rhône-Alpes,Puy-de-Dôme,76.84,3:16:11,1561,999,9999,999,99,23.5,57.2,Quelques nuages,11,72,11,6.9,W
+366,Pierre Rolland,2021-06-30,Pays de la Loire,Mayenne,4.49,11:26,15,999,9999,999,99,23.6,44.6,Nuages,20,86,20,16.1,NW
+367,Pierre Rolland,2021-06-30,Pays de la Loire,Mayenne,26.73,36:11,345,999,9999,999,99,44.3,75.6,Quelques nuages,19,88,19,15.8,WNW
+368,Pierre Rolland,2021-06-30,Pays de la Loire,Mayenne,4.03,9:34,133,999,9999,999,99,25.3,49.7,Nuages,19,85,19,12.3,NW
+369,Pierre Rolland,2021-06-29,Auvergne-Rhône-Alpes,Ain,158.37,3:42:52,1616,999,9999,999,99,42.6,76.0,Quelques nuages,19,79,19,12.6,NW
+370,Pierre Rolland,2021-06-28,Bretagne,Morbihan,187.52,4:14:37,1808,999,9999,999,99,44.2,87.1,Quelques nuages,18,72,18,7.1,E
+371,Pierre Rolland,2021-06-28,Bretagne,Morbihan,167.32,3:43:56,1692,999,9999,999,99,44.8,74.9,Quelques nuages,18,72,18,7.1,E
+372,Pierre Rolland,2021-06-27,Bretagne,Côtes-d'Armor,190.22,4:39:40,2391,999,9999,999,99,40.8,91.8,Nuages,16,93,16,12.4,ENE
+373,Pierre Rolland,2021-06-26,Bretagne,Finistère,207.57,5:00:34,3147,999,9999,999,99,41.4,84.6,Pluie,15,69,15,6.3,N
+374,Pierre Rolland,2021-06-26,Bretagne,Finistère,0.04,8s,0,999,9999,999,99,20.3,21.2,Nuages,13,72,13,5.5,NNE
+375,Pierre Rolland,2021-06-25,Bretagne,Finistère,0.04,0s,0,999,9999,999,99,0.0,0.0,Pluie,15,92,15,15.8,SSW
+376,Pierre Rolland,2021-06-25,Bretagne,Finistère,1.82,8:15,14,999,9999,999,99,13.2,47.2,Pluie,15,92,15,15.8,SSW
+377,Pierre Rolland,2021-06-24,Bretagne,Finistère,0.05,22s,0,999,9999,999,99,8.5,12.6,Quelques nuages,16,75,16,10.0,WNW
+378,Pierre Rolland,2021-06-24,Bretagne,Finistère,84.23,2:45:49,1200,999,9999,999,99,30.5,67.3,Quelques nuages,13,82,13,5.7,NW
+379,Pierre Rolland,2021-06-24,Bretagne,Finistère,84.06,2:46:01,1252,999,9999,999,99,30.4,73.8,Quelques nuages,13,85,13,5.5,NW
+380,Pierre Rolland,2021-06-23,Auvergne-Rhône-Alpes,Loire,44.73,1:31:41,113,999,9999,999,99,29.3,46.4,Nuages,12,91,12,14.3,N
+381,Pierre Rolland,2021-06-22,Auvergne-Rhône-Alpes,Loire,63.99,2:18:21,155,999,9999,999,99,27.8,49.7,Quelques nuages,16,87,16,9.1,W
+382,Pierre Rolland,2021-06-21,Auvergne-Rhône-Alpes,Loire,46.56,1:45:25,107,999,9999,999,99,26.5,40.3,Quelques nuages,18,80,18,5.4,SW
+383,Pierre Rolland,2021-06-20,Grand Est,Vosges,241.69,6:10:13,3857,999,9999,999,99,39.2,78.1,Nuages,21,81,21,9.6,SSW
+384,Pierre Rolland,2021-06-19,Grand Est,Vosges,56.76,2:00:51,729,999,9999,999,99,28.2,67.0,Quelques nuages,20,87,20,6.0,E
+385,Pierre Rolland,2021-06-18,Auvergne-Rhône-Alpes,Loire,72.57,2:29:33,178,999,9999,999,99,29.1,47.5,Quelques nuages,20,88,20,15.3,S
+386,Pierre Rolland,2021-06-17,Auvergne-Rhône-Alpes,Loire,63.45,2:10:46,139,999,9999,999,99,29.1,47.5,Quelques nuages,23,81,24,14.0,SSW
+387,Pierre Rolland,2021-06-16,Auvergne-Rhône-Alpes,Loire,51.84,2:05:41,106,999,9999,999,99,24.8,39.2,Dégagé,20,87,20,5.7,ESE
+388,Pierre Rolland,2021-06-15,Occitanie,Aude,260.5,7:08:02,2983,999,9999,999,99,36.5,78.1,Quelques nuages,20,81,21,7.7,N
+389,Pierre Rolland,2021-06-14,Auvergne-Rhône-Alpes,Loire,46.0,1:27:16,131,999,9999,999,99,31.6,55.1,Dégagé,21,58,21,9.4,NE
+390,Pierre Rolland,2021-06-13,Auvergne-Rhône-Alpes,Loire,53.77,2:00:39,123,999,9999,999,99,26.7,36.7,Dégagé,20,74,20,14.1,ENE
+391,Pierre Rolland,2021-06-12,Auvergne-Rhône-Alpes,Loire,136.11,3:57:08,503,999,9999,999,99,34.4,60.5,Quelques nuages,16,91,16,8.5,NNE
+392,Pierre Rolland,2021-06-11,Auvergne-Rhône-Alpes,Loire,59.81,2:14:34,127,999,9999,999,99,26.7,39.6,Quelques nuages,20,82,20,10.2,NE
+393,Pierre Rolland,2021-06-08,Auvergne-Rhône-Alpes,Ain,106.95,3:08:30,2594,999,9999,999,99,34.0,94.3,Dégagé,23,57,23,19.1,N
+394,Pierre Rolland,2021-06-07,Provence-Alpes-Côte d'Azur,Vaucluse,43.89,1:26:17,139,999,9999,999,99,30.5,49.7,Quelques nuages,22,67,22,25.9,N
+395,Pierre Rolland,2021-06-06,Auvergne-Rhône-Alpes,Savoie,154.38,4:34:34,3900,999,9999,999,99,33.7,111.6,Quelques nuages,14,89,14,3.7,NNW
+396,Pierre Rolland,2021-06-05,Auvergne-Rhône-Alpes,Ain,179.2,5:04:18,4093,999,9999,999,99,35.3,95.0,Quelques nuages,17,100,17,3.0,WNW
+397,Pierre Rolland,2021-06-04,Auvergne-Rhône-Alpes,Drôme,169.62,4:07:15,2589,999,9999,999,99,41.2,82.4,Quelques nuages,24,60,24,8.9,SSW
+398,Pierre Rolland,2021-06-03,Auvergne-Rhône-Alpes,Ain,173.63,4:12:55,2247,999,9999,999,99,41.2,77.0,Quelques nuages,22,68,22,6.5,ESE
+399,Pierre Rolland,2021-06-02,Auvergne-Rhône-Alpes,Loire,8.61,24:20,156,999,9999,999,99,21.2,69.1,Nuages,20,63,20,11.9,SSW
+400,Pierre Rolland,2021-06-02,Auvergne-Rhône-Alpes,Loire,16.18,23:48,324,999,9999,999,99,40.8,78.5,Nuages,19,66,19,12.6,S
+401,Pierre Rolland,2021-06-02,Auvergne-Rhône-Alpes,Loire,0.07,2:12,2,999,9999,999,99,2.1,2.5,Nuages,19,66,19,12.6,S
+402,Pierre Rolland,2021-06-02,Auvergne-Rhône-Alpes,Loire,24.15,47:58,403,999,9999,999,99,30.2,74.2,Quelques nuages,19,68,19,10.9,S
+403,Pierre Rolland,2021-06-01,Auvergne-Rhône-Alpes,Ain,0.63,4:03,58,999,9999,999,99,9.4,13.0,Quelques nuages,27,40,27,12.1,SE
+404,Pierre Rolland,2021-06-01,Auvergne-Rhône-Alpes,Loire,176.54,4:09:50,2138,999,9999,999,99,42.4,89.3,Quelques nuages,22,54,22,8.6,SSE
+405,Pierre Rolland,2021-07-30,Nouvelle-Aquitaine,Charente,51.68,1:19:07,264,999,9999,999,99,39.2,65.5,Nuages,20,81,20,23.7,NW
+406,Pierre Rolland,2021-07-29,Nouvelle-Aquitaine,Charente,81.78,2:22:07,310,999,9999,999,99,34.5,61.2,Quelques nuages,20,70,20,8.8,SSW
+407,Pierre Rolland,2021-07-29,Nouvelle-Aquitaine,Charente,80.26,2:14:42,356,999,9999,999,99,35.8,58.3,Quelques nuages,20,70,20,8.8,SSW
+408,Pierre Rolland,2021-07-28,Nouvelle-Aquitaine,Charente,62.3,1:57:51,325,999,9999,999,99,31.7,57.2,Quelques nuages,20,68,20,13.3,WSW
+409,Pierre Rolland,2021-07-28,Auvergne-Rhône-Alpes,Ain,43.67,1:21:54,316,999,9999,999,99,32.0,56.9,Quelques nuages,20,68,20,12.3,WSW
+410,Pierre Rolland,2021-07-27,Nouvelle-Aquitaine,Charente,72.85,2:17:58,272,999,9999,999,99,31.7,60.8,Nuages,20,81,20,16.8,WSW
+411,Pierre Rolland,2021-07-27,Nouvelle-Aquitaine,Charente,72.25,2:17:14,1503,999,9999,999,99,31.6,60.1,Nuages,20,81,20,16.8,WSW
+412,Pierre Rolland,2021-07-26,Nouvelle-Aquitaine,Charente,77.43,2:33:09,373,999,9999,999,99,30.3,54.7,Quelques nuages,20,80,20,18.2,WNW
+413,Pierre Rolland,2021-07-24,Auvergne-Rhône-Alpes,Ain,55.68,1:47:46,138,999,9999,999,99,31.0,51.1,Quelques nuages,17,100,17,12.8,SW
+414,Pierre Rolland,2021-07-23,Auvergne-Rhône-Alpes,Loire,68.76,2:32:36,168,999,9999,999,99,27.0,56.5,Quelques nuages,23,80,23,14.8,ENE
+415,Pierre Rolland,2021-07-22,Auvergne-Rhône-Alpes,Loire,62.56,2:18:54,213,999,9999,999,99,27.0,42.8,Dégagé,24,62,24,14.2,NE
+416,Pierre Rolland,2021-07-21,Auvergne-Rhône-Alpes,Loire,90.13,2:38:02,287,999,9999,999,99,34.2,61.2,Dégagé,27,52,27,14.4,NE
+417,Pierre Rolland,2021-07-18,Île-de-France,Yvelines,114.38,3:05:38,853,999,9999,999,99,37.0,71.6,Dégagé,29,47,29,18.9,NE
+418,Pierre Rolland,2021-07-17,Nouvelle-Aquitaine,Gironde,30.54,42:06,274,999,9999,999,99,43.5,70.6,Dégagé,29,43,29,12.6,NNE
+419,Pierre Rolland,2021-07-17,Nouvelle-Aquitaine,Gironde,0.76,2:10,16,999,9999,999,99,21.2,38.5,Dégagé,29,43,29,12.6,NNE
+420,Pierre Rolland,2021-07-16,Nouvelle-Aquitaine,Pyrénées-Atlantiques,206.18,4:40:00,1321,999,9999,999,99,44.2,95.8,Quelques nuages,22,62,22,5.0,NNE
+421,Pierre Rolland,2021-07-15,Nouvelle-Aquitaine,Pyrénées-Atlantiques,148.56,4:32:29,3562,999,9999,999,99,32.7,86.4,Quelques nuages,20,68,20,6.2,NNE
+422,Pierre Rolland,2021-07-14,Occitanie,Haute-Garonne,194.26,6:07:38,4224,999,9999,999,99,31.7,85.0,Nuages,17,81,17,23.3,W
+423,Pierre Rolland,2021-07-13,Auvergne-Rhône-Alpes,Ain,8.29,15:55,45,999,9999,999,99,31.3,95.4,Nuages,16,85,16,15.1,W
+424,Pierre Rolland,2021-07-13,Occitanie,Pyrénées-Orientales,185.74,4:43:17,2773,999,9999,999,99,39.3,88.2,Quelques nuages,8,61,7,8.2,NNW
+425,Pierre Rolland,2021-07-11,Occitanie,Pyrénées-Orientales,189.26,5:42:53,4100,999,9999,999,99,33.1,97.2,Dégagé,28,52,29,8.3,E
+426,Pierre Rolland,2021-07-10,Occitanie,Aude,189.52,4:37:54,2777,999,9999,999,99,40.9,87.5,Quelques nuages,29,37,29,9.9,ENE
+427,Pierre Rolland,2021-07-09,Occitanie,Gard,224.59,5:21:00,2033,999,9999,999,99,42.0,79.6,Nuages,26,44,26,17.2,N
+428,Pierre Rolland,2021-07-08,Auvergne-Rhône-Alpes,Ain,164.46,3:55:55,1875,999,9999,999,99,41.8,88.6,Quelques nuages,24,60,24,28.9,N
+429,Pierre Rolland,2021-07-07,Provence-Alpes-Côte d'Azur,Vaucluse,205.7,5:48:31,4525,999,9999,999,99,35.4,96.1,Quelques nuages,27,57,28,17.1,NNW
+430,Pierre Rolland,2021-07-06,Auvergne-Rhône-Alpes,Drôme,0.0,13s,0,999,9999,999,99,0.7,1.8,Nuages,25,81,25,12.7,WNW
+431,Pierre Rolland,2021-07-06,Auvergne-Rhône-Alpes,Savoie,196.87,4:33:13,1460,999,9999,999,99,43.2,91.1,Quelques nuages,26,79,28,7.1,NNW
+432,Pierre Rolland,2021-07-05,Auvergne-Rhône-Alpes,Savoie,27.18,1:11:32,446,999,9999,999,99,22.8,60.8,Quelques nuages,11,100,11,6.6,WNW
+433,Pierre Rolland,2021-07-04,Auvergne-Rhône-Alpes,Savoie,147.84,4:49:05,4420,999,9999,999,99,30.7,83.5,Pluie,18,100,19,5.4,WSW
+434,Pierre Rolland,2021-07-03,Auvergne-Rhône-Alpes,Ain,152.48,4:38:39,3479,999,9999,999,99,32.8,79.6,Nuages,21,74,21,4.9,WNW
+435,Pierre Rolland,2021-07-02,Centre-Val de Loire,Cher,254.89,5:46:13,3135,999,9999,999,99,44.2,89.6,Quelques nuages,23,58,23,8.9,SE
+436,Pierre Rolland,2021-07-01,Centre-Val de Loire,Indre,2.42,6:28,4,999,9999,999,99,22.5,30.6,Quelques nuages,24,51,24,6.7,NNW
+437,Pierre Rolland,2021-07-01,Centre-Val de Loire,Indre,164.67,3:29:16,1019,999,9999,999,99,47.2,74.9,Quelques nuages,22,62,22,5.4,SW
+438,Pierre Rolland,2021-08-23,Auvergne-Rhône-Alpes,Loire,80.09,2:39:25,232,999,9999,999,99,30.1,47.9,Quelques nuages,19,70,19,9.9,N
+439,Pierre Rolland,2021-08-22,Auvergne-Rhône-Alpes,Loire,60.88,2:03:52,163,999,9999,999,99,29.5,43.2,Nuages,17,79,17,13.0,WNW
+440,Pierre Rolland,2021-08-19,Nouvelle-Aquitaine,Corrèze,188.01,4:22:30,2983,999,9999,999,99,43.0,83.9,Quelques nuages,18,68,18,4.9,N
+441,Pierre Rolland,2021-08-18,Nouvelle-Aquitaine,Dordogne,0.37,1:54,1,999,9999,999,99,11.8,16.6,Quelques nuages,23,54,23,9.1,NNW
+442,Pierre Rolland,2021-08-18,Nouvelle-Aquitaine,Dordogne,176.44,4:24:06,2504,999,9999,999,99,40.1,79.2,Quelques nuages,20,73,20,7.8,NW
+443,Pierre Rolland,2021-08-17,Nouvelle-Aquitaine,Vienne,193.71,4:49:15,3003,999,9999,999,99,40.2,79.9,Quelques nuages,18,67,18,10.8,NW
+444,Pierre Rolland,2021-08-16,Nouvelle-Aquitaine,Vienne,65.37,2:13:49,892,999,9999,999,99,29.3,62.3,Quelques nuages,19,70,19,13.2,NW
+445,Pierre Rolland,2021-08-16,Nouvelle-Aquitaine,Vienne,65.37,2:12:35,896,999,9999,999,99,29.6,64.4,Quelques nuages,19,70,19,13.2,NW
+446,Pierre Rolland,2021-08-15,Auvergne-Rhône-Alpes,Ain,59.56,2:04:11,1315,999,9999,999,99,28.8,86.0,Quelques nuages,17,89,17,6.2,SW
+447,Pierre Rolland,2021-08-14,Auvergne-Rhône-Alpes,Ain,187.43,6:02:45,2929,999,9999,999,99,31.0,85.3,Dégagé,19,82,19,3.7,SSE
+448,Pierre Rolland,2021-08-13,Auvergne-Rhône-Alpes,Puy-de-Dôme,0.34,1:16,0,999,9999,999,99,16.4,23.8,Quelques nuages,28,66,30,3.5,NE
+449,Pierre Rolland,2021-08-13,Auvergne-Rhône-Alpes,Ain,66.39,2:02:55,775,999,9999,999,99,32.4,79.2,Dégagé,20,81,20,4.4,NW
+450,Pierre Rolland,2021-08-12,Auvergne-Rhône-Alpes,Ain,112.78,4:09:42,2142,999,9999,999,99,27.1,71.6,Dégagé,24,66,24,5.0,SSE
+451,Pierre Rolland,2021-08-11,Auvergne-Rhône-Alpes,Ain,124.79,4:56:42,2971,999,9999,999,99,25.2,75.6,Dégagé,18,82,18,2.6,NNE
+452,Pierre Rolland,2021-08-10,Auvergne-Rhône-Alpes,Ain,176.93,6:31:31,3215,999,9999,999,99,27.1,72.7,Quelques nuages,18,60,18,3.5,SW
+453,Pierre Rolland,2021-08-09,Auvergne-Rhône-Alpes,Ain,88.82,2:47:20,964,999,9999,999,99,31.9,82.1,Nuages,13,61,13,4.2,SW
+454,Pierre Rolland,2021-08-08,Auvergne-Rhône-Alpes,Ain,29.24,1:09:39,485,999,9999,999,99,25.2,56.2,Quelques nuages,10,88,10,8.8,WSW
+455,Pierre Rolland,2021-08-07,Nouvelle-Aquitaine,Creuse,66.06,1:47:01,828,999,9999,999,99,37.0,57.6,Quelques nuages,18,67,18,19.8,WSW
+456,Pierre Rolland,2021-08-07,Nouvelle-Aquitaine,Creuse,6.63,16:21,122,999,9999,999,99,24.4,51.1,Quelques nuages,18,67,18,19.8,WSW
+457,Pierre Rolland,2021-08-07,Auvergne-Rhône-Alpes,Ain,1.89,6:04,59,999,9999,999,99,18.7,26.3,Quelques nuages,20,73,20,25.5,SW
+458,Pierre Rolland,2021-08-07,Auvergne-Rhône-Alpes,Loire,65.81,1:59:23,196,999,9999,999,99,33.1,57.6,Quelques nuages,17,79,17,20.9,SSW
+459,Pierre Rolland,2021-08-06,Auvergne-Rhône-Alpes,Loire,110.09,3:21:52,334,999,9999,999,99,32.7,54.7,Quelques nuages,17,85,17,22.0,SW
+460,Pierre Rolland,2021-08-05,Auvergne-Rhône-Alpes,Loire,139.73,4:13:27,380,999,9999,999,99,33.1,52.2,Nuages,17,83,17,13.8,WSW
+461,Pierre Rolland,2021-08-03,Auvergne-Rhône-Alpes,Loire,2.27,5:17,109,999,9999,999,99,25.8,32.8,Nuages,17,73,17,12.2,SW
+462,Pierre Rolland,2021-08-03,Auvergne-Rhône-Alpes,Loire,101.39,3:25:50,533,999,9999,999,99,29.6,42.5,Nuages,17,88,17,12.5,W
+463,Pierre Rolland,2021-08-02,Auvergne-Rhône-Alpes,Loire,93.2,3:01:31,228,999,9999,999,99,30.8,56.9,Quelques nuages,19,79,19,11.4,WSW
+464,Pierre Rolland,2021-09-23,Auvergne-Rhône-Alpes,Loire,47.43,1:49:59,112,999,9999,999,99,25.9,41.8,Dégagé,15,77,15,5.3,NNE
+465,Pierre Rolland,2021-09-16,Auvergne-Rhône-Alpes,Ain,188.38,4:21:46,2439,999,9999,999,99,43.2,88.6,Quelques nuages,15,82,15,12.1,N
+466,Pierre Rolland,2021-09-16,Auvergne-Rhône-Alpes,Ain,0.03,8s,0,999,9999,999,99,13.4,14.8,Quelques nuages,15,82,15,12.1,N
+467,Pierre Rolland,2021-09-12,Auvergne-Rhône-Alpes,Ain,62.58,2:07:15,1344,999,9999,999,99,29.5,81.4,Quelques nuages,13,83,13,4.7,ESE
+468,Pierre Rolland,2021-09-11,Auvergne-Rhône-Alpes,Ain,136.14,4:42:03,2035,999,9999,999,99,29.0,76.0,Quelques nuages,12,88,12,3.1,ESE
+469,Pierre Rolland,2021-09-10,Auvergne-Rhône-Alpes,Loire,37.86,1:28:30,98,999,9999,999,99,25.7,39.6,Quelques nuages,19,93,19,12.3,SW
+470,Pierre Rolland,2021-09-09,Auvergne-Rhône-Alpes,Loire,84.3,2:45:02,276,999,9999,999,99,30.6,54.4,Quelques nuages,21,87,21,13.5,SW
+471,Pierre Rolland,2021-09-08,Auvergne-Rhône-Alpes,Loire,153.27,4:31:01,649,999,9999,999,99,33.9,59.4,Quelques nuages,24,66,25,8.7,S
+472,Pierre Rolland,2021-09-07,Auvergne-Rhône-Alpes,Loire,75.94,2:30:59,156,999,9999,999,99,30.2,52.2,Dégagé,21,60,21,13.8,E
+473,Pierre Rolland,2021-09-06,Auvergne-Rhône-Alpes,Loire,38.87,1:27:15,72,999,9999,999,99,26.7,37.4,Dégagé,23,61,23,9.9,E
+474,Pierre Rolland,2021-09-05,Bourgogne-Franche-Comté,Doubs,506.64,4:41:38,2712,999,9999,999,99,107.9,163.1,Quelques nuages,20,66,20,6.2,NNE
+475,Pierre Rolland,2021-09-05,Bourgogne-Franche-Comté,Doubs,203.34,5:05:06,3002,999,9999,999,99,40.0,79.9,Quelques nuages,20,63,20,3.3,E
+476,Pierre Rolland,2021-09-04,Bourgogne-Franche-Comté,Jura,185.11,4:32:09,2761,999,9999,999,99,40.8,78.5,Quelques nuages,23,80,23,5.0,WNW
+477,Pierre Rolland,2021-09-04,Bourgogne-Franche-Comté,Jura,0.67,34s,2,999,9999,999,99,71.4,78.8,Quelques nuages,17,87,17,3.6,ESE
+478,Pierre Rolland,2021-09-03,Auvergne-Rhône-Alpes,Loire,48.94,1:41:18,116,999,9999,999,99,29.0,47.2,Quelques nuages,18,75,18,5.1,ESE
+479,Pierre Rolland,2021-09-02,Auvergne-Rhône-Alpes,Loire,60.69,1:58:51,118,999,9999,999,99,30.6,48.6,Dégagé,19,72,19,18.4,ENE
+480,Pierre Rolland,2021-09-01,Auvergne-Rhône-Alpes,Loire,135.62,3:57:29,446,999,9999,999,99,34.3,56.2,Dégagé,20,68,20,21.0,NE
+481,Pierre Rolland,2021-10-19,Auvergne-Rhône-Alpes,Loire,30.46,1:13:44,88,999,9999,999,99,24.8,38.5,Quelques nuages,14,81,14,12.7,SSW
+482,Pierre Rolland,2021-10-18,Auvergne-Rhône-Alpes,Loire,56.79,2:01:58,161,999,9999,999,99,27.9,39.6,Nuages,12,87,12,11.0,S
+483,Pierre Rolland,2021-10-16,Auvergne-Rhône-Alpes,Loire,35.38,1:42:08,137,999,9999,999,99,20.8,44.6,Dégagé,17,67,17,8.4,ENE
+484,Pierre Rolland,2021-11-30,Auvergne-Rhône-Alpes,Loire,82.65,2:58:39,298,999,9999,999,99,27.8,47.7,Nuages,3,91,2,21.6,SW
+485,Pierre Rolland,2021-11-29,Auvergne-Rhône-Alpes,Loire,53.42,1:53:08,149,999,9999,999,99,28.3,47.8,Quelques nuages,4,75,1,12.1,NW
+486,Pierre Rolland,2021-11-28,Auvergne-Rhône-Alpes,Loire,70.88,3:36:02,404,999,9999,999,99,19.7,41.7,Nuages,3,86,2,24.3,NW
+487,Pierre Rolland,2021-11-26,Auvergne-Rhône-Alpes,Loire,43.65,1:37:07,127,999,9999,999,99,27.0,41.4,Nuages,4,89,1,11.7,WSW
+488,Pierre Rolland,2021-11-24,Auvergne-Rhône-Alpes,Loire,99.67,3:20:50,544,999,9999,999,99,29.8,48.6,Dégagé,3,81,2,29.3,NE
+489,Pierre Rolland,2021-11-22,Auvergne-Rhône-Alpes,Loire,98.55,3:18:46,553,999,9999,999,99,29.8,53.6,Quelques nuages,6,97,1,37.0,NE
+490,Pierre Rolland,2021-11-21,Bretagne,Morbihan,72.61,2:13:08,723,999,9999,999,99,32.7,58.0,Quelques nuages,7,98,6,8.5,NW
+491,Pierre Rolland,2021-11-20,Auvergne-Rhône-Alpes,Loire,49.34,1:42:57,131,999,9999,999,99,28.8,47.8,Dégagé,3,91,2,7.5,E
+492,Pierre Rolland,2021-11-19,Auvergne-Rhône-Alpes,Loire,54.5,1:56:14,145,999,9999,999,99,28.1,40.6,Dégagé,9,72,9,6.2,NE
+493,Pierre Rolland,2021-11-18,Auvergne-Rhône-Alpes,Ain,0.96,2:32,2,999,9999,999,99,22.9,31.2,Quelques nuages,12,62,12,5.7,N
+494,Pierre Rolland,2021-11-18,Auvergne-Rhône-Alpes,Loire,61.77,2:11:07,149,999,9999,999,99,28.3,45.1,Quelques nuages,9,74,8,5.4,NNE
+495,Pierre Rolland,2021-11-17,Auvergne-Rhône-Alpes,Loire,47.95,1:43:48,119,999,9999,999,99,27.7,46.7,Nuages,9,87,8,7.2,WNW
+496,Pierre Rolland,2021-11-16,Auvergne-Rhône-Alpes,Loire,72.95,2:40:16,286,999,9999,999,99,27.3,39.7,Nuages,7,81,6,6.6,N
+497,Pierre Rolland,2021-11-15,Auvergne-Rhône-Alpes,Loire,45.27,1:39:02,111,999,9999,999,99,27.4,39.8,Quelques nuages,10,74,10,15.5,NNE
+498,Pierre Rolland,2021-11-14,Auvergne-Rhône-Alpes,Ain,163.69,1:27:37,1019,999,9999,999,99,112.1,159.9,Quelques nuages,12,70,12,18.0,NNE
+499,Pierre Rolland,2021-11-14,Auvergne-Rhône-Alpes,Ain,50.55,1:51:50,731,999,9999,999,99,27.1,56.3,Quelques nuages,11,81,11,17.2,NNE
+500,Pierre Rolland,2021-11-13,Bretagne,Côtes-d'Armor,0.31,1:40,0,999,9999,999,99,11.4,20.7,Nuages,14,80,14,21.9,NW
+501,Pierre Rolland,2021-11-13,Bretagne,Côtes-d'Armor,104.13,3:23:41,424,999,9999,999,99,30.7,65.1,Quelques nuages,12,87,12,23.9,NW
+502,Pierre Rolland,2021-11-12,Bretagne,Côtes-d'Armor,47.85,1:50:37,460,999,9999,999,99,26.0,50.4,Pluie,13,98,13,31.6,SW
+503,Pierre Rolland,2021-11-10,Auvergne-Rhône-Alpes,Loire,47.96,1:45:45,112,999,9999,999,99,27.2,46.1,Quelques nuages,4,83,3,5.1,ENE
+504,Pierre Rolland,2021-11-09,Auvergne-Rhône-Alpes,Loire,59.64,2:06:49,158,999,9999,999,99,28.2,39.3,Quelques nuages,8,70,7,6.9,NE
+505,Pierre Rolland,2021-11-08,Auvergne-Rhône-Alpes,Loire,39.22,1:27:48,184,999,9999,999,99,26.8,38.6,Quelques nuages,10,74,10,6.0,N
+506,Pierre Rolland,2021-11-06,Auvergne-Rhône-Alpes,Loire,41.27,1:33:13,86,999,9999,999,99,26.6,40.0,Dégagé,11,60,11,7.7,W
+507,Pierre Rolland,2021-12-31,Auvergne-Rhône-Alpes,Ain,147.67,5:09:54,2503,999,9999,999,99,28.6,82.3,Dégagé,8,47,7,8.5,WSW
+508,Pierre Rolland,2021-12-30,Auvergne-Rhône-Alpes,Ain,106.08,3:58:03,999,999,9999,999,99,26.7,67.7,Quelques nuages,6,98,6,3.8,N
+509,Pierre Rolland,2021-12-29,Auvergne-Rhône-Alpes,Ain,0.39,18:24,9,999,9999,999,99,1.3,9.2,Pluie,7,98,4,18.1,WSW
+510,Pierre Rolland,2021-12-28,Auvergne-Rhône-Alpes,Ain,0.29,11:20,11,999,9999,999,99,1.6,7.5,Pluie,5,100,0,26.0,W
+511,Pierre Rolland,2021-12-27,Auvergne-Rhône-Alpes,Ain,0.74,31:04,23,999,9999,999,99,1.4,10.8,Pluie,4,100,0,21.4,SW
+512,Pierre Rolland,2021-12-26,Auvergne-Rhône-Alpes,Ain,0.37,8:50,3,999,9999,999,99,2.6,13.7,Neige,3,100,0,11.8,SW
+513,Pierre Rolland,2021-12-25,Auvergne-Rhône-Alpes,Ain,40.9,1:28:37,670,999,9999,999,99,27.7,72.3,Nuages,3,100,2,5.1,SSW
+514,Pierre Rolland,2021-12-24,Auvergne-Rhône-Alpes,Ain,0.12,1:12,0,999,9999,999,99,6.3,10.7,Nuages,7,93,6,7.7,SSW
+515,Pierre Rolland,2021-12-24,Auvergne-Rhône-Alpes,Ain,74.94,2:50:43,534,999,9999,999,99,26.3,77.9,Nuages,4,100,2,7.5,SSW
+516,Pierre Rolland,2021-12-23,Auvergne-Rhône-Alpes,Ain,104.77,3:58:07,2178,999,9999,999,99,26.4,66.9,Nuages,3,99,2,6.9,S
+517,Pierre Rolland,2021-12-21,Auvergne-Rhône-Alpes,Ain,7.13,32:22,170,999,9999,999,99,13.2,30.0,Dégagé,3,63,3,3.9,SSW
+518,Pierre Rolland,2021-12-21,Auvergne-Rhône-Alpes,Ain,56.13,2:07:43,1008,999,9999,999,99,26.4,83.1,Dégagé,6,66,6,2.5,W
+519,Pierre Rolland,2021-12-09,Auvergne-Rhône-Alpes,Ain,0.95,2:16,18,999,9999,999,99,25.4,31.8,Nuages,5,77,1,15.5,SW
+520,Pierre Rolland,2021-12-09,Auvergne-Rhône-Alpes,Loire,51.34,1:42:13,138,999,9999,999,99,30.1,49.6,Quelques nuages,3,89,1,13.9,SW
+521,Pierre Rolland,2021-12-08,Auvergne-Rhône-Alpes,Loire,98.79,3:24:14,359,999,9999,999,99,29.0,46.4,Quelques nuages,5,85,1,16.7,SSW
+522,Pierre Rolland,2021-12-07,Auvergne-Rhône-Alpes,Ain,14.17,37:33,31,999,9999,999,99,22.7,45.6,Nuages,3,92,0,13.5,SSE
+523,Pierre Rolland,2021-12-06,Auvergne-Rhône-Alpes,Loire,57.53,1:58:20,138,999,9999,999,99,29.2,43.4,Nuages,4,85,2,9.5,NNW
+524,Pierre Rolland,2021-12-03,Auvergne-Rhône-Alpes,Loire,58.73,2:05:03,157,999,9999,999,99,28.2,45.1,Nuages,1,95,4,15.7,SSW
+525,Pierre Rolland,2021-12-02,Auvergne-Rhône-Alpes,Loire,104.5,3:40:50,369,999,9999,999,99,28.4,47.2,Quelques nuages,3,85,1,18.2,NNW
